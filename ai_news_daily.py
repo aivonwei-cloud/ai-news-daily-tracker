@@ -75,7 +75,7 @@ def clean_text(text):
     return text
 
 
-def make_summary(text, max_len=100):
+def make_summary(text, max_len=200):
     """生成清晰摘要：优先保留完整句子，避免截断在句子中间"""
     text = clean_text(text)
     if not text:
@@ -109,6 +109,55 @@ def make_summary(text, max_len=100):
             summary = summary.rstrip() + "…"
     
     return summary
+
+
+def fetch_article_content(url):
+    """简单抓取文章第一段作为补充摘要"""
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; AINewsTracker/1.0)"
+        }
+        resp = requests.get(url, headers=headers, timeout=10)
+        resp.encoding = resp.apparent_encoding
+        html = resp.text
+        
+        # 简单提取正文段落（去除HTML标签）
+        # 尝试找到文章主体内容
+        from html.parser import HTMLParser
+        
+        class ParagraphExtractor(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.paragraphs = []
+                self.current = ""
+                self.in_p = False
+            
+            def handle_starttag(self, tag, attrs):
+                if tag == "p":
+                    self.in_p = True
+                    self.current = ""
+            
+            def handle_endtag(self, tag):
+                if tag == "p" and self.in_p:
+                    self.in_p = False
+                    text = clean_text(self.current)
+                    if len(text) > 50:  # 只保留有意义的长段落
+                        self.paragraphs.append(text)
+            
+            def handle_data(self, data):
+                if self.in_p:
+                    self.current += data
+        
+        parser = ParagraphExtractor()
+        parser.feed(html)
+        
+        # 返回前两个段落的合并（最多300字）
+        if parser.paragraphs:
+            full_text = " ".join(parser.paragraphs[:2])
+            return make_summary(full_text, max_len=250)
+    except:
+        pass
+    return ""
 
 
 def fetch_feeds():
@@ -147,7 +196,7 @@ def fetch_feeds():
                 elif hasattr(entry, "description") and entry.description:
                     summary = entry.description
                 
-                summary = make_summary(summary, max_len=120)
+                summary = make_summary(summary, max_len=200)
 
                 articles.append({
                     "title": title,
@@ -159,6 +208,20 @@ def fetch_feeds():
                 })
         except Exception as e:
             print(f"[WARN] 获取RSS失败 {feed['url']}: {e}", file=sys.stderr)
+    
+    # 对摘要太短的文章，尝试抓取网页补充（限制数量，避免运行时间过长）
+    fetch_count = 0
+    max_fetch = 10  # 最多抓取10篇文章
+    for a in articles:
+        if fetch_count >= max_fetch:
+            break
+        if len(a["summary"]) < 30 and a["link"]:  # 摘要少于30字才补充
+            print(f"  补充摘要: {a['title'][:40]}...")
+            extra = fetch_article_content(a["link"])
+            if extra and len(extra) > len(a["summary"]):
+                a["summary"] = extra
+                fetch_count += 1
+    
     return articles
 
 
