@@ -61,6 +61,56 @@ TZ = timezone(timedelta(hours=8))
 
 # ── 工具函数 ──────────────────────────────────────────
 
+def clean_text(text):
+    """清理文本：去除HTML标签、转义字符，返回干净文本"""
+    if not text:
+        return ""
+    import html as _html
+    # 先转义HTML实体
+    text = _html.unescape(text)
+    # 去除HTML标签
+    text = re.sub(r"<[^>]+>", "", text)
+    # 合并多余空白
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def make_summary(text, max_len=100):
+    """生成清晰摘要：优先保留完整句子，避免截断在句子中间"""
+    text = clean_text(text)
+    if not text:
+        return ""
+    
+    # 尝试按句子分割（中文用。！？；，英文用. ! ?）
+    sentences = re.split(r"([。！？；\n]|\.\s+|!\s+|\?\s+)", text)
+    
+    summary = ""
+    for i in range(0, len(sentences)-1, 2):
+        if i+1 < len(sentences):
+            sentence = sentences[i] + sentences[i+1]
+        else:
+            sentence = sentences[i]
+        sentence = sentence.strip()
+        if not sentence:
+            continue
+        # 如果加这句会超长，且已有内容，则停止
+        if len(summary) + len(sentence) > max_len:
+            if summary:
+                break
+            else:
+                # 实在没办法，截断
+                return sentence[:max_len-1] + "…"
+        summary += sentence
+    
+    # 如果没有按句子分割成功，直接截断
+    if not summary:
+        summary = text[:max_len]
+        if len(text) > max_len:
+            summary = summary.rstrip() + "…"
+    
+    return summary
+
+
 def fetch_feeds():
     """拉取所有RSS源，返回文章列表"""
     articles = []
@@ -87,17 +137,22 @@ def fetch_feeds():
 
                 title = entry.get("title", "").strip()
                 link = entry.get("link", "").strip()
-                summary = entry.get("summary", "")
-                if summary:
-                    import html as _html
-                    summary = re.sub(r"<[^>]+>", "", _html.unescape(summary))
-                    if len(summary) > 200:
-                        summary = summary[:200] + "..."
+                
+                # 获取摘要，优先用 content，其次 summary
+                summary = ""
+                if hasattr(entry, "content") and entry.content:
+                    summary = entry.content[0].value
+                elif hasattr(entry, "summary") and entry.summary:
+                    summary = entry.summary
+                elif hasattr(entry, "description") and entry.description:
+                    summary = entry.description
+                
+                summary = make_summary(summary, max_len=120)
 
                 articles.append({
                     "title": title,
                     "link": link,
-                    "summary": summary.strip() if summary else "",
+                    "summary": summary,
                     "published": published,
                     "lang": feed["lang"],
                     "source": parsed.feed.get("title", ""),
@@ -171,23 +226,24 @@ def build_message(grouped):
                 title_escaped = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
                 link = a["link"]
                 lines.append(f"· <a href='{link}'>{title_escaped}</a>")
-
-                # 显示来源媒体
+                
+                # 显示来源和摘要
                 source = a.get("source", "")
-                if source:
-                    lines.append(f"  <i>来源：{source}</i>")
-
-                # 显示摘要（清理HTML标签，限制长度）
                 summary = a.get("summary", "")
+                
+                # 来源 + 摘要合并显示，更紧凑
+                meta_parts = []
+                if source:
+                    meta_parts.append(f"📌 {source}")
                 if summary:
-                    # 再次清理防止残留HTML
-                    import html as _html
-                    summary = re.sub(r"<[^>]+>", "", _html.unescape(summary)).strip()
-                    if len(summary) > 80:
-                        summary = summary[:77] + "..."
-                    if summary:
-                        lines.append(f"  {summary}")
-        lines.append("")
+                    # 清理摘要，确保没有残留HTML
+                    summary_clean = clean_text(summary)
+                    if summary_clean:
+                        meta_parts.append(f"📝 {summary_clean}")
+                
+                if meta_parts:
+                    lines.append(f"  <i>{'  |  '.join(meta_parts)}</i>")
+                lines.append("")  # 每条新闻之间空行
 
     now = datetime.now(TZ).strftime("%H:%M")
     lines.append("━━━━━━━━━━━━━━━")
