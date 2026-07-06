@@ -171,9 +171,22 @@ def build_message(grouped):
                 title_escaped = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
                 link = a["link"]
                 lines.append(f"· <a href='{link}'>{title_escaped}</a>")
-                if a["summary"]:
-                    summary = a["summary"][:100]
-                    lines.append(f"  <i>{summary}</i>")
+
+                # 显示来源媒体
+                source = a.get("source", "")
+                if source:
+                    lines.append(f"  <i>来源：{source}</i>")
+
+                # 显示摘要（清理HTML标签，限制长度）
+                summary = a.get("summary", "")
+                if summary:
+                    # 再次清理防止残留HTML
+                    import html as _html
+                    summary = re.sub(r"<[^>]+>", "", _html.unescape(summary)).strip()
+                    if len(summary) > 80:
+                        summary = summary[:77] + "..."
+                    if summary:
+                        lines.append(f"  {summary}")
         lines.append("")
 
     now = datetime.now(TZ).strftime("%H:%M")
