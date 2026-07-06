@@ -1,0 +1,30 @@
+name: 每日AI行业动态跟踪
+
+on:
+  schedule:
+    # 每天北京时间10:00 (UTC 2:00)
+    - cron: "0 2 * * *"
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  ai-news-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 抓取并推送AI日报
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python ai_news_daily.py

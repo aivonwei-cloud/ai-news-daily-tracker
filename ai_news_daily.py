@@ -1,0 +1,238 @@
+"""
+每日AI行业动态跟踪脚本
+通过RSS聚合中外AI科技媒体，分类整理后推送到Telegram
+"""
+
+import os
+import sys
+import json
+import re
+from datetime import datetime, timedelta, timezone
+from collections import defaultdict
+
+import feedparser
+import requests
+
+# ── 配置 ──────────────────────────────────────────────
+TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+
+CATEGORIES = {
+    "🆕 新产品/工具": [
+        "launch", "release", "update", "feature", "tool", "product", "app", "plugin", "integrat",
+        "roll out", "announce", "debut", "upgrade", "新功能", "发布", "上线", "推出", "产品",
+        "工具", "应用", "插件", "更新", "升级", "开放", "公测", "内测", "上线了", "上新"
+    ],
+    "💰 投融资事件": [
+        "funding", "investment", "raise", "VC", "acquisition", "merger", "IPO",
+        "valuation", "series", "round", "investor", "startup funding",
+        "融资", "投资", "收购", "上市", "估值", "轮融资", "募资", "战投", "入股", "注资"
+    ],
+    "🔬 技术突破/模型": [
+        "model", "paper", "research", "breakthrough", "benchmark", "training",
+        "parameter", "open source", "deep learning", "neural", "transformer",
+        "LLM", "GPT", "Gemini", "Claude", "diffusion", "multimodal", "reasoning",
+        "模型", "论文", "突破", "参数", "训练", "开源", "推理", "多模态",
+        "大模型", "基座模型", "千亿", "万亿", "发布.*模型", "研究"
+    ],
+    "📋 政策与监管": [
+        "regulation", "policy", "law", "government", "compliance", "ban",
+        "legislation", "act", "executive order", "guideline", "framework",
+        "政策", "监管", "法规", "政府", "合规", "立法", "暂行办法", "指导意见",
+        "管理办法", "安全评估", "数据安全", "隐私"
+    ],
+}
+
+# ── RSS源列表 ─────────────────────────────────────────
+RSS_FEEDS = [
+    # 中文AI媒体
+    {"url": "https://www.jiqizhixin.com/rss", "lang": "zh"},
+    {"url": "https://www.qbitai.com/feed", "lang": "zh"},
+    # 英文AI媒体
+    {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "lang": "en"},
+    {"url": "https://venturebeat.com/category/ai/feed/", "lang": "en"},
+    {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "lang": "en"},
+    {"url": "https://www.artificialintelligence-news.com/feed/", "lang": "en"},
+    {"url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "lang": "en"},
+]
+
+# UTC+8 时区
+TZ = timezone(timedelta(hours=8))
+
+# ── 工具函数 ──────────────────────────────────────────
+
+def fetch_feeds():
+    """拉取所有RSS源，返回文章列表"""
+    articles = []
+    for feed in RSS_FEEDS:
+        try:
+            parsed = feedparser.parse(feed["url"])
+            for entry in parsed.entries:
+                # 解析发布时间
+                published = None
+                for attr in ("published_parsed", "updated_parsed"):
+                    t = getattr(entry, attr, None)
+                    if t:
+                        from time import mktime
+                        published = datetime.fromtimestamp(mktime(t), tz=TZ)
+                        break
+
+                if published is None:
+                    published = datetime.now(TZ)
+
+                # 只保留24小时内的文章
+                cutoff = datetime.now(TZ) - timedelta(hours=36)
+                if published < cutoff:
+                    continue
+
+                title = entry.get("title", "").strip()
+                link = entry.get("link", "").strip()
+                summary = entry.get("summary", "")
+                if summary:
+                    import html as _html
+                    summary = re.sub(r"<[^>]+>", "", _html.unescape(summary))
+                    if len(summary) > 200:
+                        summary = summary[:200] + "..."
+
+                articles.append({
+                    "title": title,
+                    "link": link,
+                    "summary": summary.strip() if summary else "",
+                    "published": published,
+                    "lang": feed["lang"],
+                    "source": parsed.feed.get("title", ""),
+                })
+        except Exception as e:
+            print(f"[WARN] 获取RSS失败 {feed['url']}: {e}", file=sys.stderr)
+    return articles
+
+
+def categorize(article):
+    """根据标题+摘要关键词分类"""
+    text = (article["title"] + " " + article["summary"]).lower()
+    for cat_name, keywords in CATEGORIES.items():
+        for kw in keywords:
+            if kw.lower() in text:
+                return cat_name
+    return None
+
+
+def classify_all(articles):
+    """分类所有文章"""
+    grouped = defaultdict(list)
+    seen = set()
+    for a in articles:
+        # 去重
+        key = a["title"][:60]
+        if key in seen:
+            continue
+        seen.add(key)
+
+        cat = categorize(a)
+        if cat:
+            grouped[cat].append(a)
+    return grouped
+
+
+def build_message(grouped):
+    """构建Telegram消息"""
+    today = datetime.now(TZ).strftime("%Y-%m-%d")
+    lines = [f"📡 <b>AI行业动态早报</b> | {today}", ""]
+
+    for idx, (cat_name, articles) in enumerate([
+        ("🆕 新产品/工具", grouped.get("🆕 新产品/工具", [])),
+        ("💰 投融资事件", grouped.get("💰 投融资事件", [])),
+        ("🔬 技术突破/模型", grouped.get("🔬 技术突破/模型", [])),
+        ("📋 政策与监管", grouped.get("📋 政策与监管", [])),
+    ]):
+        lines.append("━━━━━━━━━━━━━━━")
+        lines.append(f"{cat_name}")
+        lines.append("━━━━━━━━━━━━━━━")
+
+        if not articles:
+            lines.append("  今日无重大动态")
+        else:
+            # 去重并排序，取前5条
+            unique = []
+            seen_titles = set()
+            for a in sorted(articles, key=lambda x: x["published"], reverse=True):
+                short = a["title"][:60]
+                if short not in seen_titles:
+                    seen_titles.add(short)
+                    unique.append(a)
+                if len(unique) >= 5:
+                    break
+
+            for a in unique:
+                title = a["title"]
+                if len(title) > 80:
+                    title = title[:77] + "..."
+                # 对HTML特殊字符转义
+                title_escaped = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+                link = a["link"]
+                lines.append(f"· <a href='{link}'>{title_escaped}</a>")
+                if a["summary"]:
+                    summary = a["summary"][:100]
+                    lines.append(f"  <i>{summary}</i>")
+        lines.append("")
+
+    now = datetime.now(TZ).strftime("%H:%M")
+    lines.append("━━━━━━━━━━━━━━━")
+    lines.append(f"📎 由 WorkBuddy 自动生成 | {now}")
+
+    return "\n".join(lines)
+
+
+def send_telegram(msg):
+    """发送消息到Telegram"""
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    
+    # 如果消息过长，分段发送
+    max_len = 4000
+    if len(msg) <= max_len:
+        resp = requests.post(url, data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": msg,
+            "parse_mode": "HTML",
+        }, timeout=30)
+        if not resp.json().get("ok"):
+            print(f"[ERROR] Telegram发送失败: {resp.text}", file=sys.stderr)
+        else:
+            print("[OK] Telegram推送成功")
+    else:
+        parts = [msg[i:i+max_len] for i in range(0, len(msg), max_len)]
+        for i, part in enumerate(parts):
+            if i > 0:
+                part = "（续上）\n" + part
+            resp = requests.post(url, data={
+                "chat_id": TELEGRAM_CHAT_ID,
+                "text": part,
+                "parse_mode": "HTML",
+            }, timeout=30)
+            if resp.json().get("ok"):
+                print(f"[OK] Telegram推送第{i+1}段成功")
+            else:
+                print(f"[ERROR] Telegram推送第{i+1}段失败: {resp.text}", file=sys.stderr)
+
+
+# ── 主流程 ─────────────────────────────────────────────
+
+def main():
+    print(f"[{datetime.now(TZ).strftime('%Y-%m-%d %H:%M:%S')}] 开始抓取AI新闻...")
+    
+    articles = fetch_feeds()
+    print(f"  拉取到 {len(articles)} 篇文章（24小时内）")
+
+    grouped = classify_all(articles)
+    total = sum(len(v) for v in grouped.values())
+    print(f"  分类完成: {total} 篇有效文章")
+    for cat, arts in grouped.items():
+        print(f"    {cat}: {len(arts)} 篇")
+
+    msg = build_message(grouped)
+    send_telegram(msg)
+    print("  任务完成")
+
+
+if __name__ == "__main__":
+    main()
