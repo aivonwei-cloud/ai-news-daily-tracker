@@ -263,50 +263,50 @@ def build_message(grouped):
         ("🔬 技术突破/模型", grouped.get("🔬 技术突破/模型", [])),
         ("📋 政策与监管", grouped.get("📋 政策与监管", [])),
     ]):
+        if not articles:
+            continue  # 无内容的分类直接跳过
+
         lines.append("━━━━━━━━━━━━━━━")
         lines.append(f"{cat_name}")
         lines.append("━━━━━━━━━━━━━━━")
 
-        if not articles:
-            lines.append("  今日无重大动态")
-        else:
-            # 去重并排序，取前5条
-            unique = []
-            seen_titles = set()
-            for a in sorted(articles, key=lambda x: x["published"], reverse=True):
-                short = a["title"][:60]
-                if short not in seen_titles:
-                    seen_titles.add(short)
-                    unique.append(a)
-                if len(unique) >= 5:
-                    break
+        # 去重并排序，取前5条
+        unique = []
+        seen_titles = set()
+        for a in sorted(articles, key=lambda x: x["published"], reverse=True):
+            short = a["title"][:60]
+            if short not in seen_titles:
+                seen_titles.add(short)
+                unique.append(a)
+            if len(unique) >= 5:
+                break
 
-            for a in unique:
-                title = a["title"]
-                if len(title) > 80:
-                    title = title[:77] + "..."
-                # 对HTML特殊字符转义
-                title_escaped = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-                link = a["link"]
-                lines.append(f"· <a href='{link}'>{title_escaped}</a>")
-                
-                # 显示来源和摘要
-                source = a.get("source", "")
-                summary = a.get("summary", "")
-                
-                # 来源 + 摘要合并显示，更紧凑
-                meta_parts = []
-                if source:
-                    meta_parts.append(f"📌 {source}")
-                if summary:
-                    # 清理摘要，确保没有残留HTML
-                    summary_clean = clean_text(summary)
-                    if summary_clean:
-                        meta_parts.append(f"📝 {summary_clean}")
-                
-                if meta_parts:
-                    lines.append(f"  <i>{'  |  '.join(meta_parts)}</i>")
-                lines.append("")  # 每条新闻之间空行
+        for a in unique:
+            title = a["title"]
+            if len(title) > 80:
+                title = title[:77] + "..."
+            # 对HTML特殊字符转义
+            title_escaped = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            link = a["link"]
+            lines.append(f"· <a href='{link}'>{title_escaped}</a>")
+            
+            # 显示来源和摘要
+            source = a.get("source", "")
+            summary = a.get("summary", "")
+            
+            # 来源 + 摘要合并显示，更紧凑
+            meta_parts = []
+            if source:
+                meta_parts.append(f"📌 {source}")
+            if summary:
+                # 清理摘要，确保没有残留HTML
+                summary_clean = clean_text(summary)
+                if summary_clean:
+                    meta_parts.append(f"📝 {summary_clean}")
+            
+            if meta_parts:
+                lines.append(f"  <i>{'  |  '.join(meta_parts)}</i>")
+            lines.append("")  # 每条新闻之间空行
 
     now = datetime.now(TZ).strftime("%H:%M")
     lines.append("━━━━━━━━━━━━━━━")
