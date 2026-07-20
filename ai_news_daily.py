@@ -252,6 +252,13 @@ def classify_all(articles):
     return grouped
 
 
+def htmlescape(text):
+    """转义HTML特殊字符，防止Telegram HTML解析错误"""
+    if not text:
+        return ""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def build_message(grouped):
     """构建Telegram消息"""
     today = datetime.now(TZ).strftime("%Y-%m-%d")
@@ -290,8 +297,8 @@ def build_message(grouped):
             link = a["link"]
             lines.append(f"· <a href='{link}'>{title_escaped}</a>")
             
-            # 显示来源和摘要
-            source = a.get("source", "")
+            # 显示来源和摘要（需要HTML转义）
+            source = htmlescape(a.get("source", ""))
             summary = a.get("summary", "")
             
             # 来源 + 摘要合并显示，更紧凑
@@ -299,13 +306,13 @@ def build_message(grouped):
             if source:
                 meta_parts.append(f"📌 {source}")
             if summary:
-                # 清理摘要，确保没有残留HTML
-                summary_clean = clean_text(summary)
+                # 清理摘要并转义HTML
+                summary_clean = htmlescape(clean_text(summary))
                 if summary_clean:
                     meta_parts.append(f"📝 {summary_clean}")
             
             if meta_parts:
-                lines.append(f"  <i>{'  |  '.join(meta_parts)}</i>")
+                lines.append(f"  {'  |  '.join(meta_parts)}")
             lines.append("")  # 每条新闻之间空行
 
     now = datetime.now(TZ).strftime("%H:%M")
@@ -319,7 +326,7 @@ def send_telegram(msg):
     """发送消息到Telegram"""
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     
-    # 如果消息过长，分段发送
+    # 如果消息过长，按行分段发送（避免截断HTML标签）
     max_len = 4000
     if len(msg) <= max_len:
         resp = requests.post(url, data={
@@ -332,7 +339,25 @@ def send_telegram(msg):
         else:
             print("[OK] Telegram推送成功")
     else:
-        parts = [msg[i:i+max_len] for i in range(0, len(msg), max_len)]
+        # 按行分段，避免截断HTML标签
+        lines = msg.split("\n")
+        parts = []
+        current = ""
+        for line in lines:
+            test = current + ("\n" if current else "") + line
+            if len(test) > max_len:
+                if current:
+                    parts.append(current)
+                    current = line
+                else:
+                    # 单行超过限制，强制截断
+                    parts.append(line[:max_len])
+                    current = ""
+            else:
+                current = test
+        if current:
+            parts.append(current)
+        
         for i, part in enumerate(parts):
             if i > 0:
                 part = "（续上）\n" + part
