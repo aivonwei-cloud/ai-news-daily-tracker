@@ -367,26 +367,22 @@ def build_message(grouped):
             if len(title) > 80:
                 title = title[:77] + "..."
             # 对HTML特殊字符转义
-            title_escaped = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            title_escaped = htmlescape(title)
             link = a["link"]
-            lines.append(f"· <a href='{link}'>{title_escaped}</a>")
-            
-            # 显示来源和摘要（需要HTML转义）
             source = htmlescape(a.get("source", ""))
-            summary = a.get("summary", "")
-            
-            # 来源 + 摘要合并显示，更紧凑
-            meta_parts = []
+
+            # 来源放在标题后面
             if source:
-                meta_parts.append(f"📌 {source}")
+                lines.append(f"· <a href='{link}'>{title_escaped}</a> [{source}]")
+            else:
+                lines.append(f"· <a href='{link}'>{title_escaped}</a>")
+            
+            # 摘要单独一行
+            summary = a.get("summary", "")
             if summary:
-                # 清理摘要并转义HTML
                 summary_clean = htmlescape(clean_text(summary))
                 if summary_clean:
-                    meta_parts.append(f"📝 {summary_clean}")
-            
-            if meta_parts:
-                lines.append(f"  {'  |  '.join(meta_parts)}")
+                    lines.append(f"  📝 {summary_clean}")
             lines.append("")  # 每条新闻之间空行
 
     now = datetime.now(TZ).strftime("%H:%M")
