@@ -111,6 +111,71 @@ def make_summary(text, max_len=200):
     return summary
 
 
+# 常见英文媒体中文名称映射（避免频繁调用翻译API）
+SOURCE_NAME_MAP = {
+    "TechCrunch": "TechCrunch",
+    "VentureBeat": "VentureBeat",
+    "The Verge": "The Verge",
+    "MIT News": "MIT新闻",
+    "AI News": "AI新闻网",
+    "Artificial Intelligence News": "人工智能新闻网",
+}
+
+import urllib.parse
+import time as _time
+
+def translate_to_chinese(text):
+    """使用 Google Translate 免费 API 将英文翻译为中文。
+    翻译失败时返回原文（不中断流程）。"""
+    if not text or not text.strip():
+        return text
+    try:
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {
+            "client": "gtx",
+            "sl": "en",
+            "tl": "zh-CN",
+            "dt": "t",
+            "q": text,
+        }
+        resp = requests.get(url, params=params, timeout=10,
+                            headers={"User-Agent": "Mozilla/5.0 (compatible; AINewsTracker/1.0)"})
+        data = resp.json()
+        # Google Translate 返回格式: [[["翻译片段","原文片段",...],...], ...]
+        translated = "".join(seg[0] for seg in data[0] if seg[0])
+        return translated.strip() if translated else text
+    except Exception as e:
+        print(f"[WARN] 翻译失败，保留原文: {e}", file=sys.stderr)
+        return text
+
+
+def translate_article(article):
+    """翻译英文文章的标题和摘要为中文，返回翻译后的文章"""
+    if article.get("lang") != "en":
+        return article
+
+    # 翻译标题
+    orig_title = article["title"]
+    article["title"] = translate_to_chinese(orig_title)
+    _time.sleep(0.3)  # 避免触发速率限制
+
+    # 翻译摘要
+    if article.get("summary"):
+        article["summary"] = translate_to_chinese(article["summary"])
+        _time.sleep(0.3)
+
+    # 翻译来源名称
+    source = article.get("source", "")
+    if source and source not in SOURCE_NAME_MAP:
+        article["source"] = translate_to_chinese(source)
+        _time.sleep(0.3)
+    elif source in SOURCE_NAME_MAP:
+        article["source"] = SOURCE_NAME_MAP[source]
+
+    print(f"  翻译: {orig_title[:30]}... -> {article['title'][:30]}...")
+    return article
+
+
 def fetch_article_content(url):
     """简单抓取文章第一段作为补充摘要"""
     try:
@@ -221,7 +286,16 @@ def fetch_feeds():
             if extra and len(extra) > len(a["summary"]):
                 a["summary"] = extra
                 fetch_count += 1
-    
+
+    # 翻译英文文章
+    en_count = sum(1 for a in articles if a.get("lang") == "en")
+    if en_count > 0:
+        print(f"  开始翻译 {en_count} 篇英文文章...")
+        for a in articles:
+            if a.get("lang") == "en":
+                translate_article(a)
+        print(f"  翻译完成")
+
     return articles
 
 
