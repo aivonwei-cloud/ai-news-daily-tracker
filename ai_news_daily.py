@@ -54,6 +54,7 @@ RSS_FEEDS = [
     {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "lang": "en"},
     {"url": "https://www.artificialintelligence-news.com/feed/", "lang": "en"},
     {"url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "lang": "en"},
+    {"url": "https://github.blog/category/ai-ml/feed/", "lang": "en"},
 ]
 
 # UTC+8 时区
@@ -119,6 +120,7 @@ SOURCE_NAME_MAP = {
     "MIT News": "MIT新闻",
     "AI News": "AI新闻网",
     "Artificial Intelligence News": "人工智能新闻网",
+    "GitHub Blog": "GitHub官方博客",
 }
 
 import urllib.parse
