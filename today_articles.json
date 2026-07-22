@@ -1,64 +1,82 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T10:42:51.824881+08:00",
+  "generated_at": "2026-07-22T17:36:58.527844+08:00",
   "total": 11,
   "articles": [
     {
       "num": 1,
-      "title": "Meta 正在为没有想象力的人测试一款 AI 睡前故事应用程序",
-      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "summary": "最后，一家科技公司找到了一种方法来外包人类最古老的消遣：利用我们的想象力。",
+      "title": "Synthesia 的人工智能培训平台正在从视频转向实时指导",
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "summary": "Synthesia 推出了 AI Roleplay Sessions，这是一个交互式企业培训平台，员工可以在其中与 AI 化身练习工作场所对话，这些化身为员工提供反馈、评分和分析。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "OpenAI 表示 Hugging Face 被其预发布模型破坏",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "summary": "OpenAI 已出面声称对 Hugging Face 漏洞负责，称这是内部测试出错的结果。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+      "link": "https://www.qbitai.com/2026/07/457117.html",
+      "summary": "2026 年 7 月 17 日，百度文心助手任务 Agent，以最高分 94.6%、平均分 94.4% 的成绩，登顶全球工程向 AI 智能体评测榜单 PinchBench v2。成为首个以正式产品身份获得 PinchBench 总榜第一的国产智能体系统。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "人工智能和通用娱乐应用程序的兴起",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "summary": "在过去的十年中，流媒体平台通过主导音乐、视频、播客或有声读物等个别格式进行竞争。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
+      "link": "https://www.qbitai.com/2026/07/457054.html",
+      "summary": "这几天，全网被WAIC“霸屏”，从具身智能到国产算力，这场一年一度的AI盛典，同样吸引了科技圈所有目光。今年WAIC堪称是国产芯片和算力企业的斗秀舞台，108款芯片、超200款智算产品齐聚上海。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "谷歌发布了三款新的 Gemini 型号，但没有 3.5 Pro",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "summary": "谷歌发布了Gemini 3.6 Flash、3.5 Flash-Lite和Flash Cyber​​，但Gemini 3.5 Pro的持续缺席引发了对其人工智能战略的新质疑。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
+      "link": "https://www.qbitai.com/2026/07/457049.html",
+      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "谷歌推出了一种更便宜的替代方案来替代 Mythos 等大型人工智能安全模型",
-      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "summary": "Google 正在推出 Gemini 3.6 Flash 以及致力于快速查找和修补安全漏洞的新安全模型。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
+      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
+      "link": "https://www.qbitai.com/2026/07/457040.html",
+      "summary": "当下教育数字化已走完信息化、数字化两大阶段，但教育仍深陷质量、成本、规模难以兼顾的“不可能三角”：传统自适应工具、通用大模型仅停留在内容分发表层，只能完成答题响应、习题推荐，无法仿真学习者内在认知逻辑，难以破解统一教学与异质认知的核心矛盾，行业亟待从“信息传递”迈向“认知仿真”。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "解释说 SpaceX 在你的指数基金中",
-      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "summary": "啊啊啊|图片：Cath Virginia / The Verge、Getty Images 指数基金被誉为最安全的投资方式之一。",
-      "source": "人工智能 |边缘",
+      "title": "人工智能 Twitter 上掀起“人形智能”谣言",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "summary": "Anthropic 和 OpenAI 在 2026 年大举收购，为周末谣言奠定了基础。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
+      "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
+      "link": "https://www.qbitai.com/2026/07/456555.html",
+      "summary": "彼时，Meta豪掷千亿美元押注虚拟世界，全球科技公司纷纷入场，所有人都在讨论：下一个互联网入口，会不会来自一个平行数字世界？论坛现场，有多年临床经验的医生直言，「元医院」拓宽了医生的诊疗能力边界，但同时，会对医院的算力、全域医疗数据提出指数级的上涨需求。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 8,
+      "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
+      "link": "https://www.qbitai.com/2026/07/456178.html",
+      "summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
       "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
       "link": "https://www.qbitai.com/2026/07/456061.html",
       "summary": "这么说吧，这是中国大模型首次获得IMO官方金牌水平认证，也是继谷歌Gemini模型之后，全球第二个达到该成绩的大模型。它仅用自然语言就完成了从读题、解析到写证明的全过程，最终答案不仅全部正确，在部分题目上还创新地提出了非常规解法。",
@@ -67,7 +85,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
+      "num": 10,
       "title": "OpenAI 表示，它使用新的人工智能系统意外黑了 Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
       "summary": "OpenAI 首席执行官 Sam Altman。 OpenAI 表示，其人工智能模型在内部测试期间错误地破坏了开源人工智能平台 Hugging Face。",
@@ -76,29 +94,11 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 11,
       "title": "Anthropic 15 亿美元的图书盗版和解协议获得法官批准",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
       "summary": "据路透社早些时候报道，一位联邦法官已签署了 Anthropic 与作者签署的 15 亿美元集体诉讼和解协议，这些作者指控该公司在受版权保护的书籍上训练其人工智能模型。",
       "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "美国威胁对中国人工智能模型实施知识产权盗窃制裁",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "summary": "美国财政部长斯科特·贝森特表示",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "Anthropic 里程碑式的 1.5B 美元版权和解协议获得批准",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "summary": "最终的批准解决了一个案件，但并没有解决使用受版权保护的作品训练人工智能模型的更广泛的问题。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     }
