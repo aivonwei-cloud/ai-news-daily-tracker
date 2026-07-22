@@ -12,6 +12,8 @@ jobs:
   ai-news-report:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write  # 允许提交 today_articles.json
 
     steps:
       - name: Checkout
@@ -30,3 +32,15 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python ai_news_daily.py
+
+      - name: 提交文章索引到仓库
+        run: |
+          git config user.name "AI News Bot"
+          git config user.email "ai-news-bot@example.com"
+          git add today_articles.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update today_articles.json [skip ci]"
+            git push
+          fi

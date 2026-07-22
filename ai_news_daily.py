@@ -335,17 +335,19 @@ def htmlescape(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def build_message(grouped):
-    """构建Telegram消息"""
+def build_message_and_articles(grouped):
+    """构建Telegram消息，同时返回带编号的文章列表（供用户按序号查询详情）"""
     today = datetime.now(TZ).strftime("%Y-%m-%d")
     lines = [f"📡 <b>AI行业动态早报</b> | {today}", ""]
+    numbered_articles = []  # 带全局编号的文章数据
+    article_num = 0
 
-    for idx, (cat_name, articles) in enumerate([
+    for cat_name, articles in [
         ("🆕 新产品/工具", grouped.get("🆕 新产品/工具", [])),
         ("💰 投融资事件", grouped.get("💰 投融资事件", [])),
         ("🔬 技术突破/模型", grouped.get("🔬 技术突破/模型", [])),
         ("📋 政策与监管", grouped.get("📋 政策与监管", [])),
-    ]):
+    ]:
         if not articles:
             continue  # 无内容的分类直接跳过
 
@@ -365,19 +367,19 @@ def build_message(grouped):
                 break
 
         for a in unique:
+            article_num += 1
             title = a["title"]
             if len(title) > 80:
                 title = title[:77] + "..."
-            # 对HTML特殊字符转义
             title_escaped = htmlescape(title)
             link = a["link"]
             source = htmlescape(a.get("source", ""))
 
-            # 来源放在标题后面
+            # 来源放在标题后面，带序号
             if source:
-                lines.append(f"· <a href='{link}'>{title_escaped}</a> [{source}]")
+                lines.append(f"{article_num}. <a href='{link}'>{title_escaped}</a> [{source}]")
             else:
-                lines.append(f"· <a href='{link}'>{title_escaped}</a>")
+                lines.append(f"{article_num}. <a href='{link}'>{title_escaped}</a>")
             
             # 摘要单独一行
             summary = a.get("summary", "")
@@ -387,11 +389,38 @@ def build_message(grouped):
                     lines.append(f"  📝 {summary_clean}")
             lines.append("")  # 每条新闻之间空行
 
+            # 记录带编号的文章数据
+            numbered_articles.append({
+                "num": article_num,
+                "title": a["title"],
+                "link": a["link"],
+                "summary": a.get("summary", ""),
+                "source": a.get("source", ""),
+                "lang": a.get("lang", "zh"),
+                "category": cat_name,
+            })
+
     now = datetime.now(TZ).strftime("%H:%M")
     lines.append("━━━━━━━━━━━━━━━")
     lines.append(f"📎 由 WorkBuddy 自动生成 | {now}")
+    lines.append("")
+    lines.append("💡 输入序号（如 3）即可查看新闻全文")
 
-    return "\n".join(lines)
+    return "\n".join(lines), numbered_articles
+
+
+def save_articles_json(articles):
+    """保存带编号的文章列表到 JSON 文件，供后续按序号查询"""
+    today = datetime.now(TZ).strftime("%Y-%m-%d")
+    data = {
+        "date": today,
+        "generated_at": datetime.now(TZ).isoformat(),
+        "total": len(articles),
+        "articles": articles,
+    }
+    with open("today_articles.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"  已保存 {len(articles)} 篇文章到 today_articles.json")
 
 
 def send_telegram(msg):
@@ -458,8 +487,9 @@ def main():
     for cat, arts in grouped.items():
         print(f"    {cat}: {len(arts)} 篇")
 
-    msg = build_message(grouped)
+    msg, all_articles = build_message_and_articles(grouped)
     send_telegram(msg)
+    save_articles_json(all_articles)
     print("  任务完成")
 
 
