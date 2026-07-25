@@ -1,55 +1,91 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T08:01:35.044374+08:00",
-  "total": 16,
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T08:03:24.895834+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "Alexa Plus 正在进行人工智能更新以处理更复杂的指令",
-      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "summary": "亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。",
+      "title": "Midjourney 购买了占星应用程序 Co-Star",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "summary": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "AMD 推出 Helios AI 机架级系统与 Nvidia 展开较量",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "summary": "AMD 正在通过一款新的机架规模系统向其芯片制造商竞争对手发起挑战，该系统将于今年晚些时候开始向客户发货。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "Anthropic 发布了 Opus 5，其功能“接近”《神鬼寓言 5》",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "summary": "在 Anthropic 与美国政府进行最新一次正面交锋几周后，以及主导科技行业讨论的 OpenAI 安全事件几天后，Anthropic 于周四发布了其最新模型……",
+      "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Anthropic 更新了 Claude 语音模式，推出了更多功能模型",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "summary": "克劳德的新语音模型将让您重新安排会议或起草电子邮件。",
+      "title": "Anthropic 推出 Opus 5",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "summary": "Opus 5 比《神鬼寓言》更便宜，限制更少，这可能使其在大多数用例中更受欢迎。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "随着生成媒体变得拥挤，Runway 推出 AI 模型路由器",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "summary": "媒体路由器是一种工具，可以根据开发人员是否优先考虑质量、速度或成本来自动为请求选择最佳图像、视频或音频生成模型。",
+      "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "summary": "在华盛顿就如何应对中国人工智能和所谓的模型蒸馏进行辩论之际，包括英伟达和米斯特拉尔在内的人工智能公司敦促政策制定者避免对开放权重人工智能模型进行广泛限制。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "OpenAI 向所有人推出 ChatGPT Health 时发出了重大声明",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "summary": "OpenAI 将于周四向美国所有人推出 ChatGPT Health，让更多人将他们的医疗记录和健康跟踪信息连接到聊天机器人。",
-      "source": "人工智能 |边缘",
+      "title": "Bluesky 的 AI 助手 Attie 扩展为开放的社会研究工具",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "summary": "用户现在可以在 Bluesky 和 ​​AT 协议上的其他应用程序上向 Attie 询问有关新闻、趋势和对话的问题。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "summary": "Neolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Cognition为何收购Poke：AI个性正在成为竞争优势",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "summary": "此次收购将 Poke 的对话风格和交互模型带给 Cognition 的编码代理 Devin，这反映出人们越来越相信 AI 助手与用户的交互方式与......",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+      "link": "https://www.qbitai.com/2026/07/460154.html",
+      "summary": "公开信息显示，本轮融资由社保基金四川振兴科创基金、工银资本、弘颐资管、敦鸿资本联合领投，厦门国贸资本、上影新视野基金、湖北长江产业投资集团、华策影视、航源资本、创云海资本、华福投资、余杭金控股份、交银资本、若松基金等多家机构跟投。此前，大语言模型凭借代码生成、文本交互能力，长期占据资本与市场的核心焦点，参数规模、推理速度成为核心竞争标尺。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "link": "https://www.qbitai.com/2026/07/459262.html",
+      "summary": "在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
       "title": "AI芯片初创公司Etched无视质疑，大牌投资者估值达到10.3B美元",
       "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
       "summary": "Etched 由三名哈佛辍学者创立，该公司开发了新的芯片和内存组件，可以加快任何人工智能模型的推理速度，据称无需 GPU。",
@@ -58,43 +94,25 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "AMD 将根据人工智能基础设施交易向 Anthropic 投资最多 50 亿美元",
-      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "summary": "AMD 同意根据基础设施协议向 Anthropic 投资最多 50 亿美元，涵盖价值数百亿美元的人工智能系统。",
-      "source": "AI新闻网",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "ServiceNow 向印度银行软件专家押注 4000 万美元，以扩大其金融服务业务",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "summary": "ServiceNow 的投资为 BusinessNext 提供了一个战略合作伙伴，以在全球范围内扩展其人工智能驱动的银行软件。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
-      "link": "https://www.qbitai.com/2026/07/457534.html",
-      "summary": "7月21日下午，北京趋境科技有限责任公司与萧山区钱江世纪城签署产业投资合作协议，趋境科技华东区域总部项目正式落地钱江世纪城。杭州市委常委、萧山区委书记孙旭东，趋境科技首席科学家武永卫教授出席并见签。萧山区领导朱国军、钱江世纪城党工委书记张文波、趋境科技发起人章明星教授及总裁兼 CFO 武文洁博士参加。",
+      "num": 11,
+      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+      "link": "https://www.qbitai.com/2026/07/460041.html",
+      "summary": "真·Uni（统一）World-View了，本次世界模型的训练数据来自北大系初创企业元空智能，代码和权重也已全部开源： 官方地址：PKU-YuanGroup/UniWorld-View: Official implementation of UniWorld-View",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
-      "title": "Travis Kalanick 的机器人公司筹集了 $1.7B，由 a16z 领投",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "summary": "Uber 还投资了 Travis Kalanick 的公司 Atoms，该公司曾模糊地宣称要利用工业人工智能来实现世界现代化。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "num": 12,
+      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
+      "link": "https://www.qbitai.com/2026/07/458617.html",
+      "summary": "7月19日，在WAIC“世界模型六小龙”论坛上，一场信息密度极高的圆桌讨论，凑齐了六家公司的世界模型技术负责人。他们是： 蚂蚁灵波的沈宇军认为“物理合理性”比“物理精度”更重要。机器人只需要明白同样重量的铁比棉花掉的快，但到底快多少，不需要知道，只需要观察。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
+      "num": 13,
       "title": "克劳德的语音模式现在可用于 Opus 和 Sonnet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "summary": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。",
@@ -103,49 +121,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
+      "num": 14,
       "title": "谷歌 Gemini 接近十亿用户里程碑",
       "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
       "summary": "Gemini 2 月份月度用户超过 7.5 亿。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "麻省理工学院的项目被选为美国能源部创世任务资助的项目",
-      "link": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
-      "summary": "麻省理工学院的研究人员将为美国做出贡献",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "专家表示，Kimi K3 之所以如此优秀，并不是因为利用了 Anthropic 的《寓言》",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "summary": "一位专家告诉 TechCrunch：“我认为，在《神鬼寓言》严格蒸馏之后，你不会得到如此强大、如此迅速的模型。”",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "link": "https://www.qbitai.com/2026/07/457537.html",
-      "summary": "谁能想到，在全球具身智能操作能力的顶级榜单上，打败海外标杆模型π0的，居然是一个只有1B级参数的轻量级模型。优艾智合研发的FabriVLA，在多任务操作核心基准Meta-World MT50中，以90.0%的tier-average成功率登顶第一，超过包括π0在内的一众国际知名模型。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 16,
-      "title": "这是三星智能眼镜的实际外观",
-      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "summary": "谷歌和三星的人工智能眼镜每副都配有摄像头，因此面临着与 Meta 相同的隐私问题。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
