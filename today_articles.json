@@ -1,10 +1,37 @@
 {
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T08:03:24.895834+08:00",
-  "total": 14,
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T08:01:12.077340+08:00",
+  "total": 10,
   "articles": [
     {
       "num": 1,
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "link": "https://www.qbitai.com/2026/07/460892.html",
+      "summary": "而是你说一句“帮我准备客户brief”，它就能跨文件、日历、Slack这些日常工具自己干活，最后把整理好的文档、写好的消息、更新后的日程交到你手上。它不绑定任何特定模型。你只需带上自己的 API Key，即可接入 GPT 5.6 Sol、Claude Fable、Gemini 3.6，或是通过 Ollama 运行 Kimi、GLM、DeepSeek、Inkling 等开放权重模型。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "link": "https://www.qbitai.com/2026/07/460234.html",
+      "summary": "后续迭代的公共服务机器人「旺宝」，广泛落地银行、政务大厅等场景，攒下了海量真实场景数据、工程落地经验和规模化交付能力。现在，它在苏州挂牌成立了「八界开源智创空间」，面向开发者、高校师生和科研人员，以及有二次开发需求的企业用户，免费开放这套平台的使用权限，从硬件到底层系统全部涵盖。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "link": "https://www.qbitai.com/2026/07/460174.html",
+      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "Midjourney 购买了占星应用程序 Co-Star",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "summary": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。",
@@ -13,38 +40,11 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 5,
       "title": "Anthropic 发布了 Opus 5，其功能“接近”《神鬼寓言 5》",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
       "summary": "在 Anthropic 与美国政府进行最新一次正面交锋几周后，以及主导科技行业讨论的 OpenAI 安全事件几天后，Anthropic 于周四发布了其最新模型……",
       "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "Anthropic 推出 Opus 5",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "summary": "Opus 5 比《神鬼寓言》更便宜，限制更少，这可能使其在大多数用例中更受欢迎。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "summary": "在华盛顿就如何应对中国人工智能和所谓的模型蒸馏进行辩论之际，包括英伟达和米斯特拉尔在内的人工智能公司敦促政策制定者避免对开放权重人工智能模型进行广泛限制。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Bluesky 的 AI 助手 Attie 扩展为开放的社会研究工具",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "summary": "用户现在可以在 Bluesky 和 ​​AT 协议上的其他应用程序上向 Attie 询问有关新闻、趋势和对话的问题。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
@@ -77,56 +77,20 @@
     },
     {
       "num": 9,
-      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-      "link": "https://www.qbitai.com/2026/07/459262.html",
-      "summary": "在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。",
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "link": "https://www.qbitai.com/2026/07/460253.html",
+      "summary": "Frontier-Bench上，它反超了包括Fable 5在内的所有对手，性能是上一代Opus 4.8的两倍还多。更耐人寻味的是，为了配上这代模型的判断力，Anthropic把自己给Claude Code写的系统提示词删掉了八成，成绩却没掉。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "AI芯片初创公司Etched无视质疑，大牌投资者估值达到10.3B美元",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "summary": "Etched 由三名哈佛辍学者创立，该公司开发了新的芯片和内存组件，可以加快任何人工智能模型的推理速度，据称无需 GPU。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 11,
       "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
       "link": "https://www.qbitai.com/2026/07/460041.html",
       "summary": "真·Uni（统一）World-View了，本次世界模型的训练数据来自北大系初创企业元空智能，代码和权重也已全部开源： 官方地址：PKU-YuanGroup/UniWorld-View: Official implementation of UniWorld-View",
       "source": "量子位",
       "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
-      "link": "https://www.qbitai.com/2026/07/458617.html",
-      "summary": "7月19日，在WAIC“世界模型六小龙”论坛上，一场信息密度极高的圆桌讨论，凑齐了六家公司的世界模型技术负责人。他们是： 蚂蚁灵波的沈宇军认为“物理合理性”比“物理精度”更重要。机器人只需要明白同样重量的铁比棉花掉的快，但到底快多少，不需要知道，只需要观察。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "克劳德的语音模式现在可用于 Opus 和 Sonnet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "summary": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "谷歌 Gemini 接近十亿用户里程碑",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "summary": "Gemini 2 月份月度用户超过 7.5 亿。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
       "category": "🔬 技术突破/模型"
     }
   ]
