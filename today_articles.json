@@ -1,33 +1,114 @@
 {
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T08:00:52.039369+08:00",
-  "total": 3,
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T08:01:20.002093+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
-      "title": "100%开源！吴恩达做了个个人桌面Agent",
-      "link": "https://www.qbitai.com/2026/07/460892.html",
-      "summary": "而是你说一句“帮我准备客户brief”，它就能跨文件、日历、Slack这些日常工具自己干活，最后把整理好的文档、写好的消息、更新后的日程交到你手上。它不绑定任何特定模型。你只需带上自己的 API Key，即可接入 GPT 5.6 Sol、Claude Fable、Gemini 3.6，或是通过 Ollama 运行 Kimi、GLM、DeepSeek、Inkling 等开放权重模型。",
+      "title": "微软推出首个网络安全模型以及新的代理网络安全系统",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "summary": "微软本周推出了首个人工智能安全模型和新的安全平台，增强了其人工智能网络安全产品。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "Threads 用户现在可以在他们的 DM 中与 Meta AI 聊天",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "summary": "Meta 周一表示，它正在 Threads 的 DM 中推出 Meta AI 聊天机器人，为用户提供与 AI 助手聊天的方式。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
+      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "这款 9 美元的 NFC 钥匙需要您对其进行物理扫描才能解锁手机上分散注意力的应用程序。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "Nvidia、微软推出开放人工智能安全联盟——没有 OpenAI、Google 或 Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "summary": "英伟达周一表示，它正在与微软、SpaceX、IBM 和其他科技公司联手构建和共享开源人工智能安全工具。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+      "link": "https://www.qbitai.com/2026/07/461444.html",
+      "summary": "近日，深圳超维动力智能科技有限公司（以下简称“超维动力”）与北大医疗管理有限责任公司（以下简称“北大医疗”）达成深度合作，双方将围绕具身智能在医疗场景中的数据采集、世界模型与仿真训练展开联合创新，务实构建一条从「拟真训练」到「场景验证」、再到「医院应用」的完整落地路径。具身智能要真正「进医院」，从来不是把一台机器人直接摆进病房那么简单。它需要先理解医院、理解医护，再沿着「拟真—验证—应用」的节奏，一步一个脚印地完成能力积累与安全验证。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-      "link": "https://www.qbitai.com/2026/07/460962.html",
-      "summary": "这次登场的是来自NeoteAI和复旦大学的N0系列模型。不仅是居家料理，收纳整理它同样拿手。工厂流水线装配、精细零件组装、线材缠绕梳理这些精细活也全都不在话下。不知道大家有没有见过机器人实操翻车的名场面：插头边缘反复摩擦却难以插入、抓取塑料瓶时力道失控导致瓶身瘪陷、叠好的毛巾在松手瞬间散落……在具身智能的落地进程中，这类“视觉系统判定无误，但物理交互瞬间翻车”的现象屡见不鲜。",
+      "num": 6,
+      "title": "Enigma 筹集了 7100 万美元，让控制机器人就像调节音量一样简单",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "summary": "此次大规模种子轮融资由 Index Ventures 和 Ribbit Capital 领投，SarahGuo 的 Conviction Partners 参与其中。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "DeepSeek被曝主动叫停了第二轮融资签约",
+      "link": "https://www.qbitai.com/2026/07/461220.html",
+      "summary": "按照彭博此前披露的信息，DeepSeek希望在这一轮融资中募集至少100亿元。如果最终参与的投资者数量增加，融资规模还可能进一步扩大。公司寻求的投前估值至少达到4800亿元，约合710亿美元。相比首轮融资约500亿美元的估值，又上涨了四成左右。",
       "source": "量子位",
       "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "纳德拉表示，没有自己的模型的公司，或者没有被称为人工智能网关的人工智能基础设施层，将其提示与模型本身分开的公司，将会遇到麻烦。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 3,
-      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-      "link": "https://www.qbitai.com/2026/07/460253.html",
-      "summary": "Frontier-Bench上，它反超了包括Fable 5在内的所有对手，性能是上一代Opus 4.8的两倍还多。更耐人寻味的是，为了配上这代模型的判断力，Anthropic把自己给Claude Code写的系统提示词删掉了八成，成绩却没掉。",
-      "source": "量子位",
-      "lang": "zh",
+      "num": 9,
+      "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "该问题似乎源于 Claude 的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定 URL 的人都可以查看对话或项目。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "为什么中国要赠送最好的人工智能模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "summary": "7 月 20 日，在中国上海举行的世界人工智能大会上，人们参观了由中国创业公司 Moonshot 开发的法学硕士 Kimi 的展位。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "增强您的人工智能基础设施！ TechCrunch Disrupt 2026 智能系统阶段议程初探",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "summary": "在 TechCrunch Disrupt 2026 上，智能系统舞台将是能源、基础设施和技术碰撞的地方，涵盖从核聚变突破到人工智能给电网带来的压力等方方面面。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "Ilya Sutskever 的 Safe Superintelligence 与 Nvidia 合作扩大其人工智能研究",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "summary": "经过两年的隐秘运营，Safe Superintelligence 宣布与 Nvidia 建立长期合作伙伴关系，并准备扩展至下一阶段。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     }
   ]
