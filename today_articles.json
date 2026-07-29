@@ -1,56 +1,74 @@
 {
-  "date": "2026-07-28",
-  "generated_at": "2026-07-28T08:01:20.002093+08:00",
-  "total": 12,
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T08:01:25.202794+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "微软推出首个网络安全模型以及新的代理网络安全系统",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "summary": "微软本周推出了首个人工智能安全模型和新的安全平台，增强了其人工智能网络安全产品。",
+      "title": "MCP 初创公司 Runlayer 指责 Rippleing 窃取其产品创意",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "在 Rippling 评估了这家初创公司的 MCP 网关产品并选择自行构建之后，Runlayer 正在起诉 Rippling。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Threads 用户现在可以在他们的 DM 中与 Meta AI 聊天",
-      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "summary": "Meta 周一表示，它正在 Threads 的 DM 中推出 Meta AI 聊天机器人，为用户提供与 AI 助手聊天的方式。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "summary": "这款 9 美元的 NFC 钥匙需要您对其进行物理扫描才能解锁手机上分散注意力的应用程序。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "Nvidia、微软推出开放人工智能安全联盟——没有 OpenAI、Google 或 Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "summary": "英伟达周一表示，它正在与微软、SpaceX、IBM 和其他科技公司联手构建和共享开源人工智能安全工具。",
+      "title": "Perplexity 的个人电脑将 Windows PC 变成人工智能代理",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "summary": "Perplexity 已将其代理个人计算机工具扩展到 Windows，允许运行世界上最流行操作系统的计算机用作本地运行的人工智能系统。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 3,
+      "title": "智能戒指看起来就像我喜欢的人工智能小工具",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "summary": "在过去的几个月里，我花了很多时间与电脑交谈。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+      "link": "https://www.qbitai.com/2026/07/461939.html",
+      "summary": "2026年，教育部等五部门印发《“人工智能+教育”行动计划》，文件明确要求分层提升教师AI数字素养，全面构建人机协同的新型课堂模式。政策方向已然明朗，但落地层面的讨论仍在发酵。7月23日，复旦大学副校长周磊在接受人民网专访时表示：“智能化转型浪潮下，教学创新比任何时候都更关乎教育本质。”他同时指出，一线教师首要的能力迭代，是从“AI工具使用者”转向“智能教学设计者”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 5,
-      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
-      "link": "https://www.qbitai.com/2026/07/461444.html",
-      "summary": "近日，深圳超维动力智能科技有限公司（以下简称“超维动力”）与北大医疗管理有限责任公司（以下简称“北大医疗”）达成深度合作，双方将围绕具身智能在医疗场景中的数据采集、世界模型与仿真训练展开联合创新，务实构建一条从「拟真训练」到「场景验证」、再到「医院应用」的完整落地路径。具身智能要真正「进医院」，从来不是把一台机器人直接摆进病房那么简单。它需要先理解医院、理解医护，再沿着「拟真—验证—应用」的节奏，一步一个脚印地完成能力积累与安全验证。",
+      "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+      "link": "https://www.qbitai.com/2026/07/461650.html",
+      "summary": "旗下inclusionAI团队陆续推出LLaDA系列模型，最新开源LLaDA2.2，实现扩散模型首次进入智能体长程任务！准确来说，这是一款千亿参数的MoE扩散语言模型，原生支持128K上下文，也是全球首个大规模Agentic扩散模型。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "Enigma 筹集了 7100 万美元，让控制机器人就像调节音量一样简单",
+      "title": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence 已从 Insight Partners 筹集了 2 亿美元资金，用于开发能够识别来自机器人的合法人流量的技术。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Cursor 在 SpaceX 收购之前以本地化定价进行了迄今为止最大的印度推广",
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "summary": "Cursor 表示，印度目前是其全球第三大市场，并计划扩大当地招聘和企业销售。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Enigma 融资 7100 万美元，让控制机器人像调节音量一样简单",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "summary": "此次大规模种子轮融资由 Index Ventures 和 Ribbit Capital 领投，SarahGuo 的 Conviction Partners 参与其中。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -58,58 +76,58 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-      "link": "https://www.qbitai.com/2026/07/461220.html",
-      "summary": "按照彭博此前披露的信息，DeepSeek希望在这一轮融资中募集至少100亿元。如果最终参与的投资者数量增加，融资规模还可能进一步扩大。公司寻求的投前估值至少达到4800亿元，约合710亿美元。相比首轮融资约500亿美元的估值，又上涨了四成左右。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "summary": "纳德拉表示，没有自己的模型的公司，或者没有被称为人工智能网关的人工智能基础设施层，将其提示与模型本身分开的公司，将会遇到麻烦。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 9,
-      "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "summary": "该问题似乎源于 Claude 的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定 URL 的人都可以查看对话或项目。",
+      "title": "Fish Audio 筹集了 5200 万美元种子资金，为创作者和企业构建 AI 语音模型",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "summary": "自去年成立以来，这家初创公司如今已有超过 800 万人使用其模型的开源或托管版本，目前每年产生的经常性收入为 2100 万美元。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "为什么中国要赠送最好的人工智能模型",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "summary": "7 月 20 日，在中国上海举行的世界人工智能大会上，人们参观了由中国创业公司 Moonshot 开发的法学硕士 Kimi 的展位。",
+      "title": "豆包搜索，走出了豆包",
+      "link": "https://www.qbitai.com/2026/07/461961.html",
+      "summary": "信息得足够新，获奖名单和研究贡献不能出错；来源也得足够可靠，官方公告、媒体报道和人物资料最好能够相互印证。这次豆包搜索返回了3条与问题直接相关的资料，分别来自政府官网转载、科技日报，以及西蒙斯基金会的相关内容。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "拥抱脸被用来轻松脱掉妇女和儿童的衣服",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "summary": "Hugging Face 并没有采取太多措施来阻止其托管的人工智能模型吐出色情化的深度假货。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "增强您的人工智能基础设施！ TechCrunch Disrupt 2026 智能系统阶段议程初探",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "summary": "在 TechCrunch Disrupt 2026 上，智能系统舞台将是能源、基础设施和技术碰撞的地方，涵盖从核聚变突破到人工智能给电网带来的压力等方方面面。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "num": 12,
+      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+      "link": "https://www.qbitai.com/2026/07/461949.html",
+      "summary": "中国AI开源模型持续引发全球开发者关注，创新成果正在集中涌现。7月27日晚，月之暗面正式开源 Kimi K3 完整模型权重，随即登上国际开源AI模型社区Hugging Face总趋势榜第一，紧随其后的则是多日位列榜首的百度开源模型 Unlimited OCR，两者包揽了Hugging Face榜单前二，堪称中国模型“开源双子星”。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
-      "title": "Ilya Sutskever 的 Safe Superintelligence 与 Nvidia 合作扩大其人工智能研究",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "summary": "经过两年的隐秘运营，Safe Superintelligence 宣布与 Nvidia 建立长期合作伙伴关系，并准备扩展至下一阶段。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "num": 13,
+      "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+      "link": "https://www.qbitai.com/2026/07/461827.html",
+      "summary": "作为一套带有触觉的隐式世界—动作模型，Being-H0.8在预训练阶段就教会机器人提前判断将要怎样接触物体，并在真正接触后，根据触觉反馈及时调整动作。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "人工智能领导者签署一份声明，要求政府对自动化人工智能采取措施",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "summary": "OpenAI 和 Anthropic 以及谷歌、Meta、Thinking Machines、微软、Mistral 和其他领先人工智能实验室的员工已向美国政府写了一份声明，支持潜在的缓慢……",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
