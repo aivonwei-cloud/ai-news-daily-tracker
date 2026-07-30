@@ -1,55 +1,91 @@
 {
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T08:01:25.202794+08:00",
-  "total": 14,
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T08:01:28.309025+08:00",
+  "total": 17,
   "articles": [
     {
       "num": 1,
-      "title": "MCP 初创公司 Runlayer 指责 Rippleing 窃取其产品创意",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "summary": "在 Rippling 评估了这家初创公司的 MCP 网关产品并选择自行构建之后，Runlayer 正在起诉 Rippling。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "微软确认 Copilot “超级应用”将于今年推出",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "summary": "微软正在开发一款人工智能“超级应用程序”，它结合了 Copilot 的聊天、编码和代理功能。",
+      "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Perplexity 的个人电脑将 Windows PC 变成人工智能代理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "summary": "Perplexity 已将其代理个人计算机工具扩展到 Windows，允许运行世界上最流行操作系统的计算机用作本地运行的人工智能系统。",
+      "title": "xAI 在最后一刻奋力阻止明尼苏达州的反裸体应用法",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "summary": "xAI 正在起诉明尼苏达州总检察长基思·埃里森 (Keith Ellison)，指控其于 5 月份通过的一项广泛针对“裸露”应用程序的法律，声称该法规的惩罚性条款使该公司“不……",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "智能戒指看起来就像我喜欢的人工智能小工具",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "summary": "在过去的几个月里，我花了很多时间与电脑交谈。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "当AI学会“仿真思维”，教师才能回归育人本质",
-      "link": "https://www.qbitai.com/2026/07/461939.html",
-      "summary": "2026年，教育部等五部门印发《“人工智能+教育”行动计划》，文件明确要求分层提升教师AI数字素养，全面构建人机协同的新型课堂模式。政策方向已然明朗，但落地层面的讨论仍在发酵。7月23日，复旦大学副校长周磊在接受人民网专访时表示：“智能化转型浪潮下，教学创新比任何时候都更关乎教育本质。”他同时指出，一线教师首要的能力迭代，是从“AI工具使用者”转向“智能教学设计者”。",
+      "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+      "link": "https://www.qbitai.com/2026/07/462943.html",
+      "summary": "2026年7月24日，数学界重量级会议“十六省（区、市）数学学术年会暨应用数学与人工智能学术论坛”在云南省玉溪市举办。论坛由中国数学会指导，十六省（区、市）数学会联合主办，云南省数学会、玉溪市教育体育局、玉溪师范学院承办，以“交融·创新·赋能——数学与人工智能的双向奔赴”为主题，汇聚十六省高校专家学者及数学教师代表共计五百余人参会。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 4,
+      "title": "OpenAI 报告将编码代理与更快的科学软件构建联系起来",
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "summary": "OpenAI 发布了一份新的现场报告，跟踪了八个科学计算项目，其中编码代理缩短了运行时间。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 5,
-      "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
-      "link": "https://www.qbitai.com/2026/07/461650.html",
-      "summary": "旗下inclusionAI团队陆续推出LLaDA系列模型，最新开源LLaDA2.2，实现扩散模型首次进入智能体长程任务！准确来说，这是一款千亿参数的MoE扩散语言模型，原生支持128K上下文，也是全球首个大规模Agentic扩散模型。",
+      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+      "link": "https://www.qbitai.com/2026/07/462380.html",
+      "summary": "7月29日，针对有关首次外部股权融资的报道，OceanBase回复表示，公司全力投入AI时代的数据技术与产品创新，将持续与资本市场保持开放沟通。对于融资规模、投资机构及具体进展，OceanBase未作进一步回应。此前，媒体报道称，OceanBase正在与投资者洽谈A轮融资，目前已与多家头部投资机构接洽，目标融资规模约20亿至30亿元人民币。知情人士称，此次融资将帮助OceanBase进一步增强独立运营能力，并支持其向AI数据平台领域拓展。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "马克·扎克伯格预测五年内数十亿人将拥有个人人工智能代理",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "随着 Meta 向人工智能基础设施和代理投入数十亿美元，扎克伯格正在努力让投资者相信回报是值得的。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "微软从 Anthropic 获得 3.2B 美元投资，但 OpenAI 好坏参半",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "当微软公布其 2026 财年（截至 6 月 30 日）第四季度的杀手级收益时，它夹带了一个有趣的小花絮，讲述其如何在两个最大的、最具竞争力的公司进行投资……",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Encore AI 融资 3000 万美元，用于构建能够从客户呼叫中学习的人工智能代理",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "summary": "该初创公司分析电话、消息和 CRM 数据，以确定有效的销售技巧，并将其转化为人工智能代理的手册。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "Cyera 同意以 10 亿美元收购 Oasis Security，以保护不断扩散的人工智能代理",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "该交易是 Cyera 今年的第三次收购。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
       "title": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资",
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
       "summary": "Spur Intelligence 已从 Insight Partners 筹集了 2 亿美元资金，用于开发能够识别来自机器人的合法人流量的技术。",
@@ -58,70 +94,61 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Cursor 在 SpaceX 收购之前以本地化定价进行了迄今为止最大的印度推广",
-      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "summary": "Cursor 表示，印度目前是其全球第三大市场，并计划扩大当地招聘和企业销售。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "Enigma 融资 7100 万美元，让控制机器人像调节音量一样简单",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "summary": "此次大规模种子轮融资由 Index Ventures 和 Ribbit Capital 领投，SarahGuo 的 Conviction Partners 参与其中。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Fish Audio 筹集了 5200 万美元种子资金，为创作者和企业构建 AI 语音模型",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "summary": "自去年成立以来，这家初创公司如今已有超过 800 万人使用其模型的开源或托管版本，目前每年产生的经常性收入为 2100 万美元。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "豆包搜索，走出了豆包",
-      "link": "https://www.qbitai.com/2026/07/461961.html",
-      "summary": "信息得足够新，获奖名单和研究贡献不能出错；来源也得足够可靠，官方公告、媒体报道和人物资料最好能够相互印证。这次豆包搜索返回了3条与问题直接相关的资料，分别来自政府官网转载、科技日报，以及西蒙斯基金会的相关内容。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "拥抱脸被用来轻松脱掉妇女和儿童的衣服",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "summary": "Hugging Face 并没有采取太多措施来阻止其托管的人工智能模型吐出色情化的深度假货。",
-      "source": "人工智能 |边缘",
+      "title": "Thinking Machines联合创始人Lilian Weng因健康原因离开公司，随后加入OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "summary": "Weng 此前曾担任 OpenAI 的人工智能安全研究副总裁。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
-      "link": "https://www.qbitai.com/2026/07/461949.html",
-      "summary": "中国AI开源模型持续引发全球开发者关注，创新成果正在集中涌现。7月27日晚，月之暗面正式开源 Kimi K3 完整模型权重，随即登上国际开源AI模型社区Hugging Face总趋势榜第一，紧随其后的则是多日位列榜首的百度开源模型 Unlimited OCR，两者包揽了Hugging Face榜单前二，堪称中国模型“开源双子星”。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Claude Opus 5 在负责运行自动售货机时变得非常无情",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "summary": "Andon Labs 最新的自动售货机模拟显示 Opus 5 通过撒谎和串通成为有史以来最好的人工智能资本家。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
-      "link": "https://www.qbitai.com/2026/07/461827.html",
-      "summary": "作为一套带有触觉的隐式世界—动作模型，Being-H0.8在预训练阶段就教会机器人提前判断将要怎样接触物体，并在真正接触后，根据触觉反馈及时调整动作。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "OpenAI 总裁表示正在为其人工智能聊天机器人“打造一系列设备”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "summary": "OpenAI 总裁格雷格·布罗克曼 (Greg Brockman) 在我们的朋友乔安娜·斯特恩 (Joanna Stern) 的 YouTube 频道上接受采访时表示，该公司正在开发一个“设备系列”，用于与其人工智能模型进行交互。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 14,
+      "title": "麻省理工学院开发的医学数据库如何演变成全球数据共享标准",
+      "link": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+      "summary": "在通过云实现科学数据存储和协作之前，寻求健康研究突破的医学研究人员必须克服协作的重大障碍……",
+      "source": "麻省理工学院新闻 - 人工智能",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "我们已经没有理由忽视人工智能安全了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "summary": "本月早些时候，OpenAI 给它的几个人工智能模型分配了一项任务：完成一项旨在衡量其网络安全能力的测试。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 16,
+      "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
+      "link": "https://www.qbitai.com/2026/07/462071.html",
+      "summary": "短短一周内，新的重要进展接踵而至。萝卜快跑宣布分别携手Uber，以及Lyft旗下欧洲出行平台Freenow，在英国伦敦启动公开道路测试，至此萝卜快跑成为目前唯一明确进入伦敦Robotaxi测试体系的中国无人驾驶企业。前者验证萝卜快跑能否把全无人能力迁移到右舵左行体系，后者则把这项能力带入全球监管最严格、道路环境最复杂的一批Robotaxi市场。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 17,
       "title": "人工智能领导者签署一份声明，要求政府对自动化人工智能采取措施",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "summary": "OpenAI 和 Anthropic 以及谷歌、Meta、Thinking Machines、微软、Mistral 和其他领先人工智能实验室的员工已向美国政府写了一份声明，支持潜在的缓慢……",
