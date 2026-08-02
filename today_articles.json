@@ -1,10 +1,37 @@
 {
-  "date": "2026-08-01",
-  "generated_at": "2026-08-01T08:01:36.150861+08:00",
-  "total": 16,
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T08:03:36.729146+08:00",
+  "total": 11,
   "articles": [
     {
       "num": 1,
+      "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
+      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "这款 9 美元的 NFC 钥匙需要您对其进行物理扫描才能解锁手机上分散注意力的应用程序。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "link": "https://www.qbitai.com/2026/08/464713.html",
+      "summary": "在Relentless最新一期《How to Start a Startup》的访谈中，OpenAI联合创始人兼CEO奥特曼谈到开发Sora应用时下载了TikTok吸取经验，然后沉迷了… 访谈后半段他提到，OpenAI在编码智能体取得进展后，选择停掉Sora这类原本也很看好的项目，也是打算把算力、团队和精力集中到更关键的方向上来。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "印度开始为应用程序付费，而不仅仅是下载它们",
       "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "summary": "印度应用程序市场第二季度创造了创纪录的 3.45 亿美元收入。",
@@ -13,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 5,
       "title": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
       "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
       "summary": "一种允许任何人生成虚假的人工智能生成图像并将其叠加在真实的谷歌地球地图上的工具很快引发了强烈反对。",
@@ -22,34 +49,25 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "谷歌地球的AI Deepfake工具只持续了一天",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "summary": "在 Google 地球中使用 Nano Banana 2 重新构想了庞贝古城。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-      "link": "https://www.qbitai.com/2026/07/464329.html",
-      "summary": "文章链接： https://mp.weixin.qq.com/s/LG0MV2lV82Re6239MypoBQ 就在刚刚，字节跳动正式发布了自研视频模型Seedance 2.5，而我们熟悉的「即梦AI」作为模型的官方体验入口也第一时间妥妥接入。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "学习强国做了个AI社区，两周铺进68座城市",
-      "link": "https://www.qbitai.com/2026/07/463727.html",
-      "summary": "学习强国AI频道发起「AI星伙社区」，试图回答一个行业回避已久的问题：AI的下半场，谁能帮广大人民群众解决真实的需求？大模型应用百花齐放，AI办公、AI编程、AI创作、AI教育，几乎每个细分方向都挤满了玩家。行业会议一场接一场，融资新闻天天有，产品发布会的PPT一张比一张精美。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "link": "https://www.qbitai.com/2026/08/464693.html",
+      "summary": "去年10月，OpenAI完成了一轮约66亿美元的员工要约收购，超过600名员工参与，不少人一夜之间成为千万富翁。但换个角度看，一个只在OpenAI工作了8个月的研究员，账面股权价值就达到约70万美元，也能从侧面反映出，在如今的估值体系下，OpenAI员工持有的股权价值已经相当可观。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "link": "https://www.qbitai.com/2026/08/464532.html",
+      "summary": "这套系统做的事情，听起来并不复杂：把一个真实机器人任务搬进仿真，在仿真放大的任务场景中训练和评测策略，再把策略部署回真实机器人。更关键的是，策略在仿真中的相对表现，能否预测它回到真机后的表现；仿真中发现的失败区域，能否提前暴露真实部署可能遇到的问题。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "Smallest.ai 融资 1300 万美元，用于构建听起来像人类的超快语音 AI",
       "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
       "summary": "该初创公司正在构建旨在使人工智能电话通过图灵测试的语音模型。",
@@ -58,40 +76,22 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "AI 对冲基金 Situation Awareness 可能已出售其公开投资组合，但仍持有 Anthropic 股票",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "summary": "在杠杆公开押注暴跌后，这位前 OpenAI 研究人员的基金被迫抛售公开股票。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "投资者喜欢人工智能，只要你是云主机",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "summary": "亚马逊并没有放缓数据中心支出，但投​​资者似乎并不介意。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 9,
-      "title": "将研究与国会山的政策联系起来",
-      "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
-      "summary": "今年春天，25 名麻省理工学院的学生和博士后前往华盛顿会见国会工作人员，并倡导联邦对科学研究的持续投资。",
-      "source": "麻省理工学院新闻 - 人工智能",
+      "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "Okta 收购人工智能安全初创公司 Permiso——消息称斥资约 2 亿美元",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "summary": "当企业寻求跨云环境保护人工智能代理和其他非人类身份时，这笔交易为 Okta 提供了身份威胁检测功能。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "Anthropic模型，也失控了。。。",
+      "link": "https://www.qbitai.com/2026/08/464412.html",
+      "summary": "14万次测试翻旧账",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
@@ -101,51 +101,6 @@
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-      "link": "https://www.qbitai.com/2026/07/464328.html",
-      "summary": "2026年7月召开的计算机图形学顶会SIGGRAPH，公布了时间检验奖（Test-of-Time Award）。而今年，香港大学计算机科学系教授Taku Komura与团队成员在2016年发表的《A Deep Learning Framework for Character Motion Synthesis and Editing》获此殊荣。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-      "link": "https://www.qbitai.com/2026/07/464277.html",
-      "summary": "过去一年，视频模型因Scaling红利已获得了突飞猛进，但至今有一项定位未曾变化：它们只负责为你提供「一段素材」。素材生成后呢？你还得把它拖进PR里，加字幕、调色、做转场、配音乐、套模板……反正后面还有「一万件」事在等着你。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "姚顺雨拿50年数学难题成绩单，招人了",
-      "link": "https://www.qbitai.com/2026/07/464100.html",
-      "summary": "近一年来，多项AI辅助搜索将纪录提高到1.1449，Codex在有人类引导的实验中进一步做到了1.2851。Hyra-1.0负责搭建科研循环，维护经验、组织实验并根据结果不断迭代；Hy3则为这套系统提供核心模型能力。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "Anthropic 表示，其自己的人工智能模型在安全测试中入侵了三家公司",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "summary": "在 OpenAI 的模型闯入 Hugging Face 之后，Anthropic 检查了自己的历史记录，发现了三起类似的事件。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 16,
-      "title": "法官称特朗普政府仍缺乏人为“供应链风险”标签的证据",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "summary": "一名联邦法官表示，特朗普政府没有提供足够的证据来证明给 Anthropic 贴上供应链风险的标签，这让人们对政府对其人工智能技术的禁令产生了怀疑。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
