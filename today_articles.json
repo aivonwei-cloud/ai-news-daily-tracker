@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T08:03:36.729146+08:00",
-  "total": 11,
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T08:00:55.944716+08:00",
+  "total": 4,
   "articles": [
     {
       "num": 1,
@@ -23,82 +23,19 @@
     },
     {
       "num": 3,
-      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
-      "link": "https://www.qbitai.com/2026/08/464713.html",
-      "summary": "在Relentless最新一期《How to Start a Startup》的访谈中，OpenAI联合创始人兼CEO奥特曼谈到开发Sora应用时下载了TikTok吸取经验，然后沉迷了… 访谈后半段他提到，OpenAI在编码智能体取得进展后，选择停掉Sora这类原本也很看好的项目，也是打算把算力、团队和精力集中到更关键的方向上来。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
+      "title": "付钱给艺术家足以说服他们接受人工智能吗？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "summary": "插画家多年来一直对生成人工智能初创公司在未经许可的情况下根据艺术家的作品训练他们的模型发出警报。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 4,
-      "title": "印度开始为应用程序付费，而不仅仅是下载它们",
-      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "summary": "印度应用程序市场第二季度创造了创纪录的 3.45 亿美元收入。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "summary": "一种允许任何人生成虚假的人工智能生成图像并将其叠加在真实的谷歌地球地图上的工具很快引发了强烈反对。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
-      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-      "link": "https://www.qbitai.com/2026/08/464693.html",
-      "summary": "去年10月，OpenAI完成了一轮约66亿美元的员工要约收购，超过600名员工参与，不少人一夜之间成为千万富翁。但换个角度看，一个只在OpenAI工作了8个月的研究员，账面股权价值就达到约70万美元，也能从侧面反映出，在如今的估值体系下，OpenAI员工持有的股权价值已经相当可观。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 7,
-      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-      "link": "https://www.qbitai.com/2026/08/464532.html",
-      "summary": "这套系统做的事情，听起来并不复杂：把一个真实机器人任务搬进仿真，在仿真放大的任务场景中训练和评测策略，再把策略部署回真实机器人。更关键的是，策略在仿真中的相对表现，能否预测它回到真机后的表现；仿真中发现的失败区域，能否提前暴露真实部署可能遇到的问题。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "Smallest.ai 融资 1300 万美元，用于构建听起来像人类的超快语音 AI",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "summary": "该初创公司正在构建旨在使人工智能电话通过图灵测试的语音模型。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
       "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "summary": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "Anthropic模型，也失控了。。。",
-      "link": "https://www.qbitai.com/2026/08/464412.html",
-      "summary": "14万次测试翻旧账",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "Anthropic 表示克劳德也无意中入侵了真实的公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "summary": "Anthropic 刚刚意识到，其几个 Claude AI 模型在测试过程中侵入了三个不同组织的系统，并在公司没有注意到的情况下自行行动。",
-      "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     }
