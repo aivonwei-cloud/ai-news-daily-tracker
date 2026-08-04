@@ -1,42 +1,123 @@
 {
-  "date": "2026-08-03",
-  "generated_at": "2026-08-03T08:00:55.944716+08:00",
-  "total": 4,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T08:01:06.234035+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "summary": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
+      "title": "AWS 正在帮助振动编码初创公司 Superblocks，其影响是巨大的",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS 现在允许将 vivi 编码工具 Superblocks 嵌入到 AWS 客户的私有云中。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
-      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "summary": "这款 9 美元的 NFC 钥匙需要您对其进行物理扫描才能解锁手机上分散注意力的应用程序。",
+      "title": "国会最喜欢的人工智能工具？聊天GPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "summary": "众议院支出记录显示，OpenAI 的 ChatGPT 在国会山的付费人工智能使用中占据主导地位，国会办公室依靠聊天机器人起草备忘录、总结立法并协助选民委员会……",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "付钱给艺术家足以说服他们接受人工智能吗？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "summary": "插画家多年来一直对生成人工智能初创公司在未经许可的情况下根据艺术家的作品训练他们的模型发出警报。",
-      "source": "人工智能 |边缘",
+      "title": "当品牌开始争夺AI的答案：翰智GEO入场",
+      "link": "https://www.qbitai.com/2026/08/465662.html",
+      "summary": "过去二十年，品牌在线上的核心动作是“被搜索到”：买关键词、做排名、抢位置。但这套逻辑正在松动。中国互联网络信息中心（CNNIC）发布的报告显示，截至2025年12月，我国生成式人工智能用户规模已达6.02亿人，较2024年底增长141.7%；QuestMobile数据则显示，截至2026年3月，国内AI原生App整体用户规模已达4.46亿。圈子里有个判断被反复提起：用户获取信息的核心渠道，已经从搜索引擎搬到了AI手里。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+      "link": "https://www.qbitai.com/2026/08/465215.html",
+      "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "阿里“千问办公”开启公测",
+      "link": "https://www.qbitai.com/2026/08/465211.html",
+      "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "Marc Benioff 支持的初创公司认为人工智能可以解决人工智能部署问题",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June 今天从隐秘状态中脱颖而出，获得了 2000 万美元的种子前融资，以简化人工智能的采用。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+      "link": "https://www.qbitai.com/2026/08/465361.html",
+      "summary": "由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会暨陕西科创产业生态大会圆满落下帷幕。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
+      "link": "https://www.qbitai.com/2026/08/465225.html",
+      "summary": "Demo视频还在刷屏，融资新闻还在刷新纪录——开年至今，国内赛道融资事件超过200起，百亿估值俱乐部扩员到了13家。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "Design Arena 创作者筹集了 790 万美元，为 AI 模型带来品味",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena 被全球 530 万人使用，为前沿实验室提供关键的人类评估。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 4,
-      "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "summary": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "num": 10,
+      "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+      "link": "https://www.qbitai.com/2026/08/465673.html",
+      "summary": "这是一个轻量级原生统一多模态模型的早期预览版本。它延续了商汤自研的NEO-Unify架构，把语言、视觉语义和像素生成放进同一套模型里，覆盖视觉理解、推理、生成与编辑。画面正中央，是一台被拆解开的复古相机。镜头、快门、胶片仓、卷片轴、取景器等结构，被一层层摊开来讲清楚；一束橙色光线从镜头前方打进来，顺着成像路径一路穿过去，整张图的视觉中心也因此一下子立住了。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
+      "link": "https://www.qbitai.com/2026/08/465226.html",
+      "summary": "总参数量达到2.4万亿，在编程、专业工作、长程任务、多模态智能体等场景上的表现直接next level。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
+      "link": "https://www.qbitai.com/2026/08/465176.html",
+      "summary": "事情是这样的，一名Midjourney工程师，最近在X上翻出了前谷歌大脑负责人Jeff Dean的一段旧采访： 我有时会想Jeff Dean的那次采访，他说他们在ChatGPT之前就有一个内部的Chatbot，但觉得用它还不如直接用谷歌搜索。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+      "link": "https://www.qbitai.com/2026/08/464835.html",
+      "summary": "面向AI Agent的可迁移、自演进记忆操作层MindMemOS",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     }
   ]
