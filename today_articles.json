@@ -1,64 +1,91 @@
 {
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T08:01:30.827363+08:00",
-  "total": 12,
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:01:36.461968+08:00",
+  "total": 11,
   "articles": [
     {
       "num": 1,
-      "title": "据报道，Jony Ive 的第一个 OpenAI 小工具是一个冰球大小的智能扬声器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "summary": "OpenAI 与前苹果设计师 Jony Ive 共同开发的 AI 设备“本质上是一款没有显示屏的智能扬声器”，由电池供电，呈甜甜圈形状，大小与冰球差不多……",
-      "source": "人工智能 |边缘",
+      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI 表示，由于对其网络安全能力的担忧，该公司已暂停其即将推出的 Astra 车型的某些方面的工作。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "summary": "这一代二十多岁的年轻人对基于滑动的约会应用程序感到非常失望，他们几乎会尝试其他任何东西——甚至是人工智能媒人。",
+      "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "在敲响人工智能使用警钟后，Rippling 本周推出了 AI Spend Console，这是一款跟踪个人和团队员工人工智能支出的产品。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "在法律斗争中，Suno 表示将开始为歌曲添加水印",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "summary": "Suno 推出水印功能之际，该公司正在多方面进行法律斗争。",
+      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Kitesurf 是一款云托管浏览器，专为人工智能代理而不是人类而设计。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "summary": "该初创公司的平台可以预测购物者接下来想要哪种产品，了解他们的总体品味，并根据他们的实时行为不断进行微调。",
+      "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "summary": "Airbnb 将推出一种新的人工智能驱动的带有切换功能的搜索体验。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "谷歌地图增加了代理功能，包括食品订购和酒店预订",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "summary": "这些新功能的推出反映了谷歌将谷歌地图从导航工具转变为能够帮助用户完成现实世界任务的助手的雄心。",
+      "title": "吉尔·莱波雷 (Jill Lepore) 谈“人造国家”以及为何硅谷领导人不擅长科幻小说",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "summary": "历史学家吉尔·莱波雷（Jill Lepore）有一个理论，解释为什么科技公司经常使用高调的语言来描述他们的产品——几乎就像他们正在组建一个新政府一样。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "Omilia 融资 6700 万美元以扩展其客户支持平台",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "summary": "B 轮融资是该公司自 2020 年上次融资以来的第二次融资。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "summary": "OpenAI 表示，它正在暂停围绕正在开发的人工智能模型 Astra 的“内部活动”，因为它尚未满足该公司正在制定的新安全标准。",
+      "source": "人工智能 |边缘",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 7,
+      "title": "斯坦福 Evo 2 AI 模型可生成针对大肠杆菌的噬菌体",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "summary": "斯坦福大学的研究人员利用 Evo 2 生成式 AI 模型生成的 DNA 序列合成了近 300 个噬菌体。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 8,
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "link": "https://www.qbitai.com/2026/08/467840.html",
+      "summary": "但随着大模型进入长上下文、复杂推理和多智能体阶段，决定一套系统能够产出多少有效Token的因素正在变得更加复杂。GPU依然是算力底座，其实际利用率却越来越取决于模型权重、KV Cache和MoE专家能否在正确的时间到达正确的计算节点。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "智元下架了首席科学家罗剑岚",
+      "link": "https://www.qbitai.com/2026/08/467730.html",
+      "summary": "2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家。与此同时，由他牵头组建的“智元具身智能研究中心”也正式成立，主要负责具身智能前沿算法研发以及相关技术的工程化落地。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
       "title": "ChatGPT 为免费用户带来无限的文本聊天",
       "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "summary": "OpenAI 表示，ChatGPT 免费版和 Go 用户还获得了一个用于复杂查询的新思考按钮。",
@@ -67,46 +94,10 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
-      "title": "OpenAI 为 ChatGPT 免费用户提供无限制的文本聊天",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "summary": "OpenAI 正在为其免费和 Go 级别的 ChatGPT 用户做出重大改变：据 OpenAI 称，从下周开始，这些级别的用户将能够与聊天机器人进行无限制的文本聊天。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "独家： Mirendil 与 Google Cloud 签署价值超过 1 亿美元的协议，以扩展自我改进的人工智能",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "summary": "Mirendil 已与 Google Cloud 签署价值超过 1 亿美元的合作伙伴关系，以扩展其计算基础设施，推动自我改进人工智能系统的研究，旨在加速科学发现和……",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "OpenAI 称苹果的商业机密诉讼“烂透了”",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "summary": "OpenAI 已要求联邦法官驳回苹果公司指控 ChatGPT 制造商窃取商业机密的具有里程碑意义的诉讼，并称这些指控“毫无根据”。在昨天提交的一项动议中，...",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "杰夫·迪恩 (Jeff Dean) 和其他顶尖人工智能研究人员将离开谷歌，创办自己的初创公司",
-      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "summary": "这位传奇的谷歌高管与其他即将离任的谷歌高管一起执行一项联合任务，利用人工智能推动科学发现的进程。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
       "title": "左派和右派在一件事上达成一致：没有数据中心",
       "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "summary": "今天，我与 The Verge 的政策记者 Gaby Del Valle 讨论了针对人工智能数据中心日益增长的抵制情绪。",
+      "summary": "今天，我正在与 The Verge 的政策记者 Gaby Del Valle 谈论针对人工智能数据中心日益增长的抵制情绪。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "📋 政策与监管"
