@@ -1,15 +1,15 @@
 {
-  "date": "2026-08-08",
-  "generated_at": "2026-08-08T08:01:36.461968+08:00",
-  "total": 11,
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:03:19.723663+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "OpenAI 表示，由于对其网络安全能力的担忧，该公司已暂停其即将推出的 Astra 车型的某些方面的工作。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "link": "https://www.qbitai.com/2026/08/468398.html",
+      "summary": "甚至连刚刚接过Google DeepMind运营大权的Koray Kavukcuoglu，也从伦敦搬进Mountain View总部。（doge） 一边是位于加州Mountain View的谷歌总部，掌握着搜索、云、Android等庞大产品和商业体系。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
@@ -50,57 +50,93 @@
     },
     {
       "num": 6,
+      "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "summary": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "OpenAI 收购演示初创公司 NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide 表示其团队成员目前正在开发 ChatGPT。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "亚马逊数据中心可能拥有全国污染最严重的发电厂",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "据报道，为了为其新的西德克萨斯数据中心供电，亚马逊正在投资建设一座新发电厂，该发电厂可能成为美国最大的温室气体单一生产商之一。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "link": "https://www.qbitai.com/2026/08/468555.html",
+      "summary": "当海外NeoLab还忙于靠叙事拿下数亿美元融资时，一家中国团队用连续三篇论文，交出了自进化AI领域第一份全栈答案。近三年来，盛大All in AI，在原有风险投资体系基础上，通过内部孵化机制在全球范围内广泛吸引顶尖AI人才，陆续孵化出多支专注于不同AI方向的研究型团队。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "link": "https://www.qbitai.com/2026/08/468498.html",
+      "summary": "Jeff Dean联合创立并管理Google Brain，团队规模一度达到约600人；其管理的Google Research及AI团队，规模最高达到约4400人。Dario Amodei、Ilya Sutskever、Noam Shazeer…这些耳熟能详的大佬就不用说了，还有Physical Intelligence、Thinking Machines、Sakana AI等知名AI Lab的创始人。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 11,
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "link": "https://www.qbitai.com/2026/08/468631.html",
+      "summary": "把全家人的日程表和孩子们的兴趣统统喂给ChatGPT，然后让它在每天早晨送娃上学的路上，自动生成一期专属家庭播客，陪老二聊聊下午的足球赛、陪老大畅想一下即将到来的生日，中间再为大人丝滑地穿插几条新闻。听起来，全家人的大事小事都被ChatGPT安排得明明白白，父母再也不需要为找和孩子的共同话题而绞尽脑汁。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "link": "https://www.qbitai.com/2026/08/468462.html",
+      "summary": "上周，是这只大怪兽的初次亮相。奥特曼在华盛顿向政府介绍了Astra，重点展示了多个 Agent长时间协同工作的能力，旨在展示该模型在处理复杂项目方面的潜力，比如—— 一次性拿下了10项长期悬而未决的数学与理论计算机科学公开难题，横跨高维几何、编码理论、群论、算子代数、量子复杂度和极值组合学等领域。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "link": "https://www.qbitai.com/2026/08/468338.html",
+      "summary": "美国AI安全初创公司Frontier Security表示，Kimi K3在一次网络安全能力测试中被发现突破了原本用于隔离它的沙箱环境，绕过限制连接到了外部互联网。Frontier Security的CEO Yaron Singer表示：“我们发现了沙箱中的漏洞，但同时也发现Kimi利用了这个漏洞，这说明Kimi K3缺少其他先进模型通常具备的安全护栏。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI 表示，这个仍在开发中的模型已经达到了“关键的网络安全阈值”，这意味着它可以独立识别并针对传统上良好的专业网络进行网络攻击……",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
       "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
       "summary": "OpenAI 表示，它正在暂停围绕正在开发的人工智能模型 Astra 的“内部活动”，因为它尚未满足该公司正在制定的新安全标准。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 7,
-      "title": "斯坦福 Evo 2 AI 模型可生成针对大肠杆菌的噬菌体",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "summary": "斯坦福大学的研究人员利用 Evo 2 生成式 AI 模型生成的 DNA 序列合成了近 300 个噬菌体。",
-      "source": "AI新闻网",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 8,
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "link": "https://www.qbitai.com/2026/08/467840.html",
-      "summary": "但随着大模型进入长上下文、复杂推理和多智能体阶段，决定一套系统能够产出多少有效Token的因素正在变得更加复杂。GPU依然是算力底座，其实际利用率却越来越取决于模型权重、KV Cache和MoE专家能否在正确的时间到达正确的计算节点。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "智元下架了首席科学家罗剑岚",
-      "link": "https://www.qbitai.com/2026/08/467730.html",
-      "summary": "2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家。与此同时，由他牵头组建的“智元具身智能研究中心”也正式成立，主要负责具身智能前沿算法研发以及相关技术的工程化落地。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "ChatGPT 为免费用户带来无限的文本聊天",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI 表示，ChatGPT 免费版和 Go 用户还获得了一个用于复杂查询的新思考按钮。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "左派和右派在一件事上达成一致：没有数据中心",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "summary": "今天，我正在与 The Verge 的政策记者 Gaby Del Valle 谈论针对人工智能数据中心日益增长的抵制情绪。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
