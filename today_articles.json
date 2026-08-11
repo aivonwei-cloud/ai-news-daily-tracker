@@ -1,10 +1,55 @@
 {
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T08:01:02.012082+08:00",
-  "total": 11,
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:01:14.030039+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
+      "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI 正在扩展其人工智能网络安全防御计划 Daybreak，并推出新的网络训练人工智能模型。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "Meta 的新 Glimmer AI 模型为扎克伯格的个人智能愿景提供了暗示",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "summary": "Meta 的新开放权重 Muse Glimmer 模型让我们一睹马克·扎克伯格的个人超级智能愿景，以及人工智能用户可以拥有和访问之间正在出现的鸿沟。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "Meta Muse Glimmer 将本地 AI 代理引入消费级 GPU",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "summary": "Meta 正在 Apache 2.0 许可证下发布 Muse Glimmer，用于可在消费级 GPU 上运行的本地 AI 代理。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "福特的新人工智能助手可以检查你的燃油水平和轮胎压力",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "summary": "福特正在推出一款新的人工智能助理，可以回答有关您的福特或林肯车辆的问题，例如您下次公路旅行需要多少燃料，或者您的卡车是否可以牵引......",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+      "link": "https://www.qbitai.com/2026/08/469520.html",
+      "summary": "行不行看能力，这个最好验证，从过往做过的产品和成绩里就能看出来，而且两人的能力要互补，他管技术和研发，任庚管商业和管理。“昆仑”是中华民族的图腾，一说出来大家就知道，这是一家有很强的民族使命感的中国公司；“行”代表使命必达，一定能行。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
       "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
       "summary": "这家专注于人工智能的对冲基金仍在进行一些大赌注。",
@@ -13,79 +58,61 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 2,
-      "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "summary": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 3,
-      "title": "OpenAI 收购演示初创公司 NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide 表示其团队成员目前正在开发 ChatGPT。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 4,
-      "title": "亚马逊数据中心可能拥有全国污染最严重的发电厂",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "据报道，为了为其新的西德克萨斯数据中心供电，亚马逊正在投资建设一座新发电厂，该发电厂可能成为美国最大的温室气体单一生产商之一。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 5,
-      "title": "Anthropic 默认开启 Claude Code 的自动模式",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "使用 Claude Code 进行编程很快将需要更少的人工监督。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 6,
-      "title": "180万刀，连亚马逊都烧不起Claude了",
-      "link": "https://www.qbitai.com/2026/08/469010.html",
-      "summary": "洛阳纸贵，Agent用量爆炸已成为科技公司的噩梦，这些公司不幸地发现：原来比起AI，人的最大优势是可以拖欠工资（x）。Agent可能会失败，但它也会坚韧不拔、日夜不休地反复重试。那是风平浪静的一天，没有任何人警告它「Please wait before trying again」。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 7,
-      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
-      "link": "https://www.qbitai.com/2026/08/468913.html",
-      "summary": "微软研究院首席研究员Dimitris Papailiopoulos，证明了一个多项式时间算法，能让MIMO检测精确命中最大似然阈值。MIMO检测是无线通信领域的一个经典问题，需要接收端从被噪声搅乱的信号中，把发送端原本发出的信息完整还原。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "凭借对物理的感觉，人工智能模型可以模拟更广泛的现实世界场景",
+      "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+      "summary": "人工智能模型适用于许多行业，包括编写、生成图像和创建 3D 模型。",
+      "source": "麻省理工学院新闻 - 人工智能",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-      "link": "https://www.qbitai.com/2026/08/468782.html",
-      "summary": "在训练过程中，出题、解题、验证都交给AI把控，通过可验证前沿任务持续生成高质量自演进合成数据，全程无需人类逐题参与。不仅如此，在FrontierScience Research、PaperBench等多项高难度科研任务上，成绩甚至超过了1T级的DeepSeek V4 Pro Preview。",
+      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+      "link": "https://www.qbitai.com/2026/08/469795.html",
+      "summary": "然而受精力所限，同行评审审稿人几乎没有时间从头下载数据、运行模型或复现实验，以验证论文中的每一个实验结论。与此同时随着AI领域的论文数量爆炸增长，模型越来越复杂，实验规模越来越大，一篇论文背后的代码、数据、参数设置可能涉及数百个细节。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "link": "https://www.qbitai.com/2026/08/468766.html",
-      "summary": "游戏使用Vite、TypeScript和Three.js开发，完全不使用任何外部资源，所有模型、纹理和声音都由代码生成。里面的分层结构非常清晰：先定义硬约束，再定义视觉标准，再定义功能需求，再定义开发流程，最后定义交付标准。",
+      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+      "link": "https://www.qbitai.com/2026/08/469721.html",
+      "summary": "近日，IEEE Spectrum重点关注了一项新研究——ARA（Agent-Native Research Artifact）。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
+      "title": "物理人工智能的局限性：西门子称人类仍将掌控一切",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "summary": "物理 AI 现在可以探索数千种设计变体，而传统模拟则需要仔细研究其中的一些变体。据西门子称，速度快了 1,000 倍。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "模型路线趋同之后，Physical AI的胜负手变了",
+      "link": "https://www.qbitai.com/2026/08/469544.html",
+      "summary": "那就是AI如何从真实世界获取数据，如何形成对环境的理解、把理解转化为行动，又如何根据行动结果继续学习。早期的驾驶系统，是一套高度模块化的软件系统。感知负责识别车辆、道路和行人，预测负责推测其他交通参与者的运动，规划和控制再决定车辆的具体行动。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "一名 OpenClaw 特工侵入了一家健身房的预订系统，将其人类老板提升到了课程候补名单上的位置。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 13,
       "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主",
       "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "summary": "在最新一集的《Equity》中，我们采访了吉尔·莱波雷（Jill Lepore），谈论了“机器政府”以及为什么埃隆·马斯克（Elon Musk）是一个糟糕的科幻小说读者。",
@@ -94,10 +121,10 @@
       "category": "📋 政策与监管"
     },
     {
-      "num": 11,
+      "num": 14,
       "title": "AI安全测试正成为安全风险",
       "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "人工智能代理正在逃离网络安全测试环境并到达现实世界的系统，这引发了关于安全基础设施、行业标准和监管是否能够跟上我的步伐的问题……",
+      "summary": "人工智能代理正在逃离网络安全测试环境并到达现实世界的系统，这引发了关于安全基础设施、行业标准和监管是否能够跟上步伐的问题……",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
