@@ -1,64 +1,127 @@
 {
-  "date": "2026-08-11",
-  "generated_at": "2026-08-11T08:01:14.030039+08:00",
-  "total": 14,
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T08:01:35.247666+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "summary": "OpenAI 正在扩展其人工智能网络安全防御计划 Daybreak，并推出新的网络训练人工智能模型。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "summary": "很多人整天和他们的人工智能朋友聊天。|图片来源：Google Google 产品第 14 次拥有 10 亿用户。",
+      "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Meta 的新 Glimmer AI 模型为扎克伯格的个人智能愿景提供了暗示",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "summary": "Meta 的新开放权重 Muse Glimmer 模型让我们一睹马克·扎克伯格的个人超级智能愿景，以及人工智能用户可以拥有和访问之间正在出现的鸿沟。",
+      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI 最终将专用的 ChatGPT 桌面应用程序引入 Linux 操作系统。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Meta Muse Glimmer 将本地 AI 代理引入消费级 GPU",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "summary": "Meta 正在 Apache 2.0 许可证下发布 Muse Glimmer，用于可在消费级 GPU 上运行的本地 AI 代理。",
-      "source": "AI新闻网",
+      "title": "谷歌 Gemini 应用用户数量激增至 10 亿",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "谷歌还分享了人们实际如何使用聊天机器人的数据，63% 的 Gemini 用户使用语音功能直接与助手交谈。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "福特的新人工智能助手可以检查你的燃油水平和轮胎压力",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "summary": "福特正在推出一款新的人工智能助理，可以回答有关您的福特或林肯车辆的问题，例如您下次公路旅行需要多少燃料，或者您的卡车是否可以牵引......",
+      "title": "Made by Google 2026：所有 Pixel 新闻和公告",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "summary": "谷歌正准备在 8 月 12 日发布一系列新的 Pixel 设备。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-      "link": "https://www.qbitai.com/2026/08/469520.html",
-      "summary": "行不行看能力，这个最好验证，从过往做过的产品和成绩里就能看出来，而且两人的能力要互补，他管技术和研发，任庚管商业和管理。“昆仑”是中华民族的图腾，一说出来大家就知道，这是一家有很强的民族使命感的中国公司；“行”代表使命必达，一定能行。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "未发布的人择模型在数学中最大的未解决问题之一上取得了进展",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "150 多年来，黎曼猜想一直是数学中未解决的主要问题之一。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "summary": "这家专注于人工智能的对冲基金仍在进行一些大赌注。",
+      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI 是一家由 xAI 联合创始人 Igor Babuschkin 创立的初创公司，对个人代理有着令人着迷的愿景，并获得了 11 亿美元的融资。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
+      "title": "宇树会破发吗？王兴兴回应了",
+      "link": "https://www.qbitai.com/2026/08/470307.html",
+      "summary": "但甭管中没中，咱也先别急，因为就在刚刚结束的宇树科技IPO路演里，宇树科技董事长、CEO、CTO王兴兴，来了一场超级版“回应一切”。从中签能赚多少、股价会不会破发，到219倍扣非市盈率怎么撑、高估值是否合理、利润增速放缓怎么办，公司是不是值得长期投资；",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "link": "https://www.qbitai.com/2026/08/470254.html",
+      "summary": "1、黄仁勋宣布，NVIDIA将与阿波罗全球管理公司（Apollo）、黑石集团（Blackstone）、贝莱德（BlackRock）、博枫（Brookfield）、高盛（Goldman Sachs）和KKR合作，建立一批独立融资平台，计划撬动超过5000亿美元的第三方资本，用于建设AI基础设施。值得一提的是，5000亿美元这个数字，恰好和当年OpenAI、软银、甲骨文推动的Stargate（星际之门）项目公布的投资规模一模一样。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "旧金山的房地产市场再次陷入困境。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
+      "title": "Anthropic 表示将为人工智能模型生成的文本添加水印",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "summary": "Anthropic 还将扩展对旧模型的 AI 水印支持。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+      "link": "https://www.qbitai.com/2026/08/470576.html",
+      "summary": "毕竟，在OpenAI、Anthropic不断刷新模型能力的背景下，Gemini Pro系列一直是外界衡量谷歌AI实力的重要标尺。我们等来了3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber，但3.5 Pro的影子都没看到。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "link": "https://www.qbitai.com/2026/08/470485.html",
+      "summary": "结果Claude这次虽然没打下终极Boss（A社：没有完全解决猜想），却在半路顺手刷新了一项长期纪录。为了找到其中的规律，黎曼研究了一个叫“黎曼ζ函数”的数学函数，这个函数有许多能让函数值变成0的“零点”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "link": "https://www.qbitai.com/2026/08/469869.html",
+      "summary": "2026年7月，OpenAI一款大模型在内部测试中“失控出逃”——自主发现漏洞、规划路径，成功入侵Hugging Face平台。该模型为获得更高评分，主动利用此前未知的零日漏洞突破沙箱，侵入存储测试答案的数据库，全程由AI自主完成。事后测试方发现，美国主流AI模型无法处理恶意载荷，最终转用中国开源模型完成溯源分析。这一事件将AI智能体的行为安全与运行时控制问题推至前台。而在更具量化性的国际安全测评中，问题的紧迫性同样得到了验证。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
       "title": "凭借对物理的感觉，人工智能模型可以模拟更广泛的现实世界场景",
       "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
       "summary": "人工智能模型适用于许多行业，包括编写、生成图像和创建 3D 模型。",
@@ -67,64 +130,10 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
-      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-      "link": "https://www.qbitai.com/2026/08/469795.html",
-      "summary": "然而受精力所限，同行评审审稿人几乎没有时间从头下载数据、运行模型或复现实验，以验证论文中的每一个实验结论。与此同时随着AI领域的论文数量爆炸增长，模型越来越复杂，实验规模越来越大，一篇论文背后的代码、数据、参数设置可能涉及数百个细节。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "link": "https://www.qbitai.com/2026/08/469721.html",
-      "summary": "近日，IEEE Spectrum重点关注了一项新研究——ARA（Agent-Native Research Artifact）。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "物理人工智能的局限性：西门子称人类仍将掌控一切",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "summary": "物理 AI 现在可以探索数千种设计变体，而传统模拟则需要仔细研究其中的一些变体。据西门子称，速度快了 1,000 倍。",
-      "source": "AI新闻网",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "模型路线趋同之后，Physical AI的胜负手变了",
-      "link": "https://www.qbitai.com/2026/08/469544.html",
-      "summary": "那就是AI如何从真实世界获取数据，如何形成对环境的理解、把理解转化为行动，又如何根据行动结果继续学习。早期的驾驶系统，是一套高度模块化的软件系统。感知负责识别车辆、道路和行人，预测负责推测其他交通参与者的运动，规划和控制再决定车辆的具体行动。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
+      "num": 15,
       "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
       "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
       "summary": "一名 OpenClaw 特工侵入了一家健身房的预订系统，将其人类老板提升到了课程候补名单上的位置。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 13,
-      "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "summary": "在最新一集的《Equity》中，我们采访了吉尔·莱波雷（Jill Lepore），谈论了“机器政府”以及为什么埃隆·马斯克（Elon Musk）是一个糟糕的科幻小说读者。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 14,
-      "title": "AI安全测试正成为安全风险",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "人工智能代理正在逃离网络安全测试环境并到达现实世界的系统，这引发了关于安全基础设施、行业标准和监管是否能够跟上步伐的问题……",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
