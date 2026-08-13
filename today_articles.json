@@ -1,142 +1,142 @@
 {
-  "date": "2026-08-12",
-  "generated_at": "2026-08-12T08:01:35.247666+08:00",
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T08:01:31.125886+08:00",
   "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "summary": "很多人整天和他们的人工智能朋友聊天。|图片来源：Google Google 产品第 14 次拥有 10 亿用户。",
-      "source": "人工智能 |边缘",
+      "title": "默认情况下，亚马逊将针对 Twitch 主播的内容进行训练，除非他们选择退出",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "Twitch 首席产品官 Mike Minton 在直播中回应用户反馈时表示：“如果这是选择加入，那么没有人会选择加入。”",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "summary": "OpenAI 最终将专用的 ChatGPT 桌面应用程序引入 Linux 操作系统。",
+      "title": "随着人工智能安全问题的加剧，三位先驱者提出了保持开放的理由",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "summary": "在 Ai4 会议上，世界上最受尊敬的三位人工智能专家——杰弗里·辛顿 (Geoffrey Hinton)、李飞飞和吴恩达 (Andrew Ng)——讨论了监管、开源准入以及美国如何在中国在亚洲取得进步的情况下进行竞争。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "谷歌 Gemini 应用用户数量激增至 10 亿",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "summary": "谷歌还分享了人们实际如何使用聊天机器人的数据，63% 的 Gemini 用户使用语音功能直接与助手交谈。",
+      "title": "Automattic 面向所有人的 CRM Mesh 现已登陆 Android",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "summary": "Mesh 是一款来自 Automattic 的人工智能驱动的联系人应用程序和关系管理器，现已成为 Android 应用程序。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Made by Google 2026：所有 Pixel 新闻和公告",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "summary": "谷歌正准备在 8 月 12 日发布一系列新的 Pixel 设备。",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "未发布的人择模型在数学中最大的未解决问题之一上取得了进展",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "summary": "150 多年来，黎曼猜想一直是数学中未解决的主要问题之一。",
+      "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "summary": "从 Pixel 11 系列到 Apple AirTag 的全新竞争对手，以下是 Made by Google 2026 活动的所有公告。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 5,
+      "title": "当然，ChatGPT 狗癌症疫苗催生了一家初创公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "summary": "还记得那个大肆宣传的关于一位澳大利亚科技企业家使用 ChatGPT、Grok 和其他人工智能工具为他的狗制作个性化癌症疫苗的故事吗？好吧，令人惊讶的是：他创办了一家初创公司。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 6,
-      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "summary": "River AI 是一家由 xAI 联合创始人 Igor Babuschkin 创立的初创公司，对个人代理有着令人着迷的愿景，并获得了 11 亿美元的融资。",
+      "title": "据报道，人工智能编码初创公司 Cognition 已在就估值 40B 美元的融资进行谈判",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "在以 260 亿美元的估值筹集 10 亿美元后的几个月，Cognition 可能正在寻求另一轮大型融资。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "宇树会破发吗？王兴兴回应了",
-      "link": "https://www.qbitai.com/2026/08/470307.html",
-      "summary": "但甭管中没中，咱也先别急，因为就在刚刚结束的宇树科技IPO路演里，宇树科技董事长、CEO、CTO王兴兴，来了一场超级版“回应一切”。从中签能赚多少、股价会不会破发，到219倍扣非市盈率怎么撑、高估值是否合理、利润增速放缓怎么办，公司是不是值得长期投资；",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "OpenAI 支持的 Thrive Holdings 筹集了 20 亿美元，将人工智能引入企业",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "summary": "Thrive Holdings 已从软银、D1 Capital Partners 和 Altimeter Capital 等投资者处筹集了 20 亿美元新资金，估值为 120 亿美元。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 8,
-      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
-      "link": "https://www.qbitai.com/2026/08/470254.html",
-      "summary": "1、黄仁勋宣布，NVIDIA将与阿波罗全球管理公司（Apollo）、黑石集团（Blackstone）、贝莱德（BlackRock）、博枫（Brookfield）、高盛（Goldman Sachs）和KKR合作，建立一批独立融资平台，计划撬动超过5000亿美元的第三方资本，用于建设AI基础设施。值得一提的是，5000亿美元这个数字，恰好和当年OpenAI、软银、甲骨文推动的Stargate（星际之门）项目公布的投资规模一模一样。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Lovable 确认新估值 13.3B 美元，再融资 4 亿美元",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "summary": "Lovable 告诉 TechCrunch，这笔新融资是在 6 月份年化运行收入达到 5 亿美元之后进行的。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 9,
-      "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "summary": "旧金山的房地产市场再次陷入困境。",
+      "title": "一笔 2.5 亿美元的收购如何因欺诈和伪造签名指控而崩溃",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "summary": "投资者仍在等待这 2.5 亿美元的意外之财，而 VideoVerse 联合创始人 Vinayak Shrivastav 目前正处于多起法律案件的中心。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 10,
+      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+      "link": "https://www.qbitai.com/2026/08/471162.html",
+      "summary": "他给出的应对方案也很Dario：向AI公司征税，为受影响的劳动者提供工资保险，严重时甚至用这笔钱资助全民基本收入。更进一步的，他还担心AI帮助制造生物武器、发动大规模网络攻击，或者逐渐获得欺骗、规划和自主行动的能力。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 11,
+      "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "Anthropic 的新水印系统是一种嘲讽吗？",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "Twitch 主播现在可以选择不参加亚马逊人工智能的训练",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "summary": "Twitch 用户现在可以选择不允许他们的内容被用于训练亚马逊的生成人工智能模型。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "谷歌测试 AMIE 进行临床视频咨询",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "summary": "谷歌的研究型医疗人工智能系统 AMIE（视频）与专业患者演员进行了同步视频咨询，并获得了与初级保健医生同等的临床评估评级……",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "Sabre 否认用 ChatGPT 取代 Rideshare Stimulator 的编剧",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "在一位前首席作家声称 Sabre“用 ChatGPT 取代了我”之后，首席执行官 Matthew Karch 现在声称，“Saber 和 Unigine 都没有用 AI 取代任何作家”，对于共享出行“刺激器”游戏来说……",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
       "title": "Anthropic 表示将为人工智能模型生成的文本添加水印",
       "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
       "summary": "Anthropic 还将扩展对旧模型的 AI 水印支持。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-      "link": "https://www.qbitai.com/2026/08/470576.html",
-      "summary": "毕竟，在OpenAI、Anthropic不断刷新模型能力的背景下，Gemini Pro系列一直是外界衡量谷歌AI实力的重要标尺。我们等来了3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber，但3.5 Pro的影子都没看到。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "link": "https://www.qbitai.com/2026/08/470485.html",
-      "summary": "结果Claude这次虽然没打下终极Boss（A社：没有完全解决猜想），却在半路顺手刷新了一项长期纪录。为了找到其中的规律，黎曼研究了一个叫“黎曼ζ函数”的数学函数，这个函数有许多能让函数值变成0的“零点”。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-      "link": "https://www.qbitai.com/2026/08/469869.html",
-      "summary": "2026年7月，OpenAI一款大模型在内部测试中“失控出逃”——自主发现漏洞、规划路径，成功入侵Hugging Face平台。该模型为获得更高评分，主动利用此前未知的零日漏洞突破沙箱，侵入存储测试答案的数据库，全程由AI自主完成。事后测试方发现，美国主流AI模型无法处理恶意载荷，最终转用中国开源模型完成溯源分析。这一事件将AI智能体的行为安全与运行时控制问题推至前台。而在更具量化性的国际安全测评中，问题的紧迫性同样得到了验证。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "凭借对物理的感觉，人工智能模型可以模拟更广泛的现实世界场景",
-      "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "summary": "人工智能模型适用于许多行业，包括编写、生成图像和创建 3D 模型。",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "summary": "一名 OpenClaw 特工侵入了一家健身房的预订系统，将其人类老板提升到了课程候补名单上的位置。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
