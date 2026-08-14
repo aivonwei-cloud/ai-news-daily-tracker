@@ -1,55 +1,91 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T08:01:31.125886+08:00",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T08:03:58.336169+08:00",
   "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "默认情况下，亚马逊将针对 Twitch 主播的内容进行训练，除非他们选择退出",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "summary": "Twitch 首席产品官 Mike Minton 在直播中回应用户反馈时表示：“如果这是选择加入，那么没有人会选择加入。”",
+      "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "作为 Z.ai 开源模型 GLM-5.2 的训练后变体，Writer 表示新系统应该以低得多的价格提供部署就绪的功能。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "随着人工智能安全问题的加剧，三位先驱者提出了保持开放的理由",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "summary": "在 Ai4 会议上，世界上最受尊敬的三位人工智能专家——杰弗里·辛顿 (Geoffrey Hinton)、李飞飞和吴恩达 (Andrew Ng)——讨论了监管、开源准入以及美国如何在中国在亚洲取得进步的情况下进行竞争。",
+      "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "summary": "OpenAI 正在推出其最新、最强大模型的加速版本预览，以吸引企业用户。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Automattic 面向所有人的 CRM Mesh 现已登陆 Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "summary": "Mesh 是一款来自 Automattic 的人工智能驱动的联系人应用程序和关系管理器，现已成为 Android 应用程序。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+      "link": "https://www.qbitai.com/2026/08/472208.html",
+      "summary": "这段时间里，为了测试，我几乎把我所有Vibe Coding项目，都从Codex迁移到了黑鲸（是的，logo黑化了）。快速体验：在已安装Node.js开发工具链的系统中，可以使用npx命令快速启动DeepSeek Harness的Web UI。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "summary": "从 Pixel 11 系列到 Apple AirTag 的全新竞争对手，以下是 Made by Google 2026 活动的所有公告。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "当然，ChatGPT 狗癌症疫苗催生了一家初创公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "summary": "还记得那个大肆宣传的关于一位澳大利亚科技企业家使用 ChatGPT、Grok 和其他人工智能工具为他的狗制作个性化癌症疫苗的故事吗？好吧，令人惊讶的是：他创办了一家初创公司。",
+      "title": "Suno 试图看起来更像一个真正的音乐制作工具",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "summary": "Suno 发布的 Studio 2.0 进行了重大升级，使其更接近实际的数字音频工作站 (DAW)，而不是具有生成 AI 功能的简单音频编辑器。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 5,
+      "title": "微软在合并其独立的 Copilot 应用程序的同时取消了不成功的人工智能功能",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "summary": "微软正在简化 Copilot，将其消费者和商业应用程序结合起来，并放弃人工智能生成的播客、群聊、深度研究及其 Mico 角色。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 6,
+      "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "summary": "Ali Ghodsi 告诉 TechCrunch，人工智能很昂贵。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "link": "https://www.qbitai.com/2026/08/472059.html",
+      "summary": "成立不到三年，首颗AI芯片进入量产，又拿下1.3亿美元B轮融资，Acrab正在成为亚洲AI芯片市场里最值得关注的新贵之一。据DealStreetAsia报道，这家总部位于新加坡的AI计算基础设施公司近日完成B轮融资，Vertex Growth等机构参与投资。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+      "link": "https://www.qbitai.com/2026/08/472067.html",
+      "summary": "它跑分反超了GPT-5.6 Sol和Fable 5 Max，价格却只要每百万token输入2美元、输出6美元，比两个对手便宜不少。衡量真实工作能力的GDPVal-AA v2上，Grok 4.6拿到了全场最高分1753，把它们都甩在了后面；AA-Briefcase和Harvey LAB两项测试，它同样排第一。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "link": "https://www.qbitai.com/2026/08/472060.html",
+      "summary": "近日，具身智能数据基础设施公司元点科技（SCALEFORCE）完成数千万元人民币融资，投资者包含国内顶级具身智能产业方、恒旭资本和凯联资本。本轮融资将主要用于元点科技物理AI操作系统MatrixOS技术迭代、大规模数据生产网络建设及团队扩展，加速成为全球领先的具身智能数据基础设施公司。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
       "title": "据报道，人工智能编码初创公司 Cognition 已在就估值 40B 美元的融资进行谈判",
       "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "summary": "在以 260 亿美元的估值筹集 10 亿美元后的几个月，Cognition 可能正在寻求另一轮大型融资。",
@@ -58,43 +94,34 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "OpenAI 支持的 Thrive Holdings 筹集了 20 亿美元，将人工智能引入企业",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "summary": "Thrive Holdings 已从软银、D1 Capital Partners 和 Altimeter Capital 等投资者处筹集了 20 亿美元新资金，估值为 120 亿美元。",
+      "num": 11,
+      "title": "人类让人工智能代理松散地执行同一任务。他们开始了地盘争夺战。",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "人类研究人员发现人工智能代理可以以意想不到的方式发生冲突、共谋和协调，这引发了新的问题：当今的安全测试是否捕捉到了多代理系统的风险。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
-      "title": "Lovable 确认新估值 13.3B 美元，再融资 4 亿美元",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "summary": "Lovable 告诉 TechCrunch，这笔新融资是在 6 月份年化运行收入达到 5 亿美元之后进行的。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "一笔 2.5 亿美元的收购如何因欺诈和伪造签名指控而崩溃",
-      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "summary": "投资者仍在等待这 2.5 亿美元的意外之财，而 VideoVerse 联合创始人 Vinayak Shrivastav 目前正处于多起法律案件的中心。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-      "link": "https://www.qbitai.com/2026/08/471162.html",
-      "summary": "他给出的应对方案也很Dario：向AI公司征税，为受影响的劳动者提供工资保险，严重时甚至用这笔钱资助全民基本收入。更进一步的，他还担心AI帮助制造生物武器、发动大规模网络攻击，或者逐渐获得欺骗、规划和自主行动的能力。",
+      "num": 12,
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "link": "https://www.qbitai.com/2026/08/472016.html",
+      "summary": "前不久用Fable 5推翻雅可比猜想的Anthropic研究员，又吭哧吭哧和两个人类伙伴带着Claude，做出了668阶哈达玛矩阵！Anthropic研究员、数学家Levent Alpöge报告称，他们找到了解决668阶哈达玛矩阵的方案，并感谢由三名人类和Claude组成的团队。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
+      "num": 13,
+      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+      "link": "https://www.qbitai.com/2026/08/471697.html",
+      "summary": "2026年8月13日，联想集团公布截至2026年6月30日的2026/27财年第一季度业绩：当季实现营收1834亿元人民币，同比猛增43%，创历史新高；单季经调整净利润首次突破10亿美元大关（折合超过73亿元人民币），同比增长176%；经调整净利润率同比接近翻倍至4.0%，同样刷新历史纪录。集团营收和经调整净利润均大幅超出市场预期。与此同时，联想集团三大主营业务营收均实现大双位数高速增长，并创历史同期新高；各市场大区营收同比增幅介于25%-58%的高速增长区间。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
       "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
       "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "summary": "Anthropic 的新水印系统是一种嘲讽吗？",
@@ -103,38 +130,11 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
+      "num": 15,
       "title": "Twitch 主播现在可以选择不参加亚马逊人工智能的训练",
       "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "summary": "Twitch 用户现在可以选择不允许他们的内容被用于训练亚马逊的生成人工智能模型。",
       "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "谷歌测试 AMIE 进行临床视频咨询",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "summary": "谷歌的研究型医疗人工智能系统 AMIE（视频）与专业患者演员进行了同步视频咨询，并获得了与初级保健医生同等的临床评估评级……",
-      "source": "AI新闻网",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "Sabre 否认用 ChatGPT 取代 Rideshare Stimulator 的编剧",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "summary": "在一位前首席作家声称 Sabre“用 ChatGPT 取代了我”之后，首席执行官 Matthew Karch 现在声称，“Saber 和 Unigine 都没有用 AI 取代任何作家”，对于共享出行“刺激器”游戏来说……",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "Anthropic 表示将为人工智能模型生成的文本添加水印",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "summary": "Anthropic 还将扩展对旧模型的 AI 水印支持。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     }
