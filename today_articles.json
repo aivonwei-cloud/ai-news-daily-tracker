@@ -1,51 +1,51 @@
 {
-  "date": "2026-08-14",
-  "generated_at": "2026-08-14T08:03:58.336169+08:00",
-  "total": 15,
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:01:38.935913+08:00",
+  "total": 11,
   "articles": [
     {
       "num": 1,
-      "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "summary": "作为 Z.ai 开源模型 GLM-5.2 的训练后变体，Writer 表示新系统应该以低得多的价格提供部署就绪的功能。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 2,
-      "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "summary": "OpenAI 正在推出其最新、最强大模型的加速版本预览，以吸引企业用户。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-      "link": "https://www.qbitai.com/2026/08/472208.html",
-      "summary": "这段时间里，为了测试，我几乎把我所有Vibe Coding项目，都从Codex迁移到了黑鲸（是的，logo黑化了）。快速体验：在已安装Node.js开发工具链的系统中，可以使用npx命令快速启动DeepSeek Harness的Web UI。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "Suno 试图看起来更像一个真正的音乐制作工具",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "summary": "Suno 发布的 Studio 2.0 进行了重大升级，使其更接近实际的数字音频工作站 (DAW)，而不是具有生成 AI 功能的简单音频编辑器。",
+      "title": "马克·扎克伯格有一个 Instazam",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "summary": "Instagram 的字标是标志性的。嗯，是标志性的。显然 Instagram 认为它看起来很旧，所以该公司本周推出了一个新字标。它看起来不像旧的 Instagram 字标。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 5,
-      "title": "微软在合并其独立的 Copilot 应用程序的同时取消了不成功的人工智能功能",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "summary": "微软正在简化 Copilot，将其消费者和商业应用程序结合起来，并放弃人工智能生成的播客、群聊、深度研究及其 Mico 角色。",
+      "num": 2,
+      "title": "您现在可以关闭 Google Gemini 的可见水印",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "谷歌现在允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "关闭此设置不会影响用于识别 AI 生成文件的隐形基准。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "马克·扎克伯格真的相信人工智能“适合所有人”吗？",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta 本周发布了 Glimmer，这是一个开放式人工智能模型，任何人都可以下载并在自己的硬件上运行 - 与 Muse Spark 形成鲜明对比，Muse Spark 是该公司更强大的模型，始终锁定在其 O…",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "link": "https://www.qbitai.com/2026/08/473379.html",
+      "summary": "27B（270亿参数）是全球AI社区呼声最高的模型尺寸，Qwen3.8-27B刚刚开源上线，部署便捷，快且实用。Qwen3.8-27B是原生多模态稠密（Dense）模型，支持262K 原生上下文，通过YaRN技术可外推至 1M Tokens上下文。较Qwen3.6-27B，新模型在编程和办公场景的性能大幅提升，表现甚至超越了Qwen3.7-Plus；同时，模型还新增了 reasoning_effort 功能，根据任务难度控制思考深度，更省资源。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
@@ -68,30 +68,30 @@
     },
     {
       "num": 8,
-      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-      "link": "https://www.qbitai.com/2026/08/472067.html",
-      "summary": "它跑分反超了GPT-5.6 Sol和Fable 5 Max，价格却只要每百万token输入2美元、输出6美元，比两个对手便宜不少。衡量真实工作能力的GDPVal-AA v2上，Grok 4.6拿到了全场最高分1753，把它们都甩在了后面；AA-Briefcase和Harvey LAB两项测试，它同样排第一。",
+      "title": "7亿年薪留不住！余家辉离职Meta创业",
+      "link": "https://www.qbitai.com/2026/08/473261.html",
+      "summary": "过去几个月，余家辉带领的多模态团队还接连交出了Muse Spark、Voice Mode、Muse Image和Muse Video。余家辉在官宣中表示，与扎克伯格、Meta首席AI官亚历山大王一起建设TBD Lab的经历「非常鼓舞人心且充实」。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-      "link": "https://www.qbitai.com/2026/08/472060.html",
-      "summary": "近日，具身智能数据基础设施公司元点科技（SCALEFORCE）完成数千万元人民币融资，投资者包含国内顶级具身智能产业方、恒旭资本和凯联资本。本轮融资将主要用于元点科技物理AI操作系统MatrixOS技术迭代、大规模数据生产网络建设及团队扩展，加速成为全球领先的具身智能数据基础设施公司。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "title": "Kog 正在更深入地利用 GPU 进行更多推理",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "法国初创公司 Kog 表示，认为 GPU 不太适合代理工作流程的想法可能是一种误解。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "据报道，人工智能编码初创公司 Cognition 已在就估值 40B 美元的融资进行谈判",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "summary": "在以 260 亿美元的估值筹集 10 亿美元后的几个月，Cognition 可能正在寻求另一轮大型融资。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "据报道，苹果公司与国内科技巨头阿里巴巴一起为中国市场训练了一个定制的人工智能模型，这是一种罕见的跨境合作伙伴关系，可以缓解北京和华盛顿之间日益紧张的关系……",
+      "source": "人工智能 |边缘",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
@@ -99,42 +99,6 @@
       "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "summary": "人类研究人员发现人工智能代理可以以意想不到的方式发生冲突、共谋和协调，这引发了新的问题：当今的安全测试是否捕捉到了多代理系统的风险。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-      "link": "https://www.qbitai.com/2026/08/472016.html",
-      "summary": "前不久用Fable 5推翻雅可比猜想的Anthropic研究员，又吭哧吭哧和两个人类伙伴带着Claude，做出了668阶哈达玛矩阵！Anthropic研究员、数学家Levent Alpöge报告称，他们找到了解决668阶哈达玛矩阵的方案，并感谢由三名人类和Claude组成的团队。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
-      "link": "https://www.qbitai.com/2026/08/471697.html",
-      "summary": "2026年8月13日，联想集团公布截至2026年6月30日的2026/27财年第一季度业绩：当季实现营收1834亿元人民币，同比猛增43%，创历史新高；单季经调整净利润首次突破10亿美元大关（折合超过73亿元人民币），同比增长176%；经调整净利润率同比接近翻倍至4.0%，同样刷新历史纪录。集团营收和经调整净利润均大幅超出市场预期。与此同时，联想集团三大主营业务营收均实现大双位数高速增长，并创历史同期新高；各市场大区营收同比增幅介于25%-58%的高速增长区间。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "summary": "Anthropic 的新水印系统是一种嘲讽吗？",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "Twitch 主播现在可以选择不参加亚马逊人工智能的训练",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch 用户现在可以选择不允许他们的内容被用于训练亚马逊的生成人工智能模型。",
-      "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     }
