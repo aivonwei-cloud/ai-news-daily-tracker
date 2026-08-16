@@ -1,10 +1,28 @@
 {
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T08:01:38.935913+08:00",
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:01:07.868449+08:00",
   "total": 11,
   "articles": [
     {
       "num": 1,
+      "title": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "这位女士声称人工智能工具“正在将日常生活变成儿童性虐待”。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+      "link": "https://www.qbitai.com/2026/08/473597.html",
+      "summary": "小黑鲸上线还没多久，单单在GitHub上打着dsh-plugin标签的公开仓库，就已经冲到了700+个？？？有人给它装浏览器、长期记忆、数据库和任务管理；有人嫌DeepSeek不会看图，现场接了个视觉模型进去。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
       "title": "马克·扎克伯格有一个 Instazam",
       "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
       "summary": "Instagram 的字标是标志性的。嗯，是标志性的。显然 Instagram 认为它看起来很旧，所以该公司本周推出了一个新字标。它看起来不像旧的 Instagram 字标。",
@@ -13,16 +31,16 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 4,
       "title": "您现在可以关闭 Google Gemini 的可见水印",
       "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "summary": "谷歌现在允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。",
+      "summary": "谷歌现在将允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
+      "num": 5,
       "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "summary": "关闭此设置不会影响用于识别 AI 生成文件的隐形基准。",
@@ -31,43 +49,43 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 4,
-      "title": "马克·扎克伯格真的相信人工智能“适合所有人”吗？",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "summary": "Meta 本周发布了 Glimmer，这是一个开放式人工智能模型，任何人都可以下载并在自己的硬件上运行 - 与 Muse Spark 形成鲜明对比，Muse Spark 是该公司更强大的模型，始终锁定在其 O…",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-      "link": "https://www.qbitai.com/2026/08/473379.html",
-      "summary": "27B（270亿参数）是全球AI社区呼声最高的模型尺寸，Qwen3.8-27B刚刚开源上线，部署便捷，快且实用。Qwen3.8-27B是原生多模态稠密（Dense）模型，支持262K 原生上下文，通过YaRN技术可外推至 1M Tokens上下文。较Qwen3.6-27B，新模型在编程和办公场景的性能大幅提升，表现甚至超越了Qwen3.7-Plus；同时，模型还新增了 reasoning_effort 功能，根据任务难度控制思考深度，更省资源。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
-      "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "summary": "Ali Ghodsi 告诉 TechCrunch，人工智能很昂贵。",
+      "title": "SpaceX 正式完成 Cursor 收购",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI 编码初创公司 Cursor 现已正式成为 SpaceX 的一部分。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "link": "https://www.qbitai.com/2026/08/472059.html",
-      "summary": "成立不到三年，首颗AI芯片进入量产，又拿下1.3亿美元B轮融资，Acrab正在成为亚洲AI芯片市场里最值得关注的新贵之一。据DealStreetAsia报道，这家总部位于新加坡的AI计算基础设施公司近日完成B轮融资，Vertex Growth等机构参与投资。",
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "link": "https://www.qbitai.com/2026/08/473876.html",
+      "summary": "Transcoder、稀疏特征模块等方法会学习一组新的内部单元，用它们近似原模型某一层或某个模块的计算，再通过保留、移除这些单元来寻找任务回路。这些方法推动了机制可解释性的发展，但也带来了一笔不小的额外成本：新的表示需要数据和优化，而且一旦替代模块没有充分复现原模块，后续分析就可能同时解释模型行为和替换误差。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "link": "https://www.qbitai.com/2026/08/473866.html",
+      "summary": "深夜灵光一闪，脑海里盘旋一段旋律；或是撞见治愈的风景、涌上难以言说的情绪，总想把这份瞬间的感触，做成一首专属歌曲、一段独家BGM。想微调乐器配比、把控曲风层次，只能反复修改提示词、不停重新生成，折腾大半天，最后只能无奈删掉、放弃创作。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "link": "https://www.qbitai.com/2026/08/473669.html",
+      "summary": "270亿的总参数量，在官方Benchmark多项软件工程和Agent评测中的表现吧，多少又有点让Claude《危》了—— Agent编程评测SWE-bench Pro上，27B以8.3分的优势卷超Claude Opus 4.6 Max。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
       "title": "7亿年薪留不住！余家辉离职Meta创业",
       "link": "https://www.qbitai.com/2026/08/473261.html",
       "summary": "过去几个月，余家辉带领的多模态团队还接连交出了Muse Spark、Voice Mode、Muse Image和Muse Video。余家辉在官宣中表示，与扎克伯格、Meta首席AI官亚历山大王一起建设TBD Lab的经历「非常鼓舞人心且充实」。",
@@ -76,28 +94,10 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 11,
       "title": "Kog 正在更深入地利用 GPU 进行更多推理",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "summary": "法国初创公司 Kog 表示，认为 GPU 不太适合代理工作流程的想法可能是一种误解。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "summary": "据报道，苹果公司与国内科技巨头阿里巴巴一起为中国市场训练了一个定制的人工智能模型，这是一种罕见的跨境合作伙伴关系，可以缓解北京和华盛顿之间日益紧张的关系……",
-      "source": "人工智能 |边缘",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "人类让人工智能代理松散地执行同一任务。他们开始了地盘争夺战。",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "summary": "人类研究人员发现人工智能代理可以以意想不到的方式发生冲突、共谋和协调，这引发了新的问题：当今的安全测试是否捕捉到了多代理系统的风险。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
