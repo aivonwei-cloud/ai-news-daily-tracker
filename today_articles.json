@@ -1,10 +1,46 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T08:03:15.421825+08:00",
-  "total": 6,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:03:18.606137+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
+      "title": "Wispr 以 20 亿美元估值筹集 2.8 亿美元，因为它看起来超越了指令",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "summary": "这些资金将使 Wispr 能够利用其新发布的笔记工具进军会议等新领域，从而扩大其足迹。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "summary": "Anthropic 已阐明其计划如何将隐形水印应用于 Claude 生成的文本，以遵守欧洲的人工智能透明度规则。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "link": "https://www.qbitai.com/2026/08/474537.html",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "link": "https://www.qbitai.com/2026/08/474361.html",
+      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "summary": "ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据、了解您的工作方式、建议自动化，甚至拾取您留下的任务……",
@@ -13,25 +49,25 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-      "link": "https://www.qbitai.com/2026/08/474064.html",
-      "summary": "她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "summary": "这位女士声称人工智能工具“正在将日常生活变成儿童性虐待”。",
+      "num": 6,
+      "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "summary": "Groq 以 35 亿美元的估值筹集了 3.5 亿美元，这家前 AI 芯片制造商转向 Neocloud 业务并扩大其由 Nvidia 驱动的数据中心业务。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "💰 投融资事件"
     },
     {
-      "num": 4,
+      "num": 7,
+      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "summary": "英伟达对软银数据中心开发商的投资将保证其芯片为 OpenAI 数据中心提供动力。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "summary": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。",
@@ -40,22 +76,58 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 5,
-      "title": "SpaceX 正式完成 Cursor 收购",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "summary": "AI 编码初创公司 Cursor 现已正式成为 SpaceX 的一部分。",
+      "num": 9,
+      "title": "Anthropic的年化收入飙升至$65B",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "summary": "这家模型制造商在两个月内增加了 180 亿美元的年收入。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 6,
-      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-      "link": "https://www.qbitai.com/2026/08/473947.html",
-      "summary": "就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。据彭博社报道，Claude背后的Anthropic，第二季度营收超过115亿美元，较去年同期的7.87亿美元暴涨逾14倍。",
+      "num": 10,
+      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "善本对于培训法学硕士来说非常有价值，因为这些模型已经根据在线可用的任何内容进行了培训。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "link": "https://www.qbitai.com/2026/08/474518.html",
+      "summary": "这场对局，很快就要搬进国家速滑馆「冰丝带」。8月22日至26日，第二届世界人形机器人运动会将在这里举行。乒乓球正是其中一档节目。参与表演的是由香港大学与超维动力KAI研究团队组成的港大超维战队。开幕式上，他们的机器人还将与几位乒乓球名将同场过招。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "link": "https://www.qbitai.com/2026/08/474381.html",
+      "summary": "这番听着多少有点数学界反骨的判断，正出自1998年菲尔兹奖得主、英国数学家Timothy Gowers。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "link": "https://www.qbitai.com/2026/08/474334.html",
+      "summary": "但传统视频生成模型生成的永远是一段固定、预设的成品视频，你无法干预剧情、不能调整视角、更不能改变下一秒画面内容。而现在，做这件事的团队多了起来。Google DeepMind的Genie 3、腾讯的WorldPlay、蚂蚁的LingBot-World，以及一批创业公司，都在推进这个方向。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "Relay 创始人兼首席执行官 Jacob Bank 表示：“我们有一些非常雄心勃勃的计划来帮助您在 Chrome 中使用人工智能来完成工作，我很快就会分享更多内容。”",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
