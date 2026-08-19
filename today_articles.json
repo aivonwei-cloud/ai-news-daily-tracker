@@ -1,55 +1,73 @@
 {
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T08:03:18.606137+08:00",
-  "total": 14,
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:03:48.059298+08:00",
+  "total": 16,
   "articles": [
     {
       "num": 1,
-      "title": "Wispr 以 20 亿美元估值筹集 2.8 亿美元，因为它看起来超越了指令",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "这些资金将使 Wispr 能够利用其新发布的笔记工具进军会议等新领域，从而扩大其足迹。",
+      "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor 以其人工智能代码编辑器而闻名，它正在推出一个新的代码托管平台，以与开发人员长期以来最喜欢的 GitHub 竞争。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "summary": "Anthropic 已阐明其计划如何将隐形水印应用于 Claude 生成的文本，以遵守欧洲的人工智能透明度规则。",
+      "title": "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "继 7 月份有消息称其 AI 突破沙盒环境并意外入侵 Hugging Face 后，OpenAI 宣布了安全更新，包括对其研究环境的改进……",
       "source": "人工智能 |边缘",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-      "link": "https://www.qbitai.com/2026/08/474537.html",
-      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "summary": "周二，Warp 推出了 Warp Factories，这是一种新的基础设施系统，旨在使构建人工智能软件工厂变得尽可能简单。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
-      "link": "https://www.qbitai.com/2026/08/474361.html",
-      "summary": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "OpenAI 为青少年推出了更安全的 ChatGPT——在青少年开始使用几年后",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "summary": "ChatGPT for Teens 增加了适合年龄的安全措施、家长控制和学习工具，旨在引导青少年远离有害内容，并避免使用人工智能在作业上作弊。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "summary": "ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据、了解您的工作方式、建议自动化，甚至拾取您留下的任务……",
-      "source": "人工智能 |边缘",
+      "title": "Alvys 推出用于货运 TMS 工作流程的人工智能代理",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "货运软件提供商 Alvys 推出了一个代理人工智能平台，允许承运商和经纪人直接在其运输管理系统 (TMS) 内自动执行操作任务。",
+      "source": "AI新闻网",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Etched 估值一个月内翻倍至 $21B",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "该初创公司表示，Jane Street 已经安装了 Etched 的第一个出货的人工智能集群系统，并留下了深刻的印象，它领导了另一轮大规模融资。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
+      "link": "https://www.qbitai.com/2026/08/474673.html",
+      "summary": "据OpenAI总裁Greg Brockman上周在内部邮件中披露，OpenAI的最新年化营收刚刚超过400亿美元。当时OpenAI全年实际收入达到131亿美元，年底年化营收超过200亿美元，是全球最会赚钱的大模型公司之一。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
       "summary": "Groq 以 35 亿美元的估值筹集了 3.5 亿美元，这家前 AI 芯片制造商转向 Neocloud 业务并扩大其由 Nvidia 驱动的数据中心业务。",
@@ -58,7 +76,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 9,
       "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
       "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
       "summary": "英伟达对软银数据中心开发商的投资将保证其芯片为 OpenAI 数据中心提供动力。",
@@ -67,16 +85,34 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。",
+      "num": 10,
+      "title": "Hugging Face 泄露后 OpenAI 制定了新的保障措施",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "新的保障措施包括在开发过程中对模型进行更详细的监控，以及在培训后过程中更加强调一致性和安全性。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 11,
+      "title": "当人工智能艺术没有作者时：研究发现生成的图像通常无法追溯到训练数据",
+      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "summary": "当人工智能图像生成器生成一幅肖像时，谁的作品参与其中？这个问题是全球诉讼、许可交易和拟议法规的核心。",
+      "source": "麻省理工学院新闻 - 人工智能",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "ChatGPT 正在为青少年提供专用模式",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "ChatGPT for Teens 包括保障措施和家长控制。",
+      "source": "人工智能 |边缘",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
       "title": "Anthropic的年化收入飙升至$65B",
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "summary": "这家模型制造商在两个月内增加了 180 亿美元的年收入。",
@@ -85,7 +121,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 14,
       "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "summary": "善本对于培训法学硕士来说非常有价值，因为这些模型已经根据在线可用的任何内容进行了培训。",
@@ -94,34 +130,16 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
-      "link": "https://www.qbitai.com/2026/08/474518.html",
-      "summary": "这场对局，很快就要搬进国家速滑馆「冰丝带」。8月22日至26日，第二届世界人形机器人运动会将在这里举行。乒乓球正是其中一档节目。参与表演的是由香港大学与超维动力KAI研究团队组成的港大超维战队。开幕式上，他们的机器人还将与几位乒乓球名将同场过招。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "num": 15,
+      "title": "为什么苹果配备摄像头的 AirPods 可能不是消费者担心的“变态 Pod”",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "苹果泄露的配备摄像头的 AirPods 可能会阻止用户录制照片和视频，从而避免其他人工智能可穿戴设备的隐私陷阱。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     },
     {
-      "num": 12,
-      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
-      "link": "https://www.qbitai.com/2026/08/474381.html",
-      "summary": "这番听着多少有点数学界反骨的判断，正出自1998年菲尔兹奖得主、英国数学家Timothy Gowers。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
-      "link": "https://www.qbitai.com/2026/08/474334.html",
-      "summary": "但传统视频生成模型生成的永远是一段固定、预设的成品视频，你无法干预剧情、不能调整视角、更不能改变下一秒画面内容。而现在，做这件事的团队多了起来。Google DeepMind的Genie 3、腾讯的WorldPlay、蚂蚁的LingBot-World，以及一批创业公司，都在推进这个方向。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
+      "num": 16,
       "title": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "summary": "Relay 创始人兼首席执行官 Jacob Bank 表示：“我们有一些非常雄心勃勃的计划来帮助您在 Chrome 中使用人工智能来完成工作，我很快就会分享更多内容。”",
