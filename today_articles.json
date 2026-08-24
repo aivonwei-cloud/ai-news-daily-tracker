@@ -1,10 +1,37 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T08:01:50.078869+08:00",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:01:09.904273+08:00",
   "total": 11,
   "articles": [
     {
       "num": 1,
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
+      "link": "https://www.qbitai.com/2026/08/478017.html",
+      "summary": "8月23日，上纬新材料科技股份有限公司（下称“上纬新材”）旗下启元机器人，正式开启启元Q1、启元T1双产品预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订。预订用户可享受现金优惠、首发限定及专属服务等多重权益。本次预订，预计首发发货时间为2026年9月。此次双产品正式开启预订，意味着启元机器人从此前的产品展示、线下体验，进一步迈向大众消费阶段。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
@@ -13,84 +40,57 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "link": "https://www.qbitai.com/2026/08/477246.html",
-      "summary": "8月19日-23日，2026世界机器人大会（WRC 2026）在北京亦庄盛大开幕，伽利略携全新产品Galileo X及多项前沿技术成果重磅参展，并完成该款新品的全球首发。作为国家级专精特新“小巨人”企业，伽利略长期深耕机器人核心技术研发。此次Galileo X的发布，是伽利略长期技术积累的一次集中释放，也标志着公司正式将“全域移动”推向更广阔的产业舞台。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "link": "https://www.qbitai.com/2026/08/477090.html",
-      "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-      "link": "https://www.qbitai.com/2026/08/476930.html",
-      "summary": "8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 5,
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
-      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-      "link": "https://www.qbitai.com/2026/08/477094.html",
-      "summary": "近期，一种新的路线开始浮现并逐渐火爆，这种方式把数据采集的视线从外部动作，进一步伸向人体的运动输出侧。去年8月，他在北京成立OriginFlow；截至今年5月，公司对外披露已连续完成天使轮、战略轮和Pre-A1轮融资，累计金额超过5亿元人民币，资方包括蓝驰、绿洲、Monolith等。",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "link": "https://www.qbitai.com/2026/08/478234.html",
+      "summary": "十年前，抱着机器狗坐十几个小时火车参加路演的王兴兴，如今身着黑色正装、佩戴红色围巾，站在中国资本市场最耀眼的聚光灯下。各家投中宇树的投资机构，纷纷发表祝贺、致谢或战报，既是与宇树共同分享喜悦，也是在展示自己投资成功的证明。",
       "source": "量子位",
       "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially…",
+      "num": 6,
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
+      "num": 7,
+      "title": "具身创业里的香港教授们",
+      "link": "https://www.qbitai.com/2026/08/478289.html",
+      "summary": "量子位收集整理了一下，至少有十六位香港高校教授，正以创始人、联合创始人、首席科学家等身份，亲自下场参与具身智能创业。有意思的是，这群教授创业，方向铺得相当广。具身智能从”会思考”的大脑与世界模型，到“看得清”的3D视觉，从指尖的触觉灵巧手、手术台上的精细操作，到马路上的自动驾驶和天上的无人机——感知、决策、操作、落地这一整条链路，基本都能看到他们的身影。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
       "num": 8,
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "link": "https://www.qbitai.com/2026/08/477155.html",
-      "summary": "8月19日至23日，魔法原子亮相WRC2026，以”打造场景驱动的物理AI原生平台”为核心叙事，将”魔法小镇”搬进展台，沉浸式呈现工业制造、物流分拣、公共安全等真实业务场景解决方案，并通过三大demo展示自研通用具身大模型Magic-VLA K02的全新进化能力，拆解”场景出题—模型解题—数据反哺”的技术闭环。",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "link": "https://www.qbitai.com/2026/08/478191.html",
+      "summary": "猜智谱的人已经开始验Tokenizer、测视频token消耗、找API报错，恨不得给模型做一套数字DNA鉴定。猜谷歌的人则主要盯着DeepMind员工最近的发言，以及那个迟迟没有正式露面的Gemini 3.5 Pro。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content.",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "lang": "en",
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "link": "https://www.qbitai.com/2026/08/478164.html",
+      "summary": "The Information报道称，部分GB300和Vera Rubin 200系统预计涨价约17%。按该报道使用的现价模型计算，一座1GW规模的AI数据中心，光是这一轮加价就可能多出至少50亿美元成本。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "lang": "en",
+      "title": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+      "link": "https://www.qbitai.com/2026/08/478007.html",
+      "summary": "8月19日至23日，2026世界机器人大会（WRC）在北京举行。无界动力不仅集中呈现了以隐空间世界模型为核心的具身通用大脑MWA™及一系列软硬协同自研成果，也深度参与大会主论坛和多场同期活动，系统阐释了世界模型突破模仿学习的局限，在真实场景中持续进化，以及未来逐步走向规模化落地与全球价值创造，展现了公司在具身智能世界模型领域的深厚技术积累、产业认知与前瞻判断。8月21日，在以“生态建设”为主题的WRC主论坛上，“中国电子学会世界模型专家委员会”正式成立。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
