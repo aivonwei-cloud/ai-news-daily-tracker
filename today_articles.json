@@ -1,10 +1,46 @@
 {
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T08:01:09.904273+08:00",
-  "total": 11,
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:01:17.393024+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "link": "https://www.qbitai.com/2026/08/478568.html",
+      "summary": "这批“跨界”大厂玩家的目标高度一致：不只做科研辅助工具，而是打造能自主跑完“假设→设计实验→执行验证→迭代优化”完整科研循环的“AI科学家”。不只这些科技巨头，有许多公司已经更早入场。成立于2024年的中国企业深度原理，是全球最早押注AI自主科研方向的公司之一。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "link": "https://www.qbitai.com/2026/08/478473.html",
+      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "link": "https://www.qbitai.com/2026/08/478469.html",
+      "summary": "近日，中诚华隆2026 GPU新品发布会在北京举办，正式推出全新HL200推理芯片及超节点智算集群方案，实现国产AI推理算力从单点芯片突破到万卡级集群体系化协同的跨越式升级。工业和信息化部电子信息科技委执行副主任兼秘书长毕开春、中国科技咨询协会理事长刘志光出席活动并致辞。来自国家主管部门、科研院所、产业投资机构、央国企及产业链核心合作伙伴的百余位代表参会，共同见证国产推理算力全新成果落地。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "link": "https://www.qbitai.com/2026/08/478427.html",
+      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
@@ -13,43 +49,52 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods.",
+      "num": 6,
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "summary": "The president bought when the stock was in the mid-$150 range.",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
-      "link": "https://www.qbitai.com/2026/08/478017.html",
-      "summary": "8月23日，上纬新材料科技股份有限公司（下称“上纬新材”）旗下启元机器人，正式开启启元Q1、启元T1双产品预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订。预订用户可享受现金优惠、首发限定及专属服务等多重权益。本次预订，预计首发发货时间为2026年9月。此次双产品正式开启预订，意味着启元机器人从此前的产品展示、线下体验，进一步迈向大众消费阶段。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "link": "https://www.qbitai.com/2026/08/478234.html",
-      "summary": "十年前，抱着机器狗坐十几个小时火车参加路演的王兴兴，如今身着黑色正装、佩戴红色围巾，站在中国资本市场最耀眼的聚光灯下。各家投中宇树的投资机构，纷纷发表祝贺、致谢或战报，既是与宇树共同分享喜悦，也是在展示自己投资成功的证明。",
-      "source": "量子位",
-      "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
-      "num": 6,
+      "num": 7,
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform.",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves…",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "link": "https://www.qbitai.com/2026/08/478421.html",
+      "summary": "8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
       "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
@@ -58,46 +103,10 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 7,
-      "title": "具身创业里的香港教授们",
-      "link": "https://www.qbitai.com/2026/08/478289.html",
-      "summary": "量子位收集整理了一下，至少有十六位香港高校教授，正以创始人、联合创始人、首席科学家等身份，亲自下场参与具身智能创业。有意思的是，这群教授创业，方向铺得相当广。具身智能从”会思考”的大脑与世界模型，到“看得清”的3D视觉，从指尖的触觉灵巧手、手术台上的精细操作，到马路上的自动驾驶和天上的无人机——感知、决策、操作、落地这一整条链路，基本都能看到他们的身影。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 8,
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "link": "https://www.qbitai.com/2026/08/478191.html",
-      "summary": "猜智谱的人已经开始验Tokenizer、测视频token消耗、找API报错，恨不得给模型做一套数字DNA鉴定。猜谷歌的人则主要盯着DeepMind员工最近的发言，以及那个迟迟没有正式露面的Gemini 3.5 Pro。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "link": "https://www.qbitai.com/2026/08/478164.html",
-      "summary": "The Information报道称，部分GB300和Vera Rubin 200系统预计涨价约17%。按该报道使用的现价模型计算，一座1GW规模的AI数据中心，光是这一轮加价就可能多出至少50亿美元成本。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
-      "link": "https://www.qbitai.com/2026/08/478007.html",
-      "summary": "8月19日至23日，2026世界机器人大会（WRC）在北京举行。无界动力不仅集中呈现了以隐空间世界模型为核心的具身通用大脑MWA™及一系列软硬协同自研成果，也深度参与大会主论坛和多场同期活动，系统阐释了世界模型突破模仿学习的局限，在真实场景中持续进化，以及未来逐步走向规模化落地与全球价值创造，展现了公司在具身智能世界模型领域的深厚技术积累、产业认知与前瞻判断。8月21日，在以“生态建设”为主题的WRC主论坛上，“中国电子学会世界模型专家委员会”正式成立。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "num": 12,
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
