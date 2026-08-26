@@ -1,55 +1,82 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T08:01:17.393024+08:00",
-  "total": 12,
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:03:45.034119+08:00",
+  "total": 16,
   "articles": [
     {
       "num": 1,
-      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "link": "https://www.qbitai.com/2026/08/478568.html",
-      "summary": "这批“跨界”大厂玩家的目标高度一致：不只做科研辅助工具，而是打造能自主跑完“假设→设计实验→执行验证→迭代优化”完整科研循环的“AI科学家”。不只这些科技巨头，有许多公司已经更早入场。成立于2024年的中国企业深度原理，是全球最早押注AI自主科研方向的公司之一。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "link": "https://www.qbitai.com/2026/08/478473.html",
-      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "link": "https://www.qbitai.com/2026/08/478469.html",
-      "summary": "近日，中诚华隆2026 GPU新品发布会在北京举办，正式推出全新HL200推理芯片及超节点智算集群方案，实现国产AI推理算力从单点芯片突破到万卡级集群体系化协同的跨越式升级。工业和信息化部电子信息科技委执行副主任兼秘书长毕开春、中国科技咨询协会理事长刘志光出席活动并致辞。来自国家主管部门、科研院所、产业投资机构、央国企及产业链核心合作伙伴的百余位代表参会，共同见证国产推理算力全新成果落地。",
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "link": "https://www.qbitai.com/2026/08/479314.html",
+      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "link": "https://www.qbitai.com/2026/08/478427.html",
-      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。",
+      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+      "link": "https://www.qbitai.com/2026/08/479132.html",
+      "summary": "除了获得字节跳动投资，叠加汇川产投、国方创投、德宁资本、纳爱斯等近10家知名机构、产业资本入局，以及老股东持续重仓加持，明越资本为独家财务顾问，未来不远已然搭建起覆盖技术研发、数据迭代、硬件量产、终端销售的全产业链闭环，坐稳家用具身智能赛道的头部席位。多重利好叠加的背后，绝非偶然的流量爆红，而是一家深耕C端家庭场景的科技企业，用扎实产品与长期主义，跑通了家用机器人的有效落地逻辑。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "lang": "en",
+      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+      "link": "https://www.qbitai.com/2026/08/478839.html",
+      "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "VC开始靠AI预测未来了",
+      "link": "https://www.qbitai.com/2026/08/478774.html",
+      "summary": "七月，DigClaw的预测框架Rhizome v1，在FutureX评测平台上取得了#1、#3、#7三个席位。三个席位来自三个不同的基础模型——包括Kimi-K3、DeepSeek-V4-Pro等。同一套框架同时让它们进入Top 7，DigClaw是唯一做到这一点的参赛方。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
       "summary": "The president bought when the stock was in the mid-$150 range.",
@@ -58,16 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform.",
-      "source": "AI新闻网",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
+      "num": 10,
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
       "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves…",
@@ -76,34 +94,52 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 9,
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B.",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "link": "https://www.qbitai.com/2026/08/478421.html",
-      "summary": "8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "link": "https://www.qbitai.com/2026/08/479192.html",
+      "summary": "原本各自拍摄、比例和背景都不一样的九张图片，一下子就被整整齐齐地设计到了一张图里；并且AI还精准识别出了每道菜品，同时还给它们适当加了美化处理，让图片整体变得更加养眼。可以明显看到，几个目标区域都按照要求发生了变化，但床、床头柜、玻璃杯、右侧柜体，包括整个卧室原来的空间关系都基本保留下来。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "link": "https://www.qbitai.com/2026/08/479096.html",
+      "summary": "过去几年，随着大模型与智能体技术快速发展，AI已经从文献检索、数据分析、代码生成，逐步进入仿真计算、实验分析等科研环节。一个Project往往从模糊的研究构想开始，包含多个相互依赖的任务，并随着新文献、实验结果和异常数据不断调整研究路线。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
+      "link": "https://www.qbitai.com/2026/08/478912.html",
+      "summary": "今年共有50位青年科学家获奖，覆盖数学物理学、化学新材料、天文和地学、生命科学、医学科学、信息电子、前沿交叉、能源环境、先进制造、交通建筑等10个领域。这是科学探索奖设立以来的第八届评选。在往届，大模型领域的唐杰教授、朱军教授以及具身智能领域卢策吾教授也都曾获奖。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 16,
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
