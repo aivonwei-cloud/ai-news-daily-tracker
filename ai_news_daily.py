@@ -126,29 +126,89 @@ SOURCE_NAME_MAP = {
 import urllib.parse
 import time as _time
 
+_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0.0.0 Safari/537.36"
+)
+
+
+def _translate_via_mymemory(text):
+    """使用 MyMemory API 翻译（每天免费 10000 字符，IP级别限速）"""
+    url = "https://api.mymemory.translated.net/get"
+    params = {"q": text, "langpair": "en|zh-CN", "de": "liwei@aivonwei.cloud"}
+    headers = {"User-Agent": _UA}
+    resp = requests.get(url, params=params, timeout=15, headers=headers)
+    resp.raise_for_status()
+    data = resp.json()
+    if data.get("responseStatus") != 200:
+        raise RuntimeError(f"MyMemory status={data.get('responseStatus')} {data.get('responseDetails')}")
+    return data["responseData"]["translatedText"].strip()
+
+
+def _translate_via_google(text):
+    """使用 Google Translate 免费 API 翻译（备用方案）"""
+    url = "https://translate.googleapis.com/translate_a/single"
+    params = {
+        "client": "gtx", "sl": "en", "tl": "zh-CN", "dt": "t", "q": text,
+    }
+    headers = {
+        "User-Agent": _UA,
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+    }
+    resp = requests.get(url, params=params, timeout=10, headers=headers)
+    if resp.status_code != 200 or not resp.text.lstrip().startswith("["):
+        raise RuntimeError(f"Google status={resp.status_code}")
+    data = resp.json()
+    translated = "".join(seg[0] for seg in data[0] if seg and seg[0])
+    return translated.strip()
+
+
+def _chunk_text(text, max_len=450):
+    """按句子边界切分长文本，避免 API 单次长度限制"""
+    text = text.strip()
+    if len(text) <= max_len:
+        return [text]
+    parts = re.split(r"([.!?。！？;]+\s+|\n+)", text)
+    chunks, buf = [], ""
+    for i in range(0, len(parts), 2):
+        s = parts[i] + (parts[i + 1] if i + 1 < len(parts) else "")
+        if not s.strip():
+            continue
+        if len(buf) + len(s) > max_len and buf:
+            chunks.append(buf.strip())
+            buf = s
+        else:
+            buf += s
+    if buf.strip():
+        chunks.append(buf.strip())
+    return chunks or [text]
+
+
 def translate_to_chinese(text):
-    """使用 Google Translate 免费 API 将英文翻译为中文。
-    翻译失败时返回原文（不中断流程）。"""
+    """将英文翻译为中文。优先 MyMemory，失败回退 Google；最后兜底原文。"""
     if not text or not text.strip():
         return text
-    try:
-        url = "https://translate.googleapis.com/translate_a/single"
-        params = {
-            "client": "gtx",
-            "sl": "en",
-            "tl": "zh-CN",
-            "dt": "t",
-            "q": text,
-        }
-        resp = requests.get(url, params=params, timeout=10,
-                            headers={"User-Agent": "Mozilla/5.0 (compatible; AINewsTracker/1.0)"})
-        data = resp.json()
-        # Google Translate 返回格式: [[["翻译片段","原文片段",...],...], ...]
-        translated = "".join(seg[0] for seg in data[0] if seg[0])
-        return translated.strip() if translated else text
-    except Exception as e:
-        print(f"[WARN] 翻译失败，保留原文: {e}", file=sys.stderr)
-        return text
+    chunks = _chunk_text(text)
+    translated_parts = []
+    for ch in chunks:
+        # 优先 MyMemory
+        try:
+            translated_parts.append(_translate_via_mymemory(ch))
+            _time.sleep(0.3)
+            continue
+        except Exception as e:
+            print(f"[INFO] MyMemory 失败，回退 Google: {type(e).__name__}: {e}", file=sys.stderr)
+        # 回退 Google
+        try:
+            translated_parts.append(_translate_via_google(ch))
+            _time.sleep(0.5)
+        except Exception as e:
+            print(f"[WARN] Google 也失败，保留原文片段: {type(e).__name__}: {e}", file=sys.stderr)
+            translated_parts.append(ch)
+    result = "".join(translated_parts).strip()
+    return result if result else text
 
 
 def translate_article(article):
@@ -159,12 +219,12 @@ def translate_article(article):
     # 翻译标题
     orig_title = article["title"]
     article["title"] = translate_to_chinese(orig_title)
-    _time.sleep(0.3)  # 避免触发速率限制
+    _time.sleep(0.4)
 
     # 翻译摘要
     if article.get("summary"):
         article["summary"] = translate_to_chinese(article["summary"])
-        _time.sleep(0.3)
+        _time.sleep(0.4)
 
     # 翻译来源名称
     source = article.get("source", "")
@@ -174,7 +234,8 @@ def translate_article(article):
     elif source in SOURCE_NAME_MAP:
         article["source"] = SOURCE_NAME_MAP[source]
 
-    print(f"  翻译: {orig_title[:30]}... -> {article['title'][:30]}...")
+    translated_ok = orig_title != article["title"]
+    print(f"  {'✓' if translated_ok else '✗'} 翻译: {orig_title[:30]}... -> {article['title'][:30]}...")
     return article
 
 
