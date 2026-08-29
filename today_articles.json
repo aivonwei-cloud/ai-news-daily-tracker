@@ -1,82 +1,91 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T08:03:01.011390+08:00",
-  "total": 12,
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T08:02:58.766096+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "谷歌的人工智能笔记应用程序现在允许您与书籍互动",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "summary": "谷歌的人工智能笔记应用程序Gemini Notebook现在可以从您购买的书籍中提取信息。",
-      "source": "AI | The Verge",
+      "title": "开放式人工智能公司是硅谷最热门的收购目标",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "summary": "有很多资金涌入了赠送模型的业务。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "谷歌的AI模式现在可以跟踪机票价格，帮助预订酒店等",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "summary": "这些更新表明，谷歌希望将AI Mode定位为某种程度上的AI旅行社，因为它不仅仅是帮助用户查找信息，而是实际处理行程计划的某些部分……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "link": "https://www.qbitai.com/2026/08/480700.html",
+      "summary": "发布会现场，百度搭子直接跑起了长程任务。从资料检索、信息分析到生成最终成果，整个过程当场完成，交付物也随即展示在大屏上。据7月AI办公智能体桌面端榜单，百度搭子以674.30万月活位列总榜第二，仅次于WorkBuddy；月活环比增长1063.79%，位居行业增速第一。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "针对Android应用程序的AI内存紧缩即将到来",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "summary": "谷歌正在为Android应用程序设置新的内存使用限制，因为人工智能数据中心导致硬件短缺，可能导致低成本手机的内存减少。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+      "link": "https://www.qbitai.com/2026/08/480487.html",
+      "summary": "继昨天下午线上阻止「今日瓜男」转账5000万后，Claude又在今天凌晨整了一个颇有《超体》意味的新发布—— 刚刚，Claude母公司Anthropic发布了一套全新模型硬件标准（Model Hardware Standard），简称MHS。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Hugging Face的新机器人是一只可爱的旱冰鸭",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "summary": "Hugging Face的Pollen Robotics推出了其第二款可爱的人工智能机器人Microduck ，这是一款独眼双足机器人，身高不到10英寸。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+      "link": "https://www.qbitai.com/2026/08/480227.html",
+      "summary": "国产算力走向规模商用，如何跨过从“适配验证”到“真实生产”的关键一步，正成为行业面临的新课题。近期，商汤大装置与智象未来以视频生成业务为切入，跑通了从国产算力适配到规模应用的完整链路。对于以图像、视频生成模型为核心的AI企业而言，国产化并非简单地将模型从一种GPU迁移到另一种GPU。尤其是视频生成模型，参数规模大、推理链路长、计算密集度高，从底层算力、推理框架到模型性能、生成效果和工具链，每一个环节都可能成为国产化落地的“卡点”。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Plaud推出AI耳机",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "summary": "Plaud推出了一款新的AI可穿戴设备，旨在记录、转录和总结您的对话，但这次它看起来像耳机而不是PIN。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "link": "https://www.qbitai.com/2026/08/480223.html",
+      "summary": "8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "英伟达明年四分之一的业务来自其正在融资的实验室",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "summary": "英伟达已向购买其芯片的人工智能实验室投入近500亿美元，并已承诺投资逾5000亿美元，该公司首席财务官科莱特·克雷斯（ Colette Kress ）向分析师表示……",
-      "source": "AI新闻网",
-      "lang": "en",
+      "title": "首款癌症疫苗，一针300万？？？",
+      "link": "https://www.qbitai.com/2026/08/480557.html",
+      "summary": "刚刚爆火、借助AI研制的黑色素瘤癌症疫苗Intismeran Autogene，转眼间就被曝可能成为一场“富人的专属游戏”—— 据美国投资银行William Blair预计，该疫苗未来的批发采购价格可能高达每名患者47.5万美元，约合人民币318万元。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "英伟达完成对Hugging Face的收购",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "summary": "据报道，英伟达已同意以129亿美元的价格收购流行的开源人工智能中心Hugging Face ，此举将使英伟达既能保护其芯片帝国，又能重返云业务。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
+      "link": "https://www.qbitai.com/2026/08/480236.html",
+      "summary": "具身智能产业正步入价值落地的关键阶段。行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造。这一感知体系以力学传感器为核心感知单元，向外扩展为高精度、高集成度末端触觉传感器，进而延展为曲面共形、大面积覆盖的分布式电子皮肤，共同构成机器人从指尖精细力控到全身物理交互的完整闭环。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
       "num": 8,
-      "title": "病毒式人工智能初创公司Instinct以25亿美元的估值筹集了3.5亿美元",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "summary": "这家初创公司只有一年的历史，但它已经引起了大量的炒作（和金钱） ，同时也引发了对隐私的担忧。",
+      "title": "一位人类学研究人员刚刚向我们展示了自我改进的人工智能",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "针对特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
+      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+      "link": "https://www.qbitai.com/2026/08/480482.html",
+      "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
       "title": "Hugging Face正在出售一款可爱的399 $开源鸭子机器人Microduck",
       "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
       "summary": "Hugging Face首席执行官Clem Delangue表示， Microduck是一个“可以通过强化学习教授新技巧的开源机器人”。",
@@ -85,7 +94,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 11,
       "title": "以下是人工智能流氓并入侵其他公司的所有时间",
       "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "summary": "概述了Anthropic、Meta和OpenAI制造的涉及LLM的所有事件，这些事件流氓并攻击了互联网上的真实公司和个人。",
@@ -94,22 +103,31 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "OpenAI开始在印度的ChatGPT免费和Go会员等级上展示广告",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "summary": "OpenAI在印度每周有超过1亿活跃的ChatGPT用户，其中很大一部分是免费或价格较低的围棋用户。",
+      "num": 12,
+      "title": "Anthropic首次赢得五角大楼供应链风险标签的法庭胜利",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "summary": "一名联邦法官裁定特朗普政府非法将Anthropic标记为供应链风险，随着其第二次五角大楼诉讼在华盛顿继续进行，这家AI公司取得了胜利。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     },
     {
-      "num": 12,
-      "title": "前Meta科学家希望将视觉人工智能引入工厂车间",
-      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "summary": "Perceptron提供了一个人工智能模型，它可以帮助机器在世界上导航，同时还提供深入的视觉智能。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "num": 13,
+      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "link": "https://www.qbitai.com/2026/08/480600.html",
+      "summary": "OpenClaw还在遭遇成本、稳定性和实际价值的灵魂拷问，云知声却已让Agent进入医疗、保险、城市公共服务等核心业务场景，并赚到了真金白银。2025年上半年，云知声营收4.05亿元，同比增长20.2%；到了2026年上半年，营收跃升至5.62亿元，同比增长38.7%。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 14,
+      "title": "Anthropic被特朗普政府非法列入黑名单，法院规则",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "summary": "周四，一名法官裁定，五角大楼今年早些时候将人类列入黑名单是违宪的，这让人工智能实验室在与特朗普为期一个月的过山车之战中取得了胜利。",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     }
   ]
 }
