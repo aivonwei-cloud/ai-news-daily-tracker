@@ -1,73 +1,91 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T08:02:58.766096+08:00",
-  "total": 14,
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T08:01:47.884238+08:00",
+  "total": 11,
   "articles": [
     {
       "num": 1,
-      "title": "开放式人工智能公司是硅谷最热门的收购目标",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "summary": "有很多资金涌入了赠送模型的业务。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "索尼音乐和华纳查普尔起诉Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "索尼音乐和华纳·查普尔（ Warner Chappell ）已向美国加利福尼亚州北区地方法院提起诉讼，要求赔偿“成千上万”受版权保护的作品。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-      "link": "https://www.qbitai.com/2026/08/480700.html",
-      "summary": "发布会现场，百度搭子直接跑起了长程任务。从资料检索、信息分析到生成最终成果，整个过程当场完成，交付物也随即展示在大屏上。据7月AI办公智能体桌面端榜单，百度搭子以674.30万月活位列总榜第二，仅次于WorkBuddy；月活环比增长1063.79%，位居行业增速第一。",
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "link": "https://www.qbitai.com/2026/08/481372.html",
+      "summary": "即使是同一张显卡，一毛一样的权重，推理软件栈的微小差异就让模型在关键位置输出完全不同的token，甚至导致工具调用彻底失败。Level1Techs论坛用户thr3e做了一系列实验，用Qwen3.6-27B在RTX PRO 6000 Blackwell显卡上完成了超过10万token的全量logit捕获测试。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "link": "https://www.qbitai.com/2026/08/480487.html",
-      "summary": "继昨天下午线上阻止「今日瓜男」转账5000万后，Claude又在今天凌晨整了一个颇有《超体》意味的新发布—— 刚刚，Claude母公司Anthropic发布了一套全新模型硬件标准（Model Hardware Standard），简称MHS。",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "link": "https://www.qbitai.com/2026/08/481223.html",
+      "summary": "在Anthropic最新发布的研究中，Claude自己查论文、提方案、造数据、训练模型，一口气攻克了10类AI安全问题。在这篇题为《自动化研究员能够有效缓解AI对齐失败》的研究中，Anthropic直接把Claude送进了实验室。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-      "link": "https://www.qbitai.com/2026/08/480227.html",
-      "summary": "国产算力走向规模商用，如何跨过从“适配验证”到“真实生产”的关键一步，正成为行业面临的新课题。近期，商汤大装置与智象未来以视频生成业务为切入，跑通了从国产算力适配到规模应用的完整链路。对于以图像、视频生成模型为核心的AI企业而言，国产化并非简单地将模型从一种GPU迁移到另一种GPU。尤其是视频生成模型，参数规模大、推理链路长、计算密集度高，从底层算力、推理框架到模型性能、生成效果和工具链，每一个环节都可能成为国产化落地的“卡点”。",
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "link": "https://www.qbitai.com/2026/08/480940.html",
+      "summary": "过去一年，它一直在Agentic Coding上猛猛升级，从理解代码仓库、规划开发任务，到自己写代码、跑测试、完成长程任务，已经服务全球600万用户和10万家企业客户。这次模拟一个连锁咖啡店的区域店长，手里管着5家门店，每天除了盯营业额、订单量和爆款商品，还得操心员工排班的那种。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-      "link": "https://www.qbitai.com/2026/08/480223.html",
-      "summary": "8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "音乐家出身的侦探正在寻找人工智能骗子",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "summary": "随着以音频为重点的生成工具和平台变得越来越复杂，互联网越来越充斥着人工智能生成的音乐，其旋律和人声在算法上是衍生的……",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "首款癌症疫苗，一针300万？？？",
-      "link": "https://www.qbitai.com/2026/08/480557.html",
-      "summary": "刚刚爆火、借助AI研制的黑色素瘤癌症疫苗Intismeran Autogene，转眼间就被曝可能成为一场“富人的专属游戏”—— 据美国投资银行William Blair预计，该疫苗未来的批发采购价格可能高达每名患者47.5万美元，约合人民币318万元。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "“我们每年不下30个赌注” ： Vijay Pande在a16z下注40亿美元后下了小赌注$",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "维贾伊·潘德（ Vijay Pande ）去年离开了a16z约40亿美元的生物技术实践，开始了规模小得多的人工智能原生VZVC ，他谈到了为什么生物学终于从“发现”科学转变为“发现”科学。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
-      "link": "https://www.qbitai.com/2026/08/480236.html",
-      "summary": "具身智能产业正步入价值落地的关键阶段。行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造。这一感知体系以力学传感器为核心感知单元，向外扩展为高精度、高集成度末端触觉传感器，进而延展为曲面共形、大面积覆盖的分布式电子皮肤，共同构成机器人从指尖精细力控到全身物理交互的完整闭环。",
+      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+      "link": "https://www.qbitai.com/2026/08/481075.html",
+      "summary": "其联合创始人兼CTO Nicolas Camara宣布，他们最新开发的OCR It可以在20ms内将一份不可复制的PDF文件内的所有文字内容提炼完，并将其转化成清晰的Markdown格式，AI读完马上就能看懂。Nicolas Camara骄傲地表示，在处理质量与Docling旗鼓相当的前提下，OCR It的处理速度比Docling快了近300倍！",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
+      "title": "OpenClaw：红过，爱过，散了",
+      "link": "https://www.qbitai.com/2026/08/480855.html",
+      "summary": "什么全民养龙虾、抢Mac mini、付费上门部署，朋友圈一夜之间人均赛博养殖户，那个现象级出圈的盛况还历历在目。结果这才过去半年左右的时间，大家已经集体转头研究Claude Code、Codex、Skills和Harness了。。。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+      "link": "https://www.qbitai.com/2026/08/480787.html",
+      "summary": "今日，英特尔在广州举办以“智算于芯，创想无垠”为主题的AIGC创作研讨会。继日前实现对开源模型MiniMax H3的Day 0首发适配支持后，英特尔在现场联合MiniMax、数字折叠展示了基于英特尔锐炫™ Pro B70专业级显卡打造的本地化AI视频制作全流程生成方案，并与众多AI创作者、开发者及影视爱好者，共同探讨如何突破算力门槛，高效实现从创意至成品的转化。当前，国内AIGC产业迎来爆发式的繁荣发展，图像与视频生成更是增长极为迅猛的核心赛道。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
       "title": "一位人类学研究人员刚刚向我们展示了自我改进的人工智能",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "summary": "针对特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能。",
@@ -76,56 +94,11 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
-      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-      "link": "https://www.qbitai.com/2026/08/480482.html",
-      "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "Hugging Face正在出售一款可爱的399 $开源鸭子机器人Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "summary": "Hugging Face首席执行官Clem Delangue表示， Microduck是一个“可以通过强化学习教授新技巧的开源机器人”。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "以下是人工智能流氓并入侵其他公司的所有时间",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "summary": "概述了Anthropic、Meta和OpenAI制造的涉及LLM的所有事件，这些事件流氓并攻击了互联网上的真实公司和个人。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
       "title": "Anthropic首次赢得五角大楼供应链风险标签的法庭胜利",
       "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "summary": "一名联邦法官裁定特朗普政府非法将Anthropic标记为供应链风险，随着其第二次五角大楼诉讼在华盛顿继续进行，这家AI公司取得了胜利。",
       "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 13,
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "link": "https://www.qbitai.com/2026/08/480600.html",
-      "summary": "OpenClaw还在遭遇成本、稳定性和实际价值的灵魂拷问，云知声却已让Agent进入医疗、保险、城市公共服务等核心业务场景，并赚到了真金白银。2025年上半年，云知声营收4.05亿元，同比增长20.2%；到了2026年上半年，营收跃升至5.62亿元，同比增长38.7%。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 14,
-      "title": "Anthropic被特朗普政府非法列入黑名单，法院规则",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "summary": "周四，一名法官裁定，五角大楼今年早些时候将人类列入黑名单是违宪的，这让人工智能实验室在与特朗普为期一个月的过山车之战中取得了胜利。",
-      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     }
