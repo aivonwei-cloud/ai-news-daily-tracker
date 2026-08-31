@@ -1,19 +1,28 @@
 {
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T08:01:47.884238+08:00",
-  "total": 11,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T08:01:15.386735+08:00",
+  "total": 9,
   "articles": [
     {
       "num": 1,
-      "title": "索尼音乐和华纳查普尔起诉Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "索尼音乐和华纳·查普尔（ Warner Chappell ）已向美国加利福尼亚州北区地方法院提起诉讼，要求赔偿“成千上万”受版权保护的作品。",
-      "source": "AI | The Verge",
+      "title": "马斯克更快地通往更多燃气轮机的道路伴随着污染问题",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "埃隆·马斯克（ Elon Musk ）表示，一家秘密的新SpaceX铸造厂将允许他铸造自己的涡轮叶片，并比其他任何人都快18个月上线燃气动力—但这是一个已经触发的燃料来源的赌注......",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
+      "title": "索尼音乐出版公司和华纳查普尔正在起诉Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "索尼音乐出版公司（ Sony Music Publishing ）和华纳·查普尔（ Warner Chappell ）已向美国加利福尼亚州北区地方法院提起诉讼，要求赔偿“数万”受版权保护的作品。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
       "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
       "link": "https://www.qbitai.com/2026/08/481372.html",
       "summary": "即使是同一张显卡，一毛一样的权重，推理软件栈的微小差异就让模型在关键位置输出完全不同的token，甚至导致工具调用彻底失败。Level1Techs论坛用户thr3e做了一系列实验，用Qwen3.6-27B在RTX PRO 6000 Blackwell显卡上完成了超过10万token的全量logit捕获测试。",
@@ -22,7 +31,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
+      "num": 4,
       "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
       "link": "https://www.qbitai.com/2026/08/481223.html",
       "summary": "在Anthropic最新发布的研究中，Claude自己查论文、提方案、造数据、训练模型，一口气攻克了10类AI安全问题。在这篇题为《自动化研究员能够有效缓解AI对齐失败》的研究中，Anthropic直接把Claude送进了实验室。",
@@ -31,21 +40,12 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 4,
+      "num": 5,
       "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
       "link": "https://www.qbitai.com/2026/08/480940.html",
       "summary": "过去一年，它一直在Agentic Coding上猛猛升级，从理解代码仓库、规划开发任务，到自己写代码、跑测试、完成长程任务，已经服务全球600万用户和10万家企业客户。这次模拟一个连锁咖啡店的区域店长，手里管着5家门店，每天除了盯营业额、订单量和爆款商品，还得操心员工排班的那种。",
       "source": "量子位",
       "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "音乐家出身的侦探正在寻找人工智能骗子",
-      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "summary": "随着以音频为重点的生成工具和平台变得越来越复杂，互联网越来越充斥着人工智能生成的音乐，其旋律和人声在算法上是衍生的……",
-      "source": "AI | The Verge",
-      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
@@ -77,28 +77,10 @@
     },
     {
       "num": 9,
-      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-      "link": "https://www.qbitai.com/2026/08/480787.html",
-      "summary": "今日，英特尔在广州举办以“智算于芯，创想无垠”为主题的AIGC创作研讨会。继日前实现对开源模型MiniMax H3的Day 0首发适配支持后，英特尔在现场联合MiniMax、数字折叠展示了基于英特尔锐炫™ Pro B70专业级显卡打造的本地化AI视频制作全流程生成方案，并与众多AI创作者、开发者及影视爱好者，共同探讨如何突破算力门槛，高效实现从创意至成品的转化。当前，国内AIGC产业迎来爆发式的繁荣发展，图像与视频生成更是增长极为迅猛的核心赛道。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "一位人类学研究人员刚刚向我们展示了自我改进的人工智能",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "针对特定未对齐行为的10个基准，自动化系统能够提高每个基准的性能，而不会降低整体性能。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "Anthropic首次赢得五角大楼供应链风险标签的法庭胜利",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "一名联邦法官裁定特朗普政府非法将Anthropic标记为供应链风险，随着其第二次五角大楼诉讼在华盛顿继续进行，这家AI公司取得了胜利。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "德克萨斯州州长雅培阻止为更多Flock相机提供资金",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "summary": "随着对Flock人工智能监控摄像头的强烈反对，德克萨斯州州长格雷格·阿博特（ Greg Abbott ）冻结了州政府在这些摄像头上的支出。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     }
