@@ -1,55 +1,82 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T08:01:48.840330+08:00",
-  "total": 12,
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T08:02:52.194895+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "五角大楼现在有自己的ChatGPT和Grok版本",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "summary": "OpenAI的ChatGPT和SpaceXAI的Grok版本将加入谷歌的Gemini ，成为五角大楼人工智能工具的中央门户。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Anthropic推出了Claude Fable 5.1 ，并表示代理工作的成本降低了45 ％",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "summary": "Anthropic表示，其最新的人工智能模型Fable 5.1和Mythos 5.1解决了客户对价格、数据保留和过度保护的批评。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "麻省理工学院量子计划启动博士后奖学金计划",
-      "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-      "summary": "麻省理工学院量子计划（ QMIT ）推出了一项新的博士后奖学金计划，以加速跨学科量子研究，并培养下一代在……工作的科学领袖。",
-      "source": "麻省理工学院新闻-人工智能",
+      "title": "Open AI的Astra模型即将推出—并且非常擅长入侵计算机系统",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI预览了它在准备发布其最新的网络关键法学硕士Astra时采取的预防措施。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "哈佛法学院辍学者为蓝色之声筹集了600万$ ，以建立“警察哈维”",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "summary": "Blue Voice接受了有关部门特定法律、地方条例、协议和准则的培训，通用人工智能工具无法在公共互联网上访问这些法律、条例、协议和准则。",
+      "title": "谷歌的Android更新可解决晕车、无障碍等问题",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "虽然其中一些功能让谷歌赶上了苹果，苹果已经为iPhone用户提供了类似的功能，但其他功能则专门利用Gemini来提供各种改进。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Debian不会禁止其Linux发行版中的AI代码",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "summary": "Debian投票允许开发人员使用人工智能工具来为Linux发行版的“开发、维护和”文档做出贡献。“关于人工智能的新政策承认” responsibl...",
+      "title": "OpenAI在Hugging Face黑客攻击后推迟了新模型的开发",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "summary": "在未发布的OpenAI模型造成足够的破坏以成为国际头条新闻之后， OpenAI推迟了另一个未发布的模型套件Astra的开发，以加强其安全性。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "会议记录员Circleback添加了免费会员等级，以吸引更多顾客",
-      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "summary": "Circleback还推出了新的定价计划，每月起价为$ 14。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "人工智能“文明”的兴起和企业责任的下降",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "summary": "根据您的要求，开发者平台Hugging Face最近受到了OpenAI的攻击--在它失去了对自己的人工智能工具的控制之后--或者受到了一系列人工智能文明的攻击。“欢迎来到林吉……",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "据报道， AfterQuery成为Y Combinator有史以来最快的独角兽，目前估值为$ 32亿",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "据报道，人工智能模型培训初创公司AfterQuery在4月份以3亿美元的估值宣布其3000万美元的A轮融资后仅五个月就完成了一轮融资，估值为32亿美元。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "急急急用电！马斯克开造燃气轮机叶片",
+      "link": "https://www.qbitai.com/2026/09/482451.html",
+      "summary": "只是万万没想到，老马这回不是自建数据中心，也不是投资电厂解决电力瓶颈，而是一杵子干到了更更更基础的环节。并且在电力供应不足背后，什么变压器、线路、液冷系统……通通都是问题。而燃气发电中燃气轮机的生产瓶颈，“就在于叶片和导叶的铸造”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "link": "https://www.qbitai.com/2026/09/482300.html",
+      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "英伟达（ Nvidia ） 35亿美元的联发科（ MediaTek ）押注揭示了其应对大型科技公司人工智能芯片建设的计划",
       "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
       "summary": "英伟达向台湾芯片制造商联发科投资35亿美元。",
@@ -58,7 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 10,
       "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
       "link": "https://www.qbitai.com/2026/08/481928.html",
       "summary": "主办方德邻资本真正押上的，是斥资4000万打造的一座约4000平方米的Delin Residency（德邻乌托邦）。据德邻资本创始合伙人介绍，比赛结束后，他们还会选出不超过15支的团队，进入Delin Residency深度孵化。",
@@ -67,49 +94,49 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "ChatGPT将面临欧盟更严格的监管",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "summary": "OpenAI将很快被追究责任，以减轻与ChatGPT对未成年人的影响、用户心理健康以及欧盟非法内容传播相关的风险。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "麻省理工学院的研究项目如何成为全球编程语言",
-      "link": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-      "summary": "这一切都始于一些愤怒的电子邮件。",
+      "num": 11,
+      "title": "Walter Torous被任命为麻省理工学院房地产中心执行董事",
+      "link": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+      "summary": "Walter Torous ，麻省理工学院城市研究与规划系（ DUSP ）和麻省理工学院斯隆管理学院高级讲师，房地产开发项目理学硕士主任……",
       "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "link": "https://www.qbitai.com/2026/08/481759.html",
-      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "link": "https://www.qbitai.com/2026/08/481475.html",
-      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 12,
-      "title": "德克萨斯州州长雅培阻止为更多Flock相机提供资金",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "summary": "随着对Flock人工智能监控摄像头的强烈反对，德克萨斯州州长格雷格·阿博特（ Greg Abbott ）冻结了州政府在这些摄像头上的支出。",
-      "source": "AI | The Verge",
+      "title": "Anthropic的新寓言版本更便宜，限制更少",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "summary": "寓言5.1包括旨在降低代币成本和模型保护措施误报限制的变化。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "📋 政策与监管"
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "ChatGPT Health为临床医生添加了Epic集成，以导入患者数据",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "summary": "OpenAI表示，该集成为临床医生提供了对健康记录的只读访问权限。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "link": "https://www.qbitai.com/2026/09/482512.html",
+      "summary": "除了直播，还有开发者用Codex搓了一个「AI版抖音」，里面的内容，是由视频模型实时生成、无缝衔接的。H3 Max在Artificial Analysis和Design Arena两个主流榜单上都拿了图生视频第一。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "link": "https://www.qbitai.com/2026/09/482469.html",
+      "summary": "而且它还不挑模型，无论你是Claude Code、Codex、Cursor还是什么其他别的Agent，它都能跑。截至发稿，Archify已经在X上收获了多条10万赞正向测评反馈，狂揽1.9kFork、3.14万Star，并一鼓作气冲上了GitHub热榜第一。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     }
   ]
 }
