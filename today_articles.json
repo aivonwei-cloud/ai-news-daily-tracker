@@ -1,55 +1,82 @@
 {
-  "date": "2026-09-02",
-  "generated_at": "2026-09-02T08:02:52.194895+08:00",
-  "total": 15,
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T08:03:23.823755+08:00",
+  "total": 16,
   "articles": [
     {
       "num": 1,
-      "title": "Anthropic推出了Claude Fable 5.1 ，并表示代理工作的成本降低了45 ％",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "summary": "Anthropic表示，其最新的人工智能模型Fable 5.1和Mythos 5.1解决了客户对价格、数据保留和过度保护的批评。",
-      "source": "AI | The Verge",
+      "title": "从麻省理工学院到IBM ，加快人工智能和量子部署",
+      "link": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "summary": "从基于理论的研究过渡到专注于现实世界应用的经验可能会因不同的研究人员而有很大差异。",
+      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Open AI的Astra模型即将推出—并且非常擅长入侵计算机系统",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "summary": "OpenAI预览了它在准备发布其最新的网络关键法学硕士Astra时采取的预防措施。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "谷歌表示，其新的Gemini 3.8 Flash型号“更加努力” ，但可能会花费更多",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "summary": "谷歌推出了Gemini 3.8 Flash ，仅比其前身晚了几周。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "谷歌的Android更新可解决晕车、无障碍等问题",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "summary": "虽然其中一些功能让谷歌赶上了苹果，苹果已经为iPhone用户提供了类似的功能，但其他功能则专门利用Gemini来提供各种改进。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "亚马逊的人工智能助手现在可以发现该公司的虚假电子邮件",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "summary": "亚马逊正试图通过一项新功能打击模拟诈骗，该功能允许您使用其人工智能助手来确定电子邮件、短信或电话是否确实来自该公司。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "OpenAI在Hugging Face黑客攻击后推迟了新模型的开发",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "summary": "在未发布的OpenAI模型造成足够的破坏以成为国际头条新闻之后， OpenAI推迟了另一个未发布的模型套件Astra的开发，以加强其安全性。",
+      "title": "研究人员在OpenAI发布Astra之前担心安全灾难",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "summary": "OpenAI即将发布其迄今为止最强大的人工智能模型Astra ，此前其代理商在测试期间攻击了真实目标，导致数周的安全协议延迟。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "人工智能“文明”的兴起和企业责任的下降",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "summary": "根据您的要求，开发者平台Hugging Face最近受到了OpenAI的攻击--在它失去了对自己的人工智能工具的控制之后--或者受到了一系列人工智能文明的攻击。“欢迎来到林吉……",
-      "source": "AI | The Verge",
+      "title": "在6个月内将估值提高一倍以上，达到50亿$",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "summary": "Wonderful表示，它将利用其5.5亿美元的C轮融资更快地开发产品，扩大其FDE团队，并满足对其产品的需求。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "Builders Stage正在重返TechCrunch Disrupt ，将创始人、创业运营商和投资者聚集在一起，就构建和扩展所需的内容进行实际对话。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "summary": "行业观察人士认为，此次收购还使红杉支持的Serval成为人工智能IT服务自动化领域事实上的创业领导者。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Adobe收购印度市场情报初创公司Rilo",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "summary": "这是Adobe继2023年Rephrase.ai之后第二次从印度收购",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "据报道， AfterQuery成为Y Combinator有史以来最快的独角兽，目前估值为$ 32亿",
       "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "summary": "据报道，人工智能模型培训初创公司AfterQuery在4月份以3亿美元的估值宣布其3000万美元的A轮融资后仅五个月就完成了一轮融资，估值为32亿美元。",
@@ -58,85 +85,67 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "急急急用电！马斯克开造燃气轮机叶片",
-      "link": "https://www.qbitai.com/2026/09/482451.html",
-      "summary": "只是万万没想到，老马这回不是自建数据中心，也不是投资电厂解决电力瓶颈，而是一杵子干到了更更更基础的环节。并且在电力供应不足背后，什么变压器、线路、液冷系统……通通都是问题。而燃气发电中燃气轮机的生产瓶颈，“就在于叶片和导叶的铸造”。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "link": "https://www.qbitai.com/2026/09/482300.html",
-      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "英伟达（ Nvidia ） 35亿美元的联发科（ MediaTek ）押注揭示了其应对大型科技公司人工智能芯片建设的计划",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "summary": "英伟达向台湾芯片制造商联发科投资35亿美元。",
+      "num": 10,
+      "title": "OpenAI的新推理技巧向人工智能安全专家发出警报",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "summary": "OpenAI的新Astra模型将使用“循环深度” ，这种技术允许模型在大多数推理模型的顺序思维之外运行。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "link": "https://www.qbitai.com/2026/08/481928.html",
-      "summary": "主办方德邻资本真正押上的，是斥资4000万打造的一座约4000平方米的Delin Residency（德邻乌托邦）。据德邻资本创始合伙人介绍，比赛结束后，他们还会选出不超过15支的团队，进入Delin Residency深度孵化。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "Walter Torous被任命为麻省理工学院房地产中心执行董事",
-      "link": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
-      "summary": "Walter Torous ，麻省理工学院城市研究与规划系（ DUSP ）和麻省理工学院斯隆管理学院高级讲师，房地产开发项目理学硕士主任……",
-      "source": "麻省理工学院新闻-人工智能",
+      "title": "美国政府与OpenAI就版权材料培训LLM的问题进行合作",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "summary": "“美国对继续发展一个强大且具有竞争力的人工智能产业有着浓厚的兴趣，该产业为全球人工智能使用的实践和程序设定了标准。”",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "Anthropic的新寓言版本更便宜，限制更少",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "summary": "寓言5.1包括旨在降低代币成本和模型保护措施误报限制的变化。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Motional和麻省理工学院人工智能解释自动驾驶汽车的决策",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "summary": "Motional和麻省理工学院的研究人员已经建立了一个系统，让自动驾驶汽车实时解释他们的决定，解决自动驾驶汽车人工智能中的黑匣子问题。",
+      "source": "AI新闻网",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "ChatGPT Health为临床医生添加了Epic集成，以导入患者数据",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "summary": "OpenAI表示，该集成为临床医生提供了对健康记录的只读访问权限。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "系统帮助人类预测自动驾驶汽车何时会出错",
+      "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "summary": "自动驾驶汽车通常由深度学习模型控制，这些模型有时会在意外情况下失败。",
+      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 14,
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "link": "https://www.qbitai.com/2026/09/482512.html",
-      "summary": "除了直播，还有开发者用Codex搓了一个「AI版抖音」，里面的内容，是由视频模型实时生成、无缝衔接的。H3 Max在Artificial Analysis和Design Arena两个主流榜单上都拿了图生视频第一。",
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "link": "https://www.qbitai.com/2026/09/482967.html",
+      "summary": "单纯的模型能力，恐怕已经很难单独构成企业采用AI的理由。市场关注的重点已经从模型本身，逐渐转向AI怎样才能形成可以被感知、被核算的产出。2026年上半年，受外部因素影响，公司总收入出现波动；另一边，其AICC业务同比增长52%，其中面向更多行业的新场景收入增长195%。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 15,
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "link": "https://www.qbitai.com/2026/09/482469.html",
-      "summary": "而且它还不挑模型，无论你是Claude Code、Codex、Cursor还是什么其他别的Agent，它都能跑。截至发稿，Archify已经在X上收获了多条10万赞正向测评反馈，狂揽1.9kFork、3.14万Star，并一鼓作气冲上了GitHub热榜第一。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "title": "特朗普政府正在纽约时报版权诉讼中支持OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "summary": "特朗普政府干预了《纽约时报》对OpenAI的版权诉讼，提出了支持人工智能实验室的论点。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 16,
+      "title": "纽约市禁止学生使用人工智能，直到他们上高中",
+      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "summary": "纽约市市长Zohran Mamdani今天宣布了一项新政策，禁止年幼的学生在教室中使用人工智能。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
