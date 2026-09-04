@@ -1,55 +1,82 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T08:03:23.823755+08:00",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T08:03:01.831443+08:00",
   "total": 16,
   "articles": [
     {
       "num": 1,
-      "title": "从麻省理工学院到IBM ，加快人工智能和量子部署",
-      "link": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-      "summary": "从基于理论的研究过渡到专注于现实世界应用的经验可能会因不同的研究人员而有很大差异。",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "link": "https://www.qbitai.com/2026/09/483948.html",
+      "summary": "提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "谷歌表示，其新的Gemini 3.8 Flash型号“更加努力” ，但可能会花费更多",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "summary": "谷歌推出了Gemini 3.8 Flash ，仅比其前身晚了几周。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "link": "https://www.qbitai.com/2026/09/483898.html",
+      "summary": "GPT-6 Astra是世界上最智能、最协调的模型，为Computer use、Browser Use、软件工程、网络安全、科学和专业工作树立了新的标杆。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "亚马逊的人工智能助手现在可以发现该公司的虚假电子邮件",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "summary": "亚马逊正试图通过一项新功能打击模拟诈骗，该功能允许您使用其人工智能助手来确定电子邮件、短信或电话是否确实来自该公司。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "研究人员在OpenAI发布Astra之前担心安全灾难",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "summary": "OpenAI即将发布其迄今为止最强大的人工智能模型Astra ，此前其代理商在测试期间攻击了真实目标，导致数周的安全协议延迟。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "在6个月内将估值提高一倍以上，达到50亿$",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "summary": "Wonderful表示，它将利用其5.5亿美元的C轮融资更快地开发产品，扩大其FDE团队，并满足对其产品的需求。",
+      "title": "Abliteration.ai正在通过移除人工智能护栏来做生意",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "summary": "Abliteration.AI正在使没有护栏的强大人工智能模型更容易访问，认为为捍卫者提供与不良行为者相同的工具最终可以改善网络安全。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 4,
+      "title": "OpenAI推出其强大（且备受争议）的新型号Astra",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "summary": "OpenAI声称， Astra代表了“计算机和浏览器使用的新领域” ，它以无与伦比的“速度、准确性和安全性”处理任务。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "OneRail使用Nvidia AI进行实时最后一英里交付优化",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "summary": "OneRail推出了一个基于人工智能的交付平台，该平台使用Nvidia技术来帮助零售商、批发商和分销商决定如何交付单个订单。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 6,
+      "title": "据报道， Accel正在进行谈判，以$ 400亿的估值领投Thinking Machines $ 10亿的一轮融资",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "summary": "这家备受瞩目的初创公司的年收入运行率超过1亿美元（ $ 100 million ）。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "英伟达以129.3亿美元收购Hugging Face",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "summary": "英伟达已同意以129.3亿美元收购Hugging Face ，以扩展开源模型存储库的平台和基础设施。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "英伟达确认将以129亿美元收购Hugging Face",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "英伟达表示， Hugging Face拥有超过300万个型号，并被超过1800万开发人员使用。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略",
       "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
       "summary": "Builders Stage正在重返TechCrunch Disrupt ，将创始人、创业运营商和投资者聚集在一起，就构建和扩展所需的内容进行实际对话。",
@@ -58,7 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 10,
       "title": "消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "summary": "行业观察人士认为，此次收购还使红杉支持的Serval成为人工智能IT服务自动化领域事实上的创业领导者。",
@@ -67,82 +94,55 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Adobe收购印度市场情报初创公司Rilo",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "summary": "这是Adobe继2023年Rephrase.ai之后第二次从印度收购",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "据报道， AfterQuery成为Y Combinator有史以来最快的独角兽，目前估值为$ 32亿",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "summary": "据报道，人工智能模型培训初创公司AfterQuery在4月份以3亿美元的估值宣布其3000万美元的A轮融资后仅五个月就完成了一轮融资，估值为32亿美元。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "OpenAI的新推理技巧向人工智能安全专家发出警报",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "summary": "OpenAI的新Astra模型将使用“循环深度” ，这种技术允许模型在大多数推理模型的顺序思维之外运行。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "美国政府与OpenAI就版权材料培训LLM的问题进行合作",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "“美国对继续发展一个强大且具有竞争力的人工智能产业有着浓厚的兴趣，该产业为全球人工智能使用的实践和程序设定了标准。”",
+      "title": "Meta正在付费查看您如何使用他们最新的人工智能模型",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "summary": "对于其用于运营编码和其他代理的新Muse Spark模型， Meta为“为”未来m的开发做出“贡献”的用户提供平均约95 ％的显式折扣……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "Motional和麻省理工学院人工智能解释自动驾驶汽车的决策",
-      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "summary": "Motional和麻省理工学院的研究人员已经建立了一个系统，让自动驾驶汽车实时解释他们的决定，解决自动驾驶汽车人工智能中的黑匣子问题。",
-      "source": "AI新闻网",
+      "title": "OpenAI的下一个大型AI模型已经“进入AGI时代”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "summary": "OpenAI的下一个大型模型在这里： GPT-6 Astra。该公司称其为网络安全、专业工作、软件工程、科学和计算机使用等领域的“能力的一代飞跃”。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "系统帮助人类预测自动驾驶汽车何时会出错",
-      "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-      "summary": "自动驾驶汽车通常由深度学习模型控制，这些模型有时会在意外情况下失败。",
-      "source": "麻省理工学院新闻-人工智能",
+      "title": "Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "summary": "以家庭为中心的人工智能助手希望访问您日常生活的细节，但表示不会使用这些数据来训练人工智能模型或与他人共享。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 14,
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "link": "https://www.qbitai.com/2026/09/482967.html",
-      "summary": "单纯的模型能力，恐怕已经很难单独构成企业采用AI的理由。市场关注的重点已经从模型本身，逐渐转向AI怎样才能形成可以被感知、被核算的产出。2026年上半年，受外部因素影响，公司总收入出现波动；另一边，其AICC业务同比增长52%，其中面向更多行业的新场景收入增长195%。",
+      "title": "谷歌最新的人工智能天气模型让您没有借口忘记带雨伞",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "summary": "WeatherNext 3是深度学习技术带来的最新一波气象变化。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "陈大年复出，入局大模型",
+      "link": "https://www.qbitai.com/2026/09/483600.html",
+      "summary": "本地模型会完全摧毁云端市场，3年时间打平Claude，占据80%的市场。模型拼参数的玩法要OUT了…… 而作为第一张面向市场的成绩单，StartLux-V1.0-27B-Preview不依赖云端，可直接运行在消费级PC上。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 15,
+      "num": 16,
       "title": "特朗普政府正在纽约时报版权诉讼中支持OpenAI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
       "summary": "特朗普政府干预了《纽约时报》对OpenAI的版权诉讼，提出了支持人工智能实验室的论点。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 16,
-      "title": "纽约市禁止学生使用人工智能，直到他们上高中",
-      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "summary": "纽约市市长Zohran Mamdani今天宣布了一项新政策，禁止年幼的学生在教室中使用人工智能。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
