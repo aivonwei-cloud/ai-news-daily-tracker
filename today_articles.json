@@ -1,55 +1,82 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T08:03:01.831443+08:00",
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T08:02:51.553035+08:00",
   "total": 16,
   "articles": [
     {
       "num": 1,
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "link": "https://www.qbitai.com/2026/09/483948.html",
-      "summary": "提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Roland正在与Melody Flip一起进入生成式人工智能音乐",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "summary": "这不是Suno的“按键;获取歌曲” ，但Roland的新Melody Flip工具标志着该公司进军生成式人工智能音乐。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "link": "https://www.qbitai.com/2026/09/483898.html",
-      "summary": "GPT-6 Astra是世界上最智能、最协调的模型，为Computer use、Browser Use、软件工程、网络安全、科学和专业工作树立了新的标杆。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "这是OpenAI内部监控和安全系统的最新故障。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Abliteration.ai正在通过移除人工智能护栏来做生意",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "summary": "Abliteration.AI正在使没有护栏的强大人工智能模型更容易访问，认为为捍卫者提供与不良行为者相同的工具最终可以改善网络安全。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "山姆·奥尔特曼（ Sam Altman ）为“混乱”的GPT-6 Astra推出而道歉，该推出已被锁定在付费用",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "在OpenAI推出GPT-6 Astra几个小时后，首席执行官萨姆·奥尔特曼（ Sam Altman ）已经为他所说的“混乱的推出”道歉，因为付费用户希望能够访问新的前沿模型……",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "OpenAI推出其强大（且备受争议）的新型号Astra",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "summary": "OpenAI声称， Astra代表了“计算机和浏览器使用的新领域” ，它以无与伦比的“速度、准确性和安全性”处理任务。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "OneRail使用Nvidia AI进行实时最后一英里交付优化",
-      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "summary": "OneRail推出了一个基于人工智能的交付平台，该平台使用Nvidia技术来帮助零售商、批发商和分销商决定如何交付单个订单。",
+      "title": "经过多年的技术革新， M&T银行扩展了企业人工智能",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "summary": "M&T银行已向1.5万多名员工部署了人工智能副驾驶，因为这家美国地区银行将人工智能应用于内部运营、客户服务、软件开发和风险管理。",
       "source": "AI新闻网",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 5,
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "link": "https://www.qbitai.com/2026/09/484437.html",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 6,
+      "title": "XDOF刚刚退出三个月，正在就B轮融资进行谈判，估值为12亿美元$",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "这轮融资是在机器人数据初创公司退出隐身几个月后筹集的。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "人工智能计算提供商Nscale正在寻找35亿美元的IPO前融资",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "Nscale最近与Anthropic达成了450亿美元的交易，目前正在谈判为即将到来的IPO筹集额外资金。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "据报道， Crusoe以300亿美元的估值筹集了30亿美元",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "summary": "据报道，这轮融资是在这家数据中心开发商与Jane Street签订了130亿美元的合同之后进行的。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "据报道， Accel正在进行谈判，以$ 400亿的估值领投Thinking Machines $ 10亿的一轮融资",
       "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
       "summary": "这家备受瞩目的初创公司的年收入运行率超过1亿美元（ $ 100 million ）。",
@@ -58,7 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 10,
       "title": "英伟达以129.3亿美元收购Hugging Face",
       "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
       "summary": "英伟达已同意以129.3亿美元收购Hugging Face ，以扩展开源模型存储库的平台和基础设施。",
@@ -67,34 +94,34 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "英伟达确认将以129亿美元收购Hugging Face",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "summary": "英伟达表示， Hugging Face拥有超过300万个型号，并被超过1800万开发人员使用。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "Builders Stage正在重返TechCrunch Disrupt ，将创始人、创业运营商和投资者聚集在一起，就构建和扩展所需的内容进行实际对话。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "行业观察人士认为，此次收购还使红杉支持的Serval成为人工智能IT服务自动化领域事实上的创业领导者。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 11,
+      "title": "OpenAI的流氓特工不断逃跑，没有正式的调查程序",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI最新的特工群体事件增加了要求独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "Google的Gemini Spark现在可以管理您的Google相册库",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "summary": "Gemini Spark可以编辑和策划相册，创建共享集合，将照片转换为日历活动，并为AI Pro和Ultra订阅者处理其他Google相册任务。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "link": "https://www.qbitai.com/2026/09/484547.html",
+      "summary": "9月3日，趋境科技与摩尔线程签署战略合作协议。此次合作以趋境科技自研的国产 PD 异构技术与摩尔线程 MTT S5000 智算卡与 MUSA 软件平台的深度融合为基础，双方将持续推进基于趋境科技 ATaaS 平台的国产化高品质 AI Token 工厂建设，并共同研发和推广以 Token Pod（Token 超节点）为载体的联合解决方案。目前，相关方案已投入生产，并承接头部模型厂商官方业务的真实 Token 流量。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
       "title": "Meta正在付费查看您如何使用他们最新的人工智能模型",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "summary": "对于其用于运营编码和其他代理的新Muse Spark模型， Meta为“为”未来m的开发做出“贡献”的用户提供平均约95 ％的显式折扣……",
@@ -103,7 +130,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
+      "num": 15,
       "title": "OpenAI的下一个大型AI模型已经“进入AGI时代”",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "summary": "OpenAI的下一个大型模型在这里： GPT-6 Astra。该公司称其为网络安全、专业工作、软件工程、科学和计算机使用等领域的“能力的一代飞跃”。",
@@ -112,39 +139,12 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 13,
-      "title": "Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "summary": "以家庭为中心的人工智能助手希望访问您日常生活的细节，但表示不会使用这些数据来训练人工智能模型或与他人共享。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "谷歌最新的人工智能天气模型让您没有借口忘记带雨伞",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "summary": "WeatherNext 3是深度学习技术带来的最新一波气象变化。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "陈大年复出，入局大模型",
-      "link": "https://www.qbitai.com/2026/09/483600.html",
-      "summary": "本地模型会完全摧毁云端市场，3年时间打平Claude，占据80%的市场。模型拼参数的玩法要OUT了…… 而作为第一张面向市场的成绩单，StartLux-V1.0-27B-Preview不依赖云端，可直接运行在消费级PC上。",
+      "num": 16,
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "link": "https://www.qbitai.com/2026/09/483984.html",
+      "summary": "如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。有被协商劝退的应届生整理了约谈录音、沟通记录等证据，制作中英文版本，通过大众集团供应链合规举报渠道提交投诉。",
       "source": "量子位",
       "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 16,
-      "title": "特朗普政府正在纽约时报版权诉讼中支持OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "summary": "特朗普政府干预了《纽约时报》对OpenAI的版权诉讼，提出了支持人工智能实验室的论点。",
-      "source": "AI | The Verge",
-      "lang": "en",
       "category": "📋 政策与监管"
     }
   ]
