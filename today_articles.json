@@ -1,55 +1,28 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T08:01:57.231457+08:00",
-  "total": 10,
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T08:01:05.759643+08:00",
+  "total": 5,
   "articles": [
     {
       "num": 1,
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "link": "https://www.qbitai.com/2026/09/484649.html",
-      "summary": "如果我们希望这种迭代（解答开放性数学问题的过程）真正产生新的理解，那么负责进行迭代的人或系统，最好不能提前知道最终正确的拟设是什么。这个问题原本被视作研究AI如何辅助数学研究的好样本：人们既可以借助AI工具解决问题本身，又可以基于解决这一问题的过程，为该领域下一阶段的发展铺路。",
+      "title": "由于发布商和代理商对Anthropic结算提出索赔，作者表示反对",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "作者表示，发布商似乎声称支付了超过其公平份额的结算付款。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "link": "https://www.qbitai.com/2026/09/484897.html",
+      "summary": "2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "Roland正在与Melody Flip一起进入生成式人工智能音乐",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "summary": "这不是Suno的“按键;获取歌曲” ，但Roland的新Melody Flip工具标志着该公司进军生成式人工智能音乐。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 3,
-      "title": "另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "这是OpenAI内部监控和安全系统的最新故障。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "XDOF刚刚退出三个月，正在就B轮融资进行谈判，估值为12亿美元$",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "summary": "这轮融资是在机器人数据初创公司退出隐身几个月后筹集的。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 5,
-      "title": "人工智能计算提供商Nscale正在寻找35亿美元的IPO前融资",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "summary": "Nscale最近与Anthropic达成了450亿美元的交易，目前正在谈判为即将到来的IPO筹集额外资金。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 6,
       "title": "徒步旅行者在使用Google Gemini进行规划后获救",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
       "summary": "治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需。”",
@@ -58,7 +31,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 7,
+      "num": 4,
       "title": "GPT-6带火循环Transformer，阿里早已布局",
       "link": "https://www.qbitai.com/2026/09/484726.html",
       "summary": "由于循环发生在hidden state里，中间过程未必会写成人类可读的思维链，模型会不会因此更难监测？OpenAI也由此被AI安全专家集体讨伐，甚至一度逼得首席科学家Jakub Pachocki亲自下场回应。",
@@ -67,28 +40,10 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
+      "num": 5,
       "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
       "link": "https://www.qbitai.com/2026/09/484683.html",
       "summary": "南方，受台风美莎克及西南季风共同影响，广西遭遇持续强降雨。南宁市横州、宾阳等地多个站点降雨量突破历史纪录，六蓝水库发生溃口。从监测到异常洪峰到溃口发生，留给指挥部的黄金处置时间不足30分钟，贵港郁江出现2001年以来最大洪水，洪峰水位超出警戒5.68米，一处教育园区积水最深接近三楼，上万名师生被困，全区紧急避险转移18.7万人。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "OpenAI承认德国维基“事件”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI表示，它需要彻底改革AI模型攻击真实世界目标的方式和时间。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "link": "https://www.qbitai.com/2026/09/484611.html",
-      "summary": "要知道，以前的世界模型对机器人来说，就像是一个随身携带的“脑内沙盘”，机器人先借助它预测未来会发生什么，再据此决定下一步怎么动。模型想得越多，推理链路往往也越长。它只停留在训练场里，专门检查机器人自己提出的动作会造成什么后果，再把这种检查变成策略优化的反馈。等训练完成，受控世界模型便退出部署链路，机器人执行任务时无需继续展开未来、搜索候选动作。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
