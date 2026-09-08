@@ -1,51 +1,87 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T08:01:05.759643+08:00",
-  "total": 5,
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T08:03:11.339870+08:00",
+  "total": 9,
   "articles": [
     {
       "num": 1,
-      "title": "由于发布商和代理商对Anthropic结算提出索赔，作者表示反对",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "作者表示，发布商似乎声称支付了超过其公平份额的结算付款。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "link": "https://www.qbitai.com/2026/09/485431.html",
+      "summary": "他透露Astra使用约10万套NVIDIA Grace Blackwell NVLink72训练，接下来还有40万套GPU上线。网友lyra把同一个任务拿给不同模型测试：让模型生成一辆BMW M4 Competition的SVG图。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "link": "https://www.qbitai.com/2026/09/484897.html",
-      "summary": "2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "link": "https://www.qbitai.com/2026/09/485064.html",
+      "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "徒步旅行者在使用Google Gemini进行规划后获救",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "治安官办公室表示， “双子座建议徒步旅行者携带的食物和水远远少于他们的团队所需。”",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "link": "https://www.qbitai.com/2026/09/485056.html",
+      "summary": "今日，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。秉承原生全模态的技术理念，模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。具身模型的发布，标志着智象逐步实现了打通图像、视频、3D、动作等模态，贯通理解—推演—执行全流程，构建统一世界模型基座的技术闭环。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "link": "https://www.qbitai.com/2026/09/484726.html",
-      "summary": "由于循环发生在hidden state里，中间过程未必会写成人类可读的思维链，模型会不会因此更难监测？OpenAI也由此被AI安全专家集体讨伐，甚至一度逼得首席科学家Jakub Pachocki亲自下场回应。",
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "link": "https://www.qbitai.com/2026/09/485046.html",
+      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+      "link": "https://www.qbitai.com/2026/09/485039.html",
+      "summary": "近日，合肥中科类脑智能技术有限公司（以下简称“中科类脑”）正式宣布完成数亿元B+轮战略融资，本轮融资由央企产业龙头旗下中车资本领投，银杏谷资本、水木基金、启迪基金等机构跟投。本次融资是中科类脑继2025年获得中国移动旗下北京中移数字新经济产业基金亿元级独家战略投资后，在资本市场的又一重要里程碑。中国移动、中国中车两大央企旗下基金先后战略入局，标志着中科类脑在AI Infra、Token优化、算电一体化赛道的产业价值获得国家级产业资本与专业投资机构的认可。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 6,
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "link": "https://www.qbitai.com/2026/09/485525.html",
+      "summary": "这是具身与LLM最大的不同。台阶、碎石路、几十公斤的负载，这些都是实实在在的物理约束，不是光靠训模型就能解决的。本末科技的创始人叫张笛，本科就读于北理工机械工程，硕士去了香港科技大学机器人系统与控制专业，师从「大疆教父」李泽湘。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 5,
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "link": "https://www.qbitai.com/2026/09/484683.html",
-      "summary": "南方，受台风美莎克及西南季风共同影响，广西遭遇持续强降雨。南宁市横州、宾阳等地多个站点降雨量突破历史纪录，六蓝水库发生溃口。从监测到异常洪峰到溃口发生，留给指挥部的黄金处置时间不足30分钟，贵港郁江出现2001年以来最大洪水，洪峰水位超出警戒5.68米，一处教育园区积水最深接近三楼，上万名师生被困，全区紧急避险转移18.7万人。",
+      "num": 7,
+      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+      "link": "https://www.qbitai.com/2026/09/485154.html",
+      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
       "source": "量子位",
       "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 8,
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "link": "https://www.qbitai.com/2026/09/485108.html",
+      "summary": "其中，GLM-5.2待在云端，手机端只需运行4B的Qwen-3.5。大模型全程不输出一个字，小模型负责把最终答案写出来。按团队披露的实验结果，这套方案能让4B模型补上与753B模型之间约50%的性能差距，自身准确率提高25%。在大小模型差距更明显的难题子集上，提升达到2倍。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6…",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     }
   ]
