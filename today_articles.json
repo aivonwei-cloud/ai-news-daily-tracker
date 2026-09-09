@@ -1,87 +1,114 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T08:03:11.339870+08:00",
-  "total": 9,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T08:02:17.499319+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "link": "https://www.qbitai.com/2026/09/485431.html",
-      "summary": "他透露Astra使用约10万套NVIDIA Grace Blackwell NVLink72训练，接下来还有40万套GPU上线。网友lyra把同一个任务拿给不同模型测试：让模型生成一辆BMW M4 Competition的SVG图。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "ChatGPT Sketch将不良图纸转化为详细的人工智能图像",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "我使用ChatGPT及其草图工具来制作这张AI生成的猫图像。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-      "link": "https://www.qbitai.com/2026/09/485064.html",
-      "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Meta首次推出其Muse AI代理。消费者会信任它吗？",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta新的个人人工智能代理商Muse希望访问用户的电子邮件、日历、付款、医疗服务等，这使该公司成为最大的消费者人工智能赌注，但也是对人们是否仍在使用人工智能的主要考验。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-      "link": "https://www.qbitai.com/2026/09/485056.html",
-      "summary": "今日，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。秉承原生全模态的技术理念，模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。具身模型的发布，标志着智象逐步实现了打通图像、视频、3D、动作等模态，贯通理解—推演—执行全流程，构建统一世界模型基座的技术闭环。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "人工智能超级用户声称Anthropic通过订阅欺骗了他们，他们正在将其告上法庭",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "summary": "Anthropic表示，高级用户是其业务的关键--即使这意味着切断OpenClaw等其他流行应用程序，它也会优先考虑他们。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "业内首个！“千问办公”推出“多人工作台”",
-      "link": "https://www.qbitai.com/2026/09/485046.html",
-      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "随着人工智能改变安全格局， Chrome浏览器现在每两周发布一次更新",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "谷歌正在加快Chrome浏览器的发布时间表，以更快地发布安全补丁和新功能。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
-      "link": "https://www.qbitai.com/2026/09/485039.html",
-      "summary": "近日，合肥中科类脑智能技术有限公司（以下简称“中科类脑”）正式宣布完成数亿元B+轮战略融资，本轮融资由央企产业龙头旗下中车资本领投，银杏谷资本、水木基金、启迪基金等机构跟投。本次融资是中科类脑继2025年获得中国移动旗下北京中移数字新经济产业基金亿元级独家战略投资后，在资本市场的又一重要里程碑。中国移动、中国中车两大央企旗下基金先后战略入局，标志着中科类脑在AI Infra、Token优化、算电一体化赛道的产业价值获得国家级产业资本与专业投资机构的认可。",
+      "title": "谷歌的人类基因组图谱可以为新的治疗方法铺平道路",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "谷歌DeepMind推出了一款人工智能工具，其科学家声称该工具可以帮助揭开人类基因组的奥秘，改变我们对生物学的理解，加速科学研究和……",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "Cognition的估值达到480亿美元，表明投资者认为人工智能编码远未成为赢家通吃的市场",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "summary": "Cognition的估值倍数高于Cursor在出售给SpaceX之前的估值倍数。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "随着主权人工智能成为大企业， Mistral筹集了30亿美元€",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "这家法国人工智能实验室在由三星、Scaleup Europe和PSG Equity牵头的D轮融资中以210亿欧元的估值筹集了30亿欧元。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "link": "https://www.qbitai.com/2026/09/485784.html",
+      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
       "source": "量子位",
       "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
-      "num": 6,
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "link": "https://www.qbitai.com/2026/09/485525.html",
-      "summary": "这是具身与LLM最大的不同。台阶、碎石路、几十公斤的负载，这些都是实实在在的物理约束，不是光靠训模型就能解决的。本末科技的创始人叫张笛，本科就读于北理工机械工程，硕士去了香港科技大学机器人系统与控制专业，师从「大疆教父」李泽湘。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 7,
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "link": "https://www.qbitai.com/2026/09/485154.html",
-      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 8,
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "link": "https://www.qbitai.com/2026/09/485108.html",
-      "summary": "其中，GLM-5.2待在云端，手机端只需运行4B的Qwen-3.5。大模型全程不输出一个字，小模型负责把最终答案写出来。按团队披露的实验结果，这套方案能让4B模型补上与753B模型之间约50%的性能差距，自身准确率提高25%。在大小模型差距更明显的难题子集上，提升达到2倍。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 9,
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6…",
-      "source": "AI | The Verge",
+      "title": "黑客正在从订阅者那里窃取Claude令牌",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "上个月，一位Claude用户注意到他的帐户正在使用代币，即使他没有工作。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "人工智能天气预报进入能源市场，谷歌通过WeatherNext 3瞄准电网运营商",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "谷歌最新的人工智能天气预报模型预测了距离地面100米处的风速，大致相当于现代风力涡轮机的高度。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "YouTube出现在53%的谷歌人工智能维生素和补充剂搜索概述中",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "根据一项新的研究，在维生素和补充剂搜索中， YouTube是Google AI Overviews中最常被引用的网站。",
+      "source": "AI新闻网",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "link": "https://www.qbitai.com/2026/09/485854.html",
+      "summary": "它会编写Python脚本，用代码创建几何结构，再根据渲染结果继续修改。作者后来让它把火车拆成零件，Astra也能直接处理。不过我仔细看了看，这个案例中Astra主要是读取OpenStreetMap等公开地图数据，根据建筑轮廓和高度生成简化几何体。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     }
   ]
