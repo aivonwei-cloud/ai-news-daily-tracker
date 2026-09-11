@@ -1,55 +1,100 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T08:02:47.429899+08:00",
-  "total": 12,
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T08:02:48.713887+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "阅读Apple文档，了解新的聆听功能如何保护您的隐私",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "summary": "在周三的iPhone Duo发布会上，苹果宣布了一些新的Siri AI音频智能功能，包括Siri Recap、Live Rewind、声音识别和音乐识别。",
+      "title": "Slack现在可以在聊天中对交互式图表和报告进行vibe编码",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "summary": "Slack即将推出的新功能将允许您直接在聊天中构建交互式报告、投票、仪表板、演示文稿、微型网站和其他工具。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Apple Watch的新人工智能功能正在使技术始终在倾听的观念正常化",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "summary": "苹果表示，其新款手表不会保存原始音频，但可以转录最近的演讲和总结环境对话的功能引发了有关同意、隐私和人们行为方式的新问题……",
+      "title": "Anthropic详细介绍了阿里巴巴、Moonshot AI和DeepSeek的蒸馏活动",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "summary": "Anthropic周四发布的一份新报告称，中国人工智能公司持续不断的蒸馏攻击，随着该领域竞争的加剧，近几个月来这种攻击已经升级。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "苹果在秋季iPhone发布会上宣布的一切，从可折叠的iPhone Duo到始终聆听的Apple Watch",
-      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "summary": "主要事件是科技巨头备受期待的第一款可折叠手机iPhone Duo。",
+      "title": "Meta的人工智能代理Muse现在是美国排名第二的应用程序",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "summary": "Meta的最新应用程序Muse的开始速度比该公司的其他应用程序（如Meta AI或Threads ）慢。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "苹果新推出的iPhone相机模式有望证明您的照片不是人工智能",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "summary": "Apple正在推出一种新方法来证明您拍摄的照片不是由人工智能操纵的。",
+      "title": "环球音乐与ElevenLabs合作推出人工智能音乐平台",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "summary": "环球音乐集团正在推出一个新的人工智能平台，允许用户从其许可音乐目录中抽取歌曲混音、混搭和新曲目。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "link": "https://www.qbitai.com/2026/09/486450.html",
-      "summary": "可以说是一次技术的集大成产物了。iPhone Air惨遭斩杀，现在展开版的iPhone Duo才是最薄的iPhone。名字并不是传闻中的iPhone Ultra，苹果给它的正式命名叫iPhone Duo（/ˈduːoʊ/）。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Meta的Muse AI让我毛骨悚然",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "我把我的缪斯助手变成了一只紫色的猫。|屏幕截图： The Verge Meta推出了新的Muse助手，标志着该公司首次真正涉足人工智能驱动的生产力工具。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Maven Robotics想要窃取您的机器人部署交易",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "summary": "Maven Robotics今天从隐形中脱颖而出，获得了1亿美元的A轮融资和积极的部署。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "link": "https://www.qbitai.com/2026/09/486625.html",
+      "summary": "过去一年，具身智能行业的新闻雷声大、雨点也大。根据量子位不完全统计，截至2026年6月12日，国内具身智能赛道共融资约438亿元，已经达到了2025年全年的近八成。这些demo和融资，覆盖的场景五花八门，家用陪伴、商业导览、工业产线，每个细分领域都有公司在做。但demo跑通和真正批量部署，是两张皮的事，不是每个场景都能同时跨过去，如果视角直接盯着「具身智能」这个大概念，未免太过宽泛。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "人工智能代理正在用新的请求淹没公共服务",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "summary": "这位研究人员告诉TechCrunch ： “我们发现的绝大多数案例都是有权要求某样东西的人，要求那样东西。”",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+      "link": "https://www.qbitai.com/2026/09/486716.html",
+      "summary": "视频地址： https://mp.weixin.qq.com/s/fOoXddwWjKixTbrMQiyd8Q 视频地址： https://mp.weixin.qq.com/s/fOoXddwWjKixTbrMQiyd8Q",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "人工智能研究初创公司Listen Labs为Salesforce会谈筹集了15亿美元资金",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "消息人士称， Listen Labs放弃了Menlo Ventures签署的C系列条款表。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
       "title": "OpenAI为其董事会增加了一个突出的人工智能末日",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "summary": "保罗·克里斯蒂安诺（ Paul Christiano ）是一位专注于调整的有影响力的人工智能研究人员，他将加入OpenAI基金会，成为其董事会成员。",
@@ -58,56 +103,20 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 7,
-      "title": "“用我们的生命赌博” ：人类学研究人员辞职，警告不要自我完善的人工智能",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "summary": "人类学研究员雅各布·考克森（ Jacob Coxon ）因担心人工智能灭绝而辞职，呼吁实验室之间达成起搏协议。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 8,
-      "title": "随着版权诉讼的堆积， Suno将其人工智能模型替换为经过授权音乐培训的新模型",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "summary": "Suno表示，在应对一系列诉讼时，其新型号Suno v6并未使用音乐进行训练，该音乐用于训练以前版本的人工智能模型。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "担忧的人类学研究人员警告说，人工智能“可能会杀死所有人类”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "summary": "一位高级人类安全研究员表示，到本十年末，人工智能“可能杀死所有人类”的可能性超过10 ％ ，就在一位同事辞职几小时后……",
+      "num": 12,
+      "title": "OpenAI狡猾的数学突破给学术界带来寒意",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "summary": "Open AI首席执行官Sam Altman在G20创新部长级会议上发表讲话。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
-      "title": "三星利用Mistral人工智能模型进行半导体制造",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "summary": "三星已与Mistral AI合作，在其半导体制造和工程运营中部署本地模型。",
-      "source": "AI新闻网",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
+      "num": 13,
       "title": "苹果首席执行官约翰·特纳斯（ John Ternus ）表示，最好的人工智能设备仍然",
       "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
       "summary": "该公司还认为，其设备型号为消费者提供了更多隐私。",
       "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 12,
-      "title": "微软为学校制定了新的人工智能隐私规则",
-      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "summary": "在两所主要学校系统宣布禁止面向学生的人工智能一周后，微软同意了一套针对学校的人工智能安全和隐私原则。",
-      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     }
