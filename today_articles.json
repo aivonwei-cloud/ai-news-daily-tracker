@@ -1,55 +1,73 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T08:02:48.713887+08:00",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T08:02:46.586202+08:00",
   "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "Slack现在可以在聊天中对交互式图表和报告进行vibe编码",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "summary": "Slack即将推出的新功能将允许您直接在聊天中构建交互式报告、投票、仪表板、演示文稿、微型网站和其他工具。",
-      "source": "AI | The Verge",
+      "title": "Y Combinator的Garry Tan希望美国开放式人工智能实验室也能“提炼”前沿模型",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Tan希望规模较小的美国开放式人工智能实验室在美国前沿人工智能实验室上使用相同的培训技术，让美国",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Anthropic详细介绍了阿里巴巴、Moonshot AI和DeepSeek的蒸馏活动",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "Anthropic周四发布的一份新报告称，中国人工智能公司持续不断的蒸馏攻击，随着该领域竞争的加剧，近几个月来这种攻击已经升级。",
+      "title": "OpenAI与数学家的不和只会升级",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "25位领先的数学家签署了一封公开信，声称人工智能实验室正在威胁他们的智力工作。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Meta的人工智能代理Muse现在是美国排名第二的应用程序",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "summary": "Meta的最新应用程序Muse的开始速度比该公司的其他应用程序（如Meta AI或Threads ）慢。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "link": "https://www.qbitai.com/2026/09/487631.html",
+      "summary": "客户如果想要一笔真正匹配自己经营节奏的钱，往往还得跑几个入口、登记好几个产品，最后东拼西凑半天也不一定够。要知道，银行大概是全宇宙转移成本最高的行业之一，传统业务流程的惯性是很强的，想要克服创新者窘境，阻力非常大。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "环球音乐与ElevenLabs合作推出人工智能音乐平台",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "summary": "环球音乐集团正在推出一个新的人工智能平台，允许用户从其许可音乐目录中抽取歌曲混音、混搭和新曲目。",
+      "title": "Anthropic本周在网络安全的热水中度过",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "在今年早些时候承认其人工智能模型曾多次入侵其他公司的系统后， Anthropic周三发布了一份新报告，详细介绍了这些攻击。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Meta的Muse AI让我毛骨悚然",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "我把我的缪斯助手变成了一只紫色的猫。|屏幕截图： The Verge Meta推出了新的Muse助手，标志着该公司首次真正涉足人工智能驱动的生产力工具。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+      "link": "https://www.qbitai.com/2026/09/487415.html",
+      "summary": "他们用秒哒做出了「全序智管」办公系统，接入企业微信后，几百名员工可以直接在里面处理项目、差旅审批和邮件，不用来回切换窗口。这两套系统都不是程序员写出来的，搭建者是公司创始人和一线业务团队。他们很了解业务，但此前没有写过一行代码。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "这家成立两年的初创公司的融资是在Mecka宣布其A轮融资的几个月后进行的。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Nscale在潜在的IPO之前将前OpenAI高管Fidji Simo加入其董事会",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "summary": "颠覆2026 ： OpenAI、Anthropic、Replit等占据了6个行业阶段。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "Maven Robotics想要窃取您的机器人部署交易",
       "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "summary": "Maven Robotics今天从隐形中脱颖而出，获得了1亿美元的A轮融资和积极的部署。",
@@ -58,67 +76,49 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "link": "https://www.qbitai.com/2026/09/486625.html",
-      "summary": "过去一年，具身智能行业的新闻雷声大、雨点也大。根据量子位不完全统计，截至2026年6月12日，国内具身智能赛道共融资约438亿元，已经达到了2025年全年的近八成。这些demo和融资，覆盖的场景五花八门，家用陪伴、商业导览、工业产线，每个细分领域都有公司在做。但demo跑通和真正批量部署，是两张皮的事，不是每个场景都能同时跨过去，如果视角直接盯着「具身智能」这个大概念，未免太过宽泛。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "人工智能代理正在用新的请求淹没公共服务",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "summary": "这位研究人员告诉TechCrunch ： “我们发现的绝大多数案例都是有权要求某样东西的人，要求那样东西。”",
+      "num": 9,
+      "title": "Kimi制造商Moonshot AI的年收入目标为$ 2B",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "虽然K3的使用数据在最近几个月略有下降，但OpenRouter数据目前显示，系统上的K3模型每天生成的代币多达3000亿个。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
-      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-      "link": "https://www.qbitai.com/2026/09/486716.html",
-      "summary": "视频地址： https://mp.weixin.qq.com/s/fOoXddwWjKixTbrMQiyd8Q 视频地址： https://mp.weixin.qq.com/s/fOoXddwWjKixTbrMQiyd8Q",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 10,
-      "title": "人工智能研究初创公司Listen Labs为Salesforce会谈筹集了15亿美元资金",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "summary": "消息人士称， Listen Labs放弃了Menlo Ventures签署的C系列条款表。",
+      "title": "人类学研究者的世界末日警告发生在一个非常有趣的时刻",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "summary": "一位人类学研究人员本周辞职，他在X上的一篇帖子中警告说，该公司正在“直奔自我提升的超级智能，用我们的生命赌博”。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "OpenAI为其董事会增加了一个突出的人工智能末日",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "summary": "保罗·克里斯蒂安诺（ Paul Christiano ）是一位专注于调整的有影响力的人工智能研究人员，他将加入OpenAI基金会，成为其董事会成员。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "link": "https://www.qbitai.com/2026/09/487573.html",
+      "summary": "Anthropic要求候选人至少拥有10年企业销售经验，熟悉大型科技公司的采购流程，能处理周期漫长、利益相关方众多的复杂交易。新销售入职后，需要寻找Meta内部可能使用Claude的业务部门，从挖掘需求、组织技术测试，一路推进到采购和签约。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "OpenAI狡猾的数学突破给学术界带来寒意",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "summary": "Open AI首席执行官Sam Altman在G20创新部长级会议上发表讲话。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "link": "https://www.qbitai.com/2026/09/487273.html",
+      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "苹果首席执行官约翰·特纳斯（ John Ternus ）表示，最好的人工智能设备仍然",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "该公司还认为，其设备型号为消费者提供了更多隐私。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "link": "https://www.qbitai.com/2026/09/487092.html",
+      "summary": "Buckmaster过去两个月的Codex提示词，绝不可能以任何方式影响内部模型。7月3日之后的任何用户输入，也不可能进入这套系统。这比OpenAI此前“无法完全排除匿名用户数据曾帮助改进模型”的表态明确得多，也给8月研究成果是否进入模型划出了一条时间线。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     }
   ]
 }
