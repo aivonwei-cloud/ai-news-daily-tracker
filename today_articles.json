@@ -1,10 +1,46 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T08:02:46.586202+08:00",
-  "total": 13,
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T08:02:16.477176+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "link": "https://www.qbitai.com/2026/09/487860.html",
+      "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "link": "https://www.qbitai.com/2026/09/487701.html",
+      "summary": "但按照Epoch的算法，“全部解出”指的是把不同模型、不同时间的尝试累积起来以后，Tier 4里的每一道题都已经有过成功解答。如果你关注模型评测的话，就知道2025年7月11日，Tier 4刚刚推出时，榜上最高成绩只有大约5%。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "link": "https://www.qbitai.com/2026/09/487688.html",
+      "summary": "9月11日，Kimi K2.8 Preview在Kimi Code和Kimi Work全量上线，官方称综合性能接近旗舰 K3，且Coding和Agent能力进一步提升。K2.8 Preview的综合性能接近K3，Coding和Agent能力全面提升，思考效率较K2.7 Code显著改善；",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "link": "https://www.qbitai.com/2026/09/487653.html",
+      "summary": "刚刚，陶哲轩、邓煜等25位菲尔兹奖得主联合发起并作为首批签署人，发布了一份声明表示：AI公司推进数学的方式，已经与数学共同体的目标出现“severe misalignment（严重偏移）”。因鉴于近期AI急剧发展对数学领域带来的冲击极为严峻，发起人未走流程繁琐的协商程序，而是选择紧急公开发布，以尽快回应危机。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "Y Combinator的Garry Tan希望美国开放式人工智能实验室也能“提炼”前沿模型",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "summary": "Tan希望规模较小的美国开放式人工智能实验室在美国前沿人工智能实验室上使用相同的培训技术，让美国",
@@ -13,43 +49,25 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "OpenAI与数学家的不和只会升级",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "25位领先的数学家签署了一封公开信，声称人工智能实验室正在威胁他们的智力工作。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-      "link": "https://www.qbitai.com/2026/09/487631.html",
-      "summary": "客户如果想要一笔真正匹配自己经营节奏的钱，往往还得跑几个入口、登记好几个产品，最后东拼西凑半天也不一定够。要知道，银行大概是全宇宙转移成本最高的行业之一，传统业务流程的惯性是很强的，想要克服创新者窘境，阻力非常大。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "Anthropic本周在网络安全的热水中度过",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "在今年早些时候承认其人工智能模型曾多次入侵其他公司的系统后， Anthropic周三发布了一份新报告，详细介绍了这些攻击。",
+      "num": 6,
+      "title": "Sam Altman表示， 2026年OpenAI上市将是“不明智的”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI首席执行官Sam Altman在接受《财富》杂志采访时证实， 2026年不会有OpenAI的IPO。",
       "source": "AI | The Verge",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "💰 投融资事件"
     },
     {
-      "num": 5,
-      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-      "link": "https://www.qbitai.com/2026/09/487415.html",
-      "summary": "他们用秒哒做出了「全序智管」办公系统，接入企业微信后，几百名员工可以直接在里面处理项目、差旅审批和邮件，不用来回切换窗口。这两套系统都不是程序员写出来的，搭建者是公司创始人和一线业务团队。他们很了解业务，但此前没有写过一行代码。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
+      "num": 7,
+      "title": "OpenAI的Sam Altman表示，在2026年上市将是“不明智的”",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，虽然OpenAI已秘密申请IPO ，但该公司今年不会上市。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
     },
     {
-      "num": 6,
+      "num": 8,
       "title": "在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "summary": "这家成立两年的初创公司的融资是在Mecka宣布其A轮融资的几个月后进行的。",
@@ -58,7 +76,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 9,
       "title": "Nscale在潜在的IPO之前将前OpenAI高管Fidji Simo加入其董事会",
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "summary": "颠覆2026 ： OpenAI、Anthropic、Replit等占据了6个行业阶段。",
@@ -67,16 +85,34 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Maven Robotics想要窃取您的机器人部署交易",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "summary": "Maven Robotics今天从隐形中脱颖而出，获得了1亿美元的A轮融资和积极的部署。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "num": 10,
+      "title": "Anthropic首席执行官表示，是时候对人工智能进行刹车了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic首席执行官Dario Amodei表示，现在是减缓人工智能开发的时候了，并将让METR等第三方评估人员访问其模型，以帮助确保其“遵守安全实践和……",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 11,
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "link": "https://www.qbitai.com/2026/09/487796.html",
+      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "link": "https://www.qbitai.com/2026/09/487752.html",
+      "summary": "这正是机器人“自进化”让人期待的原因：人类不可能替它示范所有情况，想让机器人越干越好，就需要它有办法评价动作的结果，并从反馈中继续学习。除了“自进化”，它还颇有些集大成的意味：触觉、灵巧操作、Ego数据……当前具身圈的几个热门关键词，几乎都能在这个世界模型中找到对应。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
       "title": "Kimi制造商Moonshot AI的年收入目标为$ 2B",
       "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "summary": "虽然K3的使用数据在最近几个月略有下降，但OpenRouter数据目前显示，系统上的K3模型每天生成的代币多达3000亿个。",
@@ -85,7 +121,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 14,
       "title": "人类学研究者的世界末日警告发生在一个非常有趣的时刻",
       "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
       "summary": "一位人类学研究人员本周辞职，他在X上的一篇帖子中警告说，该公司正在“直奔自我提升的超级智能，用我们的生命赌博”。",
@@ -94,31 +130,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-      "link": "https://www.qbitai.com/2026/09/487573.html",
-      "summary": "Anthropic要求候选人至少拥有10年企业销售经验，熟悉大型科技公司的采购流程，能处理周期漫长、利益相关方众多的复杂交易。新销售入职后，需要寻找Meta内部可能使用Claude的业务部门，从挖掘需求、组织技术测试，一路推进到采购和签约。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "link": "https://www.qbitai.com/2026/09/487273.html",
-      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "link": "https://www.qbitai.com/2026/09/487092.html",
-      "summary": "Buckmaster过去两个月的Codex提示词，绝不可能以任何方式影响内部模型。7月3日之后的任何用户输入，也不可能进入这套系统。这比OpenAI此前“无法完全排除匿名用户数据曾帮助改进模型”的表态明确得多，也给8月研究成果是否进入模型划出了一条时间线。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "num": 15,
+      "title": "特朗普正在向数据中心提供污染通行证",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "一群前美国环保署官员表示，唐纳德·特朗普总统正在以加快人工智能数据中心建设的名义削弱环境法规，增加了美国人的健康风险。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
