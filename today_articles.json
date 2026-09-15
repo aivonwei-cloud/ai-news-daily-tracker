@@ -1,70 +1,133 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T08:01:22.761703+08:00",
-  "total": 7,
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T08:02:20.218216+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "link": "https://www.qbitai.com/2026/09/488447.html",
-      "summary": "单看「关系型」，我们约莫可以理解为陪伴AI；「生产力Agent」大致就是当下的Claude Code、WorkBuddy这类产品。她比一般陪伴产品更懂行，写作生图一应俱全，也比纯干活的Agent更懂用户，有自己的人格，还会发朋友圈互动。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "对于iOS 27 ，我实际上又在使用Siri了",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "summary": "苹果推迟已久的Siri大修终于在iOS 27上推出，它改变了助手每天的使用感受。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "link": "https://www.qbitai.com/2026/09/488380.html",
-      "summary": "上一次出现这种场面，还要追溯到2023年那封由Future of Life Institute发起的公开信。但现在不一样了，现在的模型已经能当Agent在真实世界里执行任务，已经能发动网络攻击，已经开始出现对齐失败的案例。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "title": "时尚应用Daydream使用Apple Intelligence帮助您购买相机胶卷中的服装",
+      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "summary": "得益于iOS 27的推出， Daydream的应用程序现在包含了一些功能，可以将保存的服装照片转换为可购物的结果，并通过Siri搜索产品，而无需打开应用程序。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Sam Altman表示， 2026年OpenAI上市将是“不明智的”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary": "OpenAI首席执行官Sam Altman在接受《财富》杂志采访时证实， 2026年不会有OpenAI的IPO。",
-      "source": "AI | The Verge",
+      "title": "微软人工智能开始审查《人文主义人工智能行为准则》",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "summary": "微软人工智能发布了《人文主义人工智能行为准则》草案，就模型培训和部署的操作限制展开了为期六周的公众咨询。",
+      "source": "AI新闻网",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "OpenAI的Sam Altman表示，在2026年上市将是“不明智的”",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "summary": "首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，虽然OpenAI已秘密申请IPO ，但该公司今年不会上市。",
+      "title": "仅在TechCrunch Disrupt 2026上：当OpenAI发布您的路线图时会发生什么？",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "如果你正在建立一家人工智能公司，问题不在于基础模型是否会继续发展，而在于你的公司是否会继续创造价值。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "涩谷的一家黑胶唱片酒吧是前Spotify领导者创办的一家初创公司，致力于制作音乐应用程序",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "summary": "前Spotify高管的公司发布了涉及音乐制作用户的实验性“单曲”。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
-      "num": 5,
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "link": "https://www.qbitai.com/2026/09/488672.html",
-      "summary": "过去一年，具身智能的技术迭代明显加快。VLA、世界模型持续演进，强化学习重新成为机器人学习的重要技术路径，Sim2Real加速从仿真走向真机，全身控制能力也在快速突破。一个机器人能跨过固定高度的障碍，不意味着换一种障碍还能完成；能在一个房间里导航，不意味着换一个场景、换一种机器人本体仍然有效；正常状态下能稳定行走，也不意味着受到撞击、跌倒甚至关节损伤之后还能继续工作。",
+      "num": 7,
+      "title": "随着生产力平台推动代理工作， Superhuman收购了YC支持的笔记员Fathom",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "summary": "笔记员提供了慷慨的免费计划，每月活跃用户超过40万。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "link": "https://www.qbitai.com/2026/09/488912.html",
+      "summary": "近日，中国金融AI领跑者讯兔科技正式完成超3亿元人民币B轮融资。至此，公司在过去一年内已连续完成三轮融资。本轮融资进一步汇聚金融产业的战略力量，投资方覆盖险资、券商、公募、产业资本与头部投资机构。保险业国家级投资平台中保投资、头部券商系私募基金子公司广发信德共同参与；同时，讯兔科技获得启明创投、琥珀资本、嘉程资本、信宸资本、钟鼎资本等头部创投机构和老股东的鼎力支持。华兴资本继续担任独家财务顾问。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+      "link": "https://www.qbitai.com/2026/09/488699.html",
+      "summary": "你的诺奖得主哈萨比斯也默默发了声，只可惜谷歌痛失Coding后，老哈萨比斯基本说话基本没啥分量了，AI三巨头的位置早已换成老马。2026年5月，H轮，650亿美元，投后估值9650亿美元，一举超过OpenAI的8520亿，登顶全球最贵AI创企。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
+      "title": "微软新的人工智能“行为准则”告诉模型不要攻击系统或欺骗人类",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "summary": "行为准则列出了微软人工智能模型应该坚持的一般原则--例如，支持人类而不是取代人类，并加速人类的繁荣--以及……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "link": "https://www.qbitai.com/2026/09/489105.html",
+      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 6,
-      "title": "Anthropic首席执行官表示，是时候对人工智能进行刹车了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic首席执行官Dario Amodei表示，现在是减缓人工智能开发的时候了，并将让METR等第三方评估人员访问其模型，以帮助确保其“遵守安全实践和……",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "num": 12,
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "link": "https://www.qbitai.com/2026/09/489037.html",
+      "summary": "这正是机器人“自进化”让人期待的原因：人类不可能替它示范所有情况，想让机器人越干越好，就需要它有办法评价动作的结果，并从反馈中继续学习。除了“自进化”，它还颇有些集大成的意味：触觉、灵巧操作、Ego数据……当前具身圈的几个热门关键词，几乎都能在这个世界模型中找到对应。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 7,
-      "title": "特朗普正在向数据中心提供污染通行证",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "一群前美国环保署官员表示，唐纳德·特朗普总统正在以加快人工智能数据中心建设的名义削弱环境法规，增加了美国人的健康风险。",
-      "source": "AI | The Verge",
+      "num": 13,
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "link": "https://www.qbitai.com/2026/09/489023.html",
+      "summary": "酶催化时质子如何转移？化学键如何断裂和形成？药物与靶点结合后构象如何变化？——这些发生在纳秒级时间与原子尺度上的动态过程，才是真正决定分子功能的关键，也是计算化学几十年来未能攻克的难题。近日，分子之心自主研发的反应性原子建模平台QuantaMind相关研究发表于《Science Advances》，首次将接近密度泛函理论（DFT）精度的反应性分子动力学推进至数万原子级生物体系和数十纳秒时间尺度；论文提交后的最新扩展测试进一步达到了十万原子级和百纳秒尺度。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "为什么大多数企业代理试点从未实现部署",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "summary": "德勤的2026年技术趋势研究表明，人工智能代理的试点到生产失败率为89%。",
+      "source": "AI新闻网",
       "lang": "en",
-      "category": "📋 政策与监管"
+      "category": "🔬 技术突破/模型"
     }
   ]
 }
