@@ -1,55 +1,82 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T08:02:20.218216+08:00",
-  "total": 14,
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T08:02:51.013459+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "对于iOS 27 ，我实际上又在使用Siri了",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "summary": "苹果推迟已久的Siri大修终于在iOS 27上推出，它改变了助手每天的使用感受。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "选民大多不喜欢人工智能和数据中心，但双方似乎都没有优势",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "summary": "《纽约时报》和锡耶纳大学周二发布的民意调查数据证实了我们已经看到的情况，以及政客们的回应--人工智能和数据中心非常不受欢迎。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "时尚应用Daydream使用Apple Intelligence帮助您购买相机胶卷中的服装",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "summary": "得益于iOS 27的推出， Daydream的应用程序现在包含了一些功能，可以将保存的服装照片转换为可购物的结果，并通过Siri搜索产品，而无需打开应用程序。",
+      "title": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "微软人工智能开始审查《人文主义人工智能行为准则》",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-      "summary": "微软人工智能发布了《人文主义人工智能行为准则》草案，就模型培训和部署的操作限制展开了为期六周的公众咨询。",
-      "source": "AI新闻网",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "仅在TechCrunch Disrupt 2026上：当OpenAI发布您的路线图时会发生什么？",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "summary": "如果你正在建立一家人工智能公司，问题不在于基础模型是否会继续发展，而在于你的公司是否会继续创造价值。",
+      "title": "Meta通过以人工智能为重点的新计划扩展订阅推送",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "summary": "Meta One通过Facebook、Instagram和WhatsApp的高级功能捆绑了公司人工智能工具的扩展访问权限。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "涩谷的一家黑胶唱片酒吧是前Spotify领导者创办的一家初创公司，致力于制作音乐应用程序",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "summary": "前Spotify高管的公司发布了涉及音乐制作用户的实验性“单曲”。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Meta的新One订阅为社交媒体和人工智能定价",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "summary": "在推出新的一切AI助手Muse后不久， Meta推出了订阅捆绑包，将其独立的应用程序订阅与额外的人工智能使用相结合。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "AEO初创公司Profound实现独角兽估值，在上一轮融资后7个月筹集了1.8亿美元的D轮融资",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "summary": "在筹集了9600万美元的C轮融资后不到七个月， Profound以18亿美元的估值筹集了1.8亿美元的D轮融资。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "梁文锋CFO到位！投过智谱MiniMax",
+      "link": "https://www.qbitai.com/2026/09/489707.html",
+      "summary": "还真就能。因为DeepSeek此前根本不缺钱，幻方量化就是它的钱袋子，2025年管理规模约700亿，平均收益率56.6%。也是很魔幻，2023年，还是DeepSeek主动找上门向VC推销自己，结果被集体婉拒，理由是看不到回报路径。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "早期的Anthropic招聘，前METR首席运营官已经找到了控制流氓AI特工的方法",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "他们的初创公司人工智能承销公司(AIUC)在Ribbit Capital牵头的A轮融资中筹集了4000万美元($) ， First Harmonic也参与其中。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
       "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "summary": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。",
@@ -58,74 +85,38 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "随着生产力平台推动代理工作， Superhuman收购了YC支持的笔记员Fathom",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "summary": "笔记员提供了慷慨的免费计划，每月活跃用户超过40万。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-      "link": "https://www.qbitai.com/2026/09/488912.html",
-      "summary": "近日，中国金融AI领跑者讯兔科技正式完成超3亿元人民币B轮融资。至此，公司在过去一年内已连续完成三轮融资。本轮融资进一步汇聚金融产业的战略力量，投资方覆盖险资、券商、公募、产业资本与头部投资机构。保险业国家级投资平台中保投资、头部券商系私募基金子公司广发信德共同参与；同时，讯兔科技获得启明创投、琥珀资本、嘉程资本、信宸资本、钟鼎资本等头部创投机构和老股东的鼎力支持。华兴资本继续担任独家财务顾问。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-      "link": "https://www.qbitai.com/2026/09/488699.html",
-      "summary": "你的诺奖得主哈萨比斯也默默发了声，只可惜谷歌痛失Coding后，老哈萨比斯基本说话基本没啥分量了，AI三巨头的位置早已换成老马。2026年5月，H轮，650亿美元，投后估值9650亿美元，一举超过OpenAI的8520亿，登顶全球最贵AI创企。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 10,
-      "title": "微软新的人工智能“行为准则”告诉模型不要攻击系统或欺骗人类",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "summary": "行为准则列出了微软人工智能模型应该坚持的一般原则--例如，支持人类而不是取代人类，并加速人类的繁荣--以及……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+      "link": "https://www.qbitai.com/2026/09/489381.html",
+      "summary": "最新扩展测试中，QuantaMind已能够以接近量子化学计算的精度模拟十万原子级体系数百纳秒的反应，单步计算耗时仅约0.25秒；而在发表于《Science Advances》的研究中，它已经在一个包含17,792个原子的完整PET水解酶体系中连续模拟6 ns，让质子转移、断键、成键，直到完整酶催化循环，都在计算机里一步步清晰地发生。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "link": "https://www.qbitai.com/2026/09/489105.html",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+      "link": "https://www.qbitai.com/2026/09/489337.html",
+      "summary": "最近，来自Meta FAIR和华盛顿大学的论文《突破Token天花板：蒸馏出更小、更强的字节模型》，提出了一个很有趣的想法—— 蒸馏的时候，能不能把学习单位从词元（Token）换成字节，让学生模型直接从字节（byte）级别的概率分布学起？",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/489037.html",
-      "summary": "这正是机器人“自进化”让人期待的原因：人类不可能替它示范所有情况，想让机器人越干越好，就需要它有办法评价动作的结果，并从反馈中继续学习。除了“自进化”，它还颇有些集大成的意味：触觉、灵巧操作、Ego数据……当前具身圈的几个热门关键词，几乎都能在这个世界模型中找到对应。",
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "link": "https://www.qbitai.com/2026/09/489288.html",
+      "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
-      "link": "https://www.qbitai.com/2026/09/489023.html",
-      "summary": "酶催化时质子如何转移？化学键如何断裂和形成？药物与靶点结合后构象如何变化？——这些发生在纳秒级时间与原子尺度上的动态过程，才是真正决定分子功能的关键，也是计算化学几十年来未能攻克的难题。近日，分子之心自主研发的反应性原子建模平台QuantaMind相关研究发表于《Science Advances》，首次将接近密度泛函理论（DFT）精度的反应性分子动力学推进至数万原子级生物体系和数十纳秒时间尺度；论文提交后的最新扩展测试进一步达到了十万原子级和百纳秒尺度。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "为什么大多数企业代理试点从未实现部署",
-      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "summary": "德勤的2026年技术趋势研究表明，人工智能代理的试点到生产失败率为89%。",
-      "source": "AI新闻网",
+      "title": "微软新的人工智能“行为准则”告诉模型不要攻击系统或欺骗人类",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "summary": "行为准则列出了微软人工智能模型应该坚持的一般原则--例如，支持人类而不是取代人类，并加速人类的繁荣--以及……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     }
