@@ -1,124 +1,133 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T08:02:51.013459+08:00",
-  "total": 13,
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T08:03:09.175074+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "选民大多不喜欢人工智能和数据中心，但双方似乎都没有优势",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "summary": "《纽约时报》和锡耶纳大学周二发布的民意调查数据证实了我们已经看到的情况，以及政客们的回应--人工智能和数据中心非常不受欢迎。",
+      "title": "Snap正在推出一款新的Specs AI工具，即将在iOS和Mac上推出",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "summary": "Snap推出了“Specs Intelligence” ，这是一种新的人工智能助手，可以连接其他数字帐户，帮助您完成工作任务和跟踪差旅信息等。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。",
+      "title": "在被指控出售“变态眼镜”后， Meta准备在没有相机的情况下出售一副",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "summary": "Meta可以用新的无相机产品来躲避“变态眼镜”的指控吗？",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "title": "您的AI代理现在可以控制您的Google Home设备",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "谷歌正在为Google Home推出抢先访问新的MCP服务器，允许Claude、ChatGPT等人工智能代理控制连接的设备，查看摄像头摘要，并访问智能家居……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Meta通过以人工智能为重点的新计划扩展订阅推送",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "summary": "Meta One通过Facebook、Instagram和WhatsApp的高级功能捆绑了公司人工智能工具的扩展访问权限。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Meta的新One订阅为社交媒体和人工智能定价",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "summary": "在推出新的一切AI助手Muse后不久， Meta推出了订阅捆绑包，将其独立的应用程序订阅与额外的人工智能使用相结合。",
+      "title": "Claude为Gemini带来了自己对文档和幻灯片的看法",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "summary": "Claude今天将获得一对新工具：文档和幻灯片。它们将允许您通过Claude聊天创建文档和演示文稿，您可以导出、编辑并与其他用户共享这些文档和演示文稿。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 5,
+      "title": "Anthropic将Claude聊天和Cowork合并在一个界面中",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic最初将向Pro和Max套餐订阅者发布这些功能。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 6,
-      "title": "AEO初创公司Profound实现独角兽估值，在上一轮融资后7个月筹集了1.8亿美元的D轮融资",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "summary": "在筹集了9600万美元的C轮融资后不到七个月， Profound以18亿美元的估值筹集了1.8亿美元的D轮融资。",
+      "title": "TechCrunch Disrupt 2026评选Startup Battlefield 200竞争者的下一波风投揭晓",
+      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "summary": "与接下来的五位顶级投资者见面，他们将在TechCrunch Disrupt 2026现场评判Startup Battlefield 200的竞争者。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "梁文锋CFO到位！投过智谱MiniMax",
-      "link": "https://www.qbitai.com/2026/09/489707.html",
-      "summary": "还真就能。因为DeepSeek此前根本不缺钱，幻方量化就是它的钱袋子，2025年管理规模约700亿，平均收益率56.6%。也是很魔幻，2023年，还是DeepSeek主动找上门向VC推销自己，结果被集体婉拒，理由是看不到回报路径。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "title": "谷歌现在将让任何人工智能代理运行您的智能家居",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google正在邀请第三方代理（包括Claude和Open Claw ）加入Google Home。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "早期的Anthropic招聘，前METR首席运营官已经找到了控制流氓AI特工的方法",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "他们的初创公司人工智能承销公司(AIUC)在Ribbit Capital牵头的A轮融资中筹集了4000万美元($) ， First Harmonic也参与其中。",
+      "title": "机器人正在等待ChatGPT时刻：英伟达的Les Karpas在TechCrunch Disrupt 2026上解释了原因",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "summary": "机器人行业仍在等待他们在日常生活中的突破。Nvidia的Les Karpas对TechCrunch Disrupt 2026的原因有一个答案。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "summary": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "新的人工智能技术可以使微创手术更安全、更精确",
+      "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "summary": "研究人员创造了一种新技术，可以准确快速地将手术期间捕获的X射线与患者术前3D医学扫描相匹配。",
+      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
-      "link": "https://www.qbitai.com/2026/09/489381.html",
-      "summary": "最新扩展测试中，QuantaMind已能够以接近量子化学计算的精度模拟十万原子级体系数百纳秒的反应，单步计算耗时仅约0.25秒；而在发表于《Science Advances》的研究中，它已经在一个包含17,792个原子的完整PET水解酶体系中连续模拟6 ns，让质子转移、断键、成键，直到完整酶催化循环，都在计算机里一步步清晰地发生。",
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+      "link": "https://www.qbitai.com/2026/09/490839.html",
+      "summary": "紫东太初最新开源的通用多模态大模型ZDTaichu5.0-9B，直接把10B以下通用模型空间具身的天花板又往上顶了一大截。过去的多模态模型，已经能把一张图片理解得头头是道，但一旦走进真实物理世界，空间理解与行动能力往往就跟不上；而一些模型为了补足空间能力，又不得不以牺牲通用能力为代价。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
-      "link": "https://www.qbitai.com/2026/09/489337.html",
-      "summary": "最近，来自Meta FAIR和华盛顿大学的论文《突破Token天花板：蒸馏出更小、更强的字节模型》，提出了一个很有趣的想法—— 蒸馏的时候，能不能把学习单位从词元（Token）换成字节，让学生模型直接从字节（byte）级别的概率分布学起？",
+      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+      "link": "https://www.qbitai.com/2026/09/490760.html",
+      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
-      "link": "https://www.qbitai.com/2026/09/489288.html",
-      "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "title": "Anthropic和OpenAI希望嵌入安全评估人员。他们真的会独立吗？",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic和OpenAI希望在其人工智能实验室中嵌入独立的安全评估人员。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     },
     {
       "num": 13,
-      "title": "微软新的人工智能“行为准则”告诉模型不要攻击系统或欺骗人类",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "summary": "行为准则列出了微软人工智能模型应该坚持的一般原则--例如，支持人类而不是取代人类，并加速人类的繁荣--以及……",
+      "title": "人工智能高管呼吁监管的简要历史",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "summary": "在过去的几天里，很多能够从人工智能中赚很多钱的人都公开同意，在我们失去控制之前，是时候让每个人都放慢速度了--包括OpenAI首席执行官Sam Altman……",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 14,
+      "title": "Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "根据Jensen Huang的说法，人工智能并不是“外星人思维”的新形式。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     }
   ]
 }
