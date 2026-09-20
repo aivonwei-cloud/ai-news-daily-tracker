@@ -1,10 +1,37 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T08:03:14.897921+08:00",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T08:02:56.816336+08:00",
   "total": 15,
   "articles": [
     {
       "num": 1,
+      "title": "Meta的Muse令人毛骨悚然，但也许不是因为您认为",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "summary": "Meta的Muse显然是一个有效的人工智能助手，但有点令人毛骨悚然。部分原因是其新的Mac应用程序可以访问消息、日历和笔记。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "link": "https://www.qbitai.com/2026/09/492467.html",
+      "summary": "2026 年 9 月 18 日，菲尔兹奖得主、SAIR Foundation联合创始人陶哲轩（Terence Tao）代表机构宣布启动「开放数学模型计划」，意在联合学术界与产业界，为数学及科学研究构建开放权重模型与配套开源工具。计划首阶段聚焦理解论证、核对文献、形式化证明等日常科研场景，以开放权重、可复现评测与社区治理为原则运作，即日起面向社区征集资金、算力、专业经验与社区建设方面的合作伙伴。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "Truecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
       "link": "https://www.qbitai.com/2026/09/492426.html",
       "summary": "9月17日，上海无问芯穹智能科技股份有限公司（以下简称“无问芯穹”）与北京华环电子股份有限公司（以下简称“华环电子”）签署战略合作框架协议。双方将结合各自产业与技术优势，围绕AI基础设施创新与产业应用深化合作，共同探索算力与网络协同发展新模式。此次签约标志着双方在AI基础设施领域的协同进入新阶段，将推动计算、网络与AI原生基础设施深度融合，为人工智能规模化应用提供更加高效、稳定和开放的基础设施支撑。",
@@ -13,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 5,
       "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
       "link": "https://www.qbitai.com/2026/09/492421.html",
       "summary": "9月15日-17日，2026能源绿色发展大会・国际数字能源展在深圳举办。展会首次以“一会一展”深度融合模式打造全球数字能源产业盛会，集中发布近百项前沿创新成果。达卯科技自主研发的「算电协同2.0平台・AIDC绿电直连能源运营操作系统」成功入选重大成果发布，也是成果中唯一聚焦算电协同全链路运营的AI技术产品。本届展会规格高、链条全，超五万平米展览和会议空间围绕跨界、协同、融合主线，全景呈现能源产业数字化智能化前景。50余个国家和地区近400家企业参展参会，专业观众超7万人次。",
@@ -22,34 +49,25 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "Meta的Muse点击Mac ，让AI在您的计算机上执行操作",
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "summary": "Muse现在可在Mac上使用，它可以与您的文件和应用程序一起代表您采取行动。",
+      "num": 6,
+      "title": "据报道， Flock试图通过员工收购来缩减员工队伍",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "如果没有收购， Flock “几乎肯定”需要裁员。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "💰 投融资事件"
     },
     {
-      "num": 4,
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "link": "https://www.qbitai.com/2026/09/491875.html",
-      "summary": "2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。",
+      "num": 7,
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "link": "https://www.qbitai.com/2026/09/492661.html",
+      "summary": "彭博社最新爆料，SpaceX内部已经讨论过，从一些陷入困境、甚至已经倒闭的初创公司手里，购买客户信息和运营数据，用来改进自家的AI模型。BI曾提到，他2023年高中毕业后进入宾夕法尼亚大学，后来休学加入xAI，并参与管理Grok的数据标注团队。",
       "source": "量子位",
       "lang": "zh",
-      "category": "🆕 新产品/工具"
+      "category": "💰 投融资事件"
     },
     {
-      "num": 5,
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "link": "https://www.qbitai.com/2026/09/491711.html",
-      "summary": "最新亮相的Claude Code Projects重构版，彻底终结了把Projects当「静态资料夹」的时代。这次重构直接把形态变成了「以对话为驱动的协作中心」，架构核心是一个名为Coordinator（协调器）的大脑。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
+      "num": 8,
       "title": "Manus寻求$ 4B估值在新的$ 5亿筹款，因为它恢复独立运营",
       "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
       "summary": "Manus今年早些时候不得不终止与Meta的合并，目前正在讨论以$ 4B的估值筹集$ 5亿美元。",
@@ -58,83 +76,65 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "link": "https://www.qbitai.com/2026/09/491764.html",
-      "summary": "再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "summary": "这轮融资对数据中心巨头的估值为309亿美元（ $ 309亿）。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 9,
-      "title": "人工智能幻觉几乎引发美军军事行动",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "summary": "一位GovAI研究学者警告说： “对于服务人员来说，了解LLM固有的不确定性非常重要。”",
+      "title": "谷歌的Gemini是攻击其他公司的最新AI模型",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "谷歌表示， Gemini通过立即终止每次黑客攻击“采取了适当的行动”。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "来自ChatGPT发明者的一种新型人工智能模型让开发人员兴奋不已",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "Jev是一种新型的人工智能模型，它向开发人员展示了一条更便宜、更快捷的软件智能之路。",
+      "title": "Vals在Andreessen Horowitz的支持下，希望成为人工智能基准测试的黄金标准",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "VALS AI希望在日益被AI模型淹没的世界中，使AI基准测试成为更中立、更值得信赖的资源。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "link": "https://www.qbitai.com/2026/09/492755.html",
+      "summary": "说出这句话的，是不久前从Google DeepMind离职的AI安全研究员Bilal Chughtai。自2021年从剑桥大学数学专业毕业以后，Chughtai逐渐将研究重心转向AI，并于2022年初进入这一领域，关注安全、对齐和机制可解释性。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "Automattic的33小时政变，人工智能实验室可以自我监管吗？",
-      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "link": "https://www.qbitai.com/2026/09/492573.html",
+      "summary": "每秒狂飙近2000Token，直接把“现搓网页”干成了“秒开网页”，Qwen 3.8 27B最近在开发者圈中火了！其中，工程师Alok将Qwen3.8-27B与Cerebras叠加起来，搭了一个脑洞大开的“AI电脑桌面”。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "安全研究人员利用Claude帮助他们入侵OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "summary": "Hacktron的一个由三名独立安全研究人员组成的团队表示，他们花了不到72个小时就使用Anthropic的Claude Opus 4.8和5 ， The Wall Street Jo...入侵了OpenAI员工帐户。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "link": "https://www.qbitai.com/2026/09/492550.html",
+      "summary": "哈萨比斯真正想考的，是AI能不能仅以1911年的知识水平，直面当时的知识和物理难题，自己提出一套新的解释框架，并完成一套超出训练材料的推理，而不是只会照着答案复读。而这个设想最巧妙的地方就在于，科学史已经告诉我们发生了什么，只要我们能把知识节点控制好，就有机会对照着历史，观察模型有没有获得超越训练数据的推理能力。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 14,
-      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "这位Character.AI的前首席执行官将担任该公司有史以来第一位首席技术官，迪士尼此前曾向其发送了一封停止信。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "人工智能监管的打击还没有结束",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "在本周初，谁是谁的人工智能似乎-至少暂时-在人工智能监管方面。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     },
     {
       "num": 15,
-      "title": "微软人工智能首席执行官表示，人工智能威胁是真实的，而Anthropic正在使情况变得更糟",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "summary": "今天，我正在与微软人工智能首席执行官穆斯塔法·苏莱曼（ Mustafa Suleyman ）交谈。毫无疑问，众所周知，目前技术领域最大的故事是关于人工智能安全和监管的激烈辩论。",
-      "source": "AI | The Verge",
+      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "summary": "这位Character.AI的前首席执行官将担任该公司有史以来第一位首席技术官，迪士尼此前曾向其发送了一封停止信。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
     }
