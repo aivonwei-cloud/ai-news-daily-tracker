@@ -1,10 +1,37 @@
 {
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20T08:02:56.816336+08:00",
-  "total": 15,
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T08:02:02.782079+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
+      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+      "link": "https://www.qbitai.com/2026/09/492973.html",
+      "summary": "生成一张16:9的商业产品摄影图。主体是一只奶油白色陶瓷咖啡杯，圆润简洁的杯身，深棕色弧形杯把，杯身正面只有一个极简的橙色半圆日落图形，不要出现任何文字。咖啡杯放在温暖的原木办公桌上，杯中是刚冲好的热咖啡，有自然热气。暖色电影光线，高级但有生活感，真实摄影质感。画面中只出现这一只咖啡杯，产品造型清晰完整，方便后续作为统一产品参考。我们接下来把咖啡杯的图片和分镜脚本，这两个模块连个线；然后在分镜脚本右边点击“+”，再点一下“资产管理”，与之相关的人物、道具、场景，一口气就被搞出来了！",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+      "link": "https://www.qbitai.com/2026/09/492873.html",
+      "summary": "近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧，并在成都车展当中得到了充分的验证，大批专业媒体和观众驻足体验、拍照咨询，成为展馆最具人气的焦点车型之一。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "link": "https://www.qbitai.com/2026/09/492849.html",
+      "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "Meta的Muse令人毛骨悚然，但也许不是因为您认为",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
       "summary": "Meta的Muse显然是一个有效的人工智能助手，但有点令人毛骨悚然。部分原因是其新的Mac应用程序可以访问消息、日历和笔记。",
@@ -13,43 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-      "link": "https://www.qbitai.com/2026/09/492467.html",
-      "summary": "2026 年 9 月 18 日，菲尔兹奖得主、SAIR Foundation联合创始人陶哲轩（Terence Tao）代表机构宣布启动「开放数学模型计划」，意在联合学术界与产业界，为数学及科学研究构建开放权重模型与配套开源工具。计划首阶段聚焦理解论证、核对文献、形式化证明等日常科研场景，以开放权重、可复现评测与社区治理为原则运作，即日起面向社区征集资金、算力、专业经验与社区建设方面的合作伙伴。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "summary": "Truecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "link": "https://www.qbitai.com/2026/09/492426.html",
-      "summary": "9月17日，上海无问芯穹智能科技股份有限公司（以下简称“无问芯穹”）与北京华环电子股份有限公司（以下简称“华环电子”）签署战略合作框架协议。双方将结合各自产业与技术优势，围绕AI基础设施创新与产业应用深化合作，共同探索算力与网络协同发展新模式。此次签约标志着双方在AI基础设施领域的协同进入新阶段，将推动计算、网络与AI原生基础设施深度融合，为人工智能规模化应用提供更加高效、稳定和开放的基础设施支撑。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 5,
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "link": "https://www.qbitai.com/2026/09/492421.html",
-      "summary": "9月15日-17日，2026能源绿色发展大会・国际数字能源展在深圳举办。展会首次以“一会一展”深度融合模式打造全球数字能源产业盛会，集中发布近百项前沿创新成果。达卯科技自主研发的「算电协同2.0平台・AIDC绿电直连能源运营操作系统」成功入选重大成果发布，也是成果中唯一聚焦算电协同全链路运营的AI技术产品。本届展会规格高、链条全，超五万平米展览和会议空间围绕跨界、协同、融合主线，全景呈现能源产业数字化智能化前景。50余个国家和地区近400家企业参展参会，专业观众超7万人次。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
       "title": "据报道， Flock试图通过员工收购来缩减员工队伍",
       "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
       "summary": "如果没有收购， Flock “几乎肯定”需要裁员。",
@@ -58,25 +49,43 @@
       "category": "💰 投融资事件"
     },
     {
+      "num": 6,
+      "title": "Nvidia的Jensen Huang认为人工智能的恐惧被夸大了，这并不令人惊讶。",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "summary": "可能从人工智能热潮中赚到最多钱的人似乎认为他比其他任何人都更了解，包括几十年来研究人工智能的研究人员。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
       "num": 7,
-      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-      "link": "https://www.qbitai.com/2026/09/492661.html",
-      "summary": "彭博社最新爆料，SpaceX内部已经讨论过，从一些陷入困境、甚至已经倒闭的初创公司手里，购买客户信息和运营数据，用来改进自家的AI模型。BI曾提到，他2023年高中毕业后进入宾夕法尼亚大学，后来休学加入xAI，并参与管理Grok的数据标注团队。",
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "link": "https://www.qbitai.com/2026/09/492946.html",
+      "summary": "这个夏天，大厂们集体加注AI办公。卷Agent能力，卷工作入口，卷企业工作流，Coding之后，办公成了Agent的下一个必争之地。原因现实得很扎心。他们数据不能出域，模型最好就地部署，手头算力又不算富裕。可偏偏，长文档要读，复杂业务要办，该干的活一样不少。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "Manus寻求$ 4B估值在新的$ 5亿筹款，因为它恢复独立运营",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "summary": "Manus今年早些时候不得不终止与Meta的合并，目前正在讨论以$ 4B的估值筹集$ 5亿美元。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+      "link": "https://www.qbitai.com/2026/09/492939.html",
+      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "link": "https://www.qbitai.com/2026/09/492912.html",
+      "summary": "事情的起因，是一家名叫Irregular的AI安全公司，组织了一场“夺旗”（Capture the Flag）演练，要求是让模型从一家虚构的公司系统里拿到一段秘密信息。而这个测试环境原本不应该具备联网能力的，但问题也恰恰出在了这里。由于一些bug，公网访问被意外打开了；更巧的是，演练里设定的那家虚构公司，和现实中一家真实企业重名。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
       "title": "谷歌的Gemini是攻击其他公司的最新AI模型",
       "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "summary": "谷歌表示， Gemini通过立即终止每次黑客攻击“采取了适当的行动”。",
@@ -85,56 +94,20 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
-      "title": "Vals在Andreessen Horowitz的支持下，希望成为人工智能基准测试的黄金标准",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "summary": "VALS AI希望在日益被AI模型淹没的世界中，使AI基准测试成为更中立、更值得信赖的资源。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "“留给人类阻止AI的时间不多了”",
-      "link": "https://www.qbitai.com/2026/09/492755.html",
-      "summary": "说出这句话的，是不久前从Google DeepMind离职的AI安全研究员Bilal Chughtai。自2021年从剑桥大学数学专业毕业以后，Chughtai逐渐将研究重心转向AI，并于2022年初进入这一领域，关注安全、对齐和机制可解释性。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-      "link": "https://www.qbitai.com/2026/09/492573.html",
-      "summary": "每秒狂飙近2000Token，直接把“现搓网页”干成了“秒开网页”，Qwen 3.8 27B最近在开发者圈中火了！其中，工程师Alok将Qwen3.8-27B与Cerebras叠加起来，搭了一个脑洞大开的“AI电脑桌面”。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-      "link": "https://www.qbitai.com/2026/09/492550.html",
-      "summary": "哈萨比斯真正想考的，是AI能不能仅以1911年的知识水平，直面当时的知识和物理难题，自己提出一套新的解释框架，并完成一套超出训练材料的推理，而不是只会照着答案复读。而这个设想最巧妙的地方就在于，科学史已经告诉我们发生了什么，只要我们能把知识节点控制好，就有机会对照着历史，观察模型有没有获得超越训练数据的推理能力。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "人工智能监管的打击还没有结束",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "summary": "在本周初，谁是谁的人工智能似乎-至少暂时-在人工智能监管方面。",
-      "source": "AI | The Verge",
+      "title": "Vocci的戒指为记笔记增添了新的外形",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "summary": "Vocci的轻质戒指售价$ 249 ，可能会带来一些隐私问题",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
     },
     {
-      "num": 15,
-      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "这位Character.AI的前首席执行官将担任该公司有史以来第一位首席技术官，迪士尼此前曾向其发送了一封停止信。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "num": 12,
+      "title": "人工智能监管的打击还没有结束",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "在本周初，谁是谁的人工智能似乎-至少暂时-在人工智能监管方面。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     }
