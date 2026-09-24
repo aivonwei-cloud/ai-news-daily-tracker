@@ -1,55 +1,82 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T08:02:51.341087+08:00",
-  "total": 14,
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T08:02:58.320998+08:00",
+  "total": 17,
   "articles": [
     {
       "num": 1,
-      "title": "Rabbit的新AI agent不需要R1就可以运行",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "summary": "正如Wired早些时候报道的那样， Rabbit是R1设备背后的公司，正在推出一款独立的AI代理，您不需要使用其硬件。",
+      "title": "Muse即将登陆Meta智能眼镜",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "summary": "在推出Muse几周后， Meta宣布它正在“努力”将代理引入其智能眼镜，包括在Meta Connect上推出的新眼镜。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "高通推出两款以人工智能为重点的新型智能手机芯片",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "summary": "高通表示，其新的顶级芯片可以在本地运行30B混合专家模型。",
+      "title": "Meta推出无摄像头AI眼镜",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta表示，无相机眼镜将更轻，电池续航时间长达12小时。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Poitras中心为50名致力于精神疾病研究的年轻科学家的早期职业生涯提供动力",
-      "link": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-      "summary": "Patricia和James Poitras ’63是麻省理工学院的长期支持者，他们为研究重大精神疾病的研究生和博士后推出了一项奖学金计划，将他们的麻省理工学院慈善事业扩展到直接……",
-      "source": "麻省理工学院新闻-人工智能",
+      "title": "Meta让Muse更加强大，也能让您与它进行视频聊天",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "summary": "Meta正在迅速迭代其新的Muse AI代理，今天宣布了一系列更新，使机器人更有能力，并能够以更多方式与您聊天。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "OpenAI推出GPT-6 Sol和Luna ，成本更低，错误更少",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "summary": "OpenAI正在推出两款新型号，据说是从与Astra相同的布料上剪下来的。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Meta Connect 2026 ：重大新闻和公告",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "现在是该公司年度产品发布会Meta Connect的时候了。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "summary": "风险投资公司Andreessen Horowitz (a16z)正在创建一个“学院” ，作为年轻人建立或加入硅谷初创公司的管道。",
+      "title": "Meta Connect 2026直播博客：在马克·扎克伯格（ Mark Zuckerberg ）的下一个重大产品发布会上",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "summary": "现在是Meta年度9月产品发布会的时候了， The Verge正在门洛帕克进行现场直播。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Enveda获得3.11亿美元，用于将更多自然衍生的人工智能药物纳入临床试验",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "这轮融资对AI生物技术的估值为20 $。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "StrictlyVC在TechCrunch Disrupt 2026 ：风险投资不断变化的规则",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "summary": "StrictlyVC加入TechCrunch Disrupt 2026 ，讨论人工智能不断变化的风险投资格局。获取您的投资者通行证，加入这些独家会议。在9月25日晚上11:59之前节省200 $",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "link": "https://www.qbitai.com/2026/09/496494.html",
+      "summary": "算电协同AI能源运营操作系统核心企业达卯科技，近期据悉已完成约2亿元新一轮融资。去年10月，达卯科技完成由宁德时代旗下溥泉资本领投的近亿元A+轮融资。达卯科技成立于2021年，总部位于上海徐汇模速空间，是国内首家将能源大模型规模化落地算电协同、虚拟电厂与泛能源场景的AI企业，也是算电协同赛道的先行者。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）",
       "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
       "summary": "这家拥有七年历史的初创公司已经筹集了3.5亿美元的E轮融资，以推动其数据即服务的方法。",
@@ -58,70 +85,70 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Nscale的IPO将再次测试华尔街对集中人工智能押注的兴趣",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "summary": "这家英国人工智能数据中心开发商的大部分收入都依赖于科技巨头微软和Anthropic。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "探索下一步：还有5天时间， TechCrunch Disrupt 2026门票最高可节省200 $",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "summary": "还有五天时间，您的TechCrunch Disrupt 2026通行证最高可节省200 $ +第二张通行证五折优惠。10月13日至15日，加入旧金山Moscone West的10,000多名创始人、投资者和运营商。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-      "link": "https://www.qbitai.com/2026/09/494429.html",
-      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 10,
-      "title": "AstroForge正在让人工智能掌控其下一个航天器",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "summary": "Autonomy-1将拥有一个小型的基于变压器的人工智能模型，负责空间探测器。",
+      "title": "Anthropic表示，其生物实验室已经发现了一些重要的东西，",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "但也许最大的启示是， Anthropic并没有让Claude在其生物学实验室中逍遥法外。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-      "link": "https://www.qbitai.com/2026/09/494263.html",
-      "summary": "正是我们之前称之为“今年WAIC最惊艳的图”背后的模型，来自商汤科技的SenseNova U1 Pro（下文简称U1 Pro）。不过有一说一，图生成的好只是一方面；生成后能不能继续改、直到达到可商用，同样也是现在AI生图圈里比较关注的一点。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "麻省理工学院欢迎David Siegel SM ’86 ， PhD’ 91成为下一任创新研究员",
+      "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+      "summary": "计算机科学家、企业家和慈善家David Siegel SM ’86, PhD’ 91将在2026-27学年担任下一位麻省理工学院创新研究员。",
+      "source": "麻省理工学院新闻-人工智能",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-      "link": "https://www.qbitai.com/2026/09/493653.html",
-      "summary": "最新消息，哈工大校友、WebArena作者Shuyan Zhou，宣布自己于今年年初离开学术界，加入了Meta的“AI梦之队”超级智能实验室。还透露，这一研究兴趣源于自己申请博士时的初心——她希望有一天能送给妈妈一台可以由对话驱动，能自动购买机票的设备。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "YouTube将允许您使用人工智能构建自己的算法",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "summary": "YouTube新的自定义Feed让用户可以用自己的语言描述他们想要观看的视频，然后使用Gemini根据请求构建个性化的Feed。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-      "link": "https://www.qbitai.com/2026/09/494179.html",
-      "summary": "如今，MiMo-V2.6的Pro和Flash双双跑完30个训练Step，最终账单定格在350万美元（约合人民币2344万元）。MiMo-V2.6-Pro，1.02万亿参数，420亿激活，在Artificial Analysis Intelligence Index上拿到46分，位列开源第一。",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "link": "https://www.qbitai.com/2026/09/496578.html",
+      "summary": "随之而来的，是AI基础设施面临的全新命题与挑战：当Token调用量迈向千倍级增长，推理系统如何承接持续攀升的需求？如何通过异构算力实现高效、稳定的Token生产？在近日举办的“2026全球AI芯片峰会·Token工厂异构混训混推技术研讨会”上，商汤大装置资深技术专家罗伟以《Token工厂：以异构算力构建新一代Al基础设施》为主题发表演讲，深入剖析规模化推理面临的系统挑战，并分享商汤大装置在异构推理架构、模型适配及关键技术演进等方面的实践与探索。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 14,
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "link": "https://www.qbitai.com/2026/09/496393.html",
+      "summary": "DeepSeek做的这个系统叫DSec（DeepSeek Elastic Compute），干的事情就是给Agent训练批量制造沙盒。它得在沙盒里写代码、跑编译、开浏览器，甚至装操作系统……每执行一步都改变环境状态，随时可能把环境搞崩。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "即使是每天使用人工智能的美国人也对此感到担忧",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "该报告表明，更大的曝光率不会解决围绕该技术的不安，也不会减少公众对人工智能监管的支持。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 16,
+      "title": "“我们已经在打昨天的仗了” ：希腊总理对人工智能直言不讳",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "summary": "大多数贸易代表团的领导人坚持说话，但当我本周采访希腊总理基里亚科斯·米佐塔基斯（ Kyriakos Mitsotakis ）时，他也承认没有政府准备好接受人工智能即将要做的事情。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 17,
       "title": "Meta承认Muse与OpenClaw的肖像并非巧合",
       "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
       "summary": "Meta表示， Muse是从头开始构建的，但承认AI助手“深受OpenClaw的启发” —包括其一些工作区文件名和内容。",
