@@ -1,55 +1,73 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T08:02:58.320998+08:00",
-  "total": 17,
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T08:02:58.417237+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "Muse即将登陆Meta智能眼镜",
-      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "summary": "在推出Muse几周后， Meta宣布它正在“努力”将代理引入其智能眼镜，包括在Meta Connect上推出的新眼镜。",
+      "title": "Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "谷歌的新Gemini 3.8实时更新允许用户在观看动画AI角色实时响应的同时与模型进行对话。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Meta推出无摄像头AI眼镜",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "summary": "Meta表示，无相机眼镜将更轻，电池续航时间长达12小时。",
+      "title": "PrismML将其微小的LLM带入高通驱动的智能眼镜",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism更大的目标是在设备上运行的开放式人工智能，并更好地利用他们已经拥有的计算能力。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Meta让Muse更加强大，也能让您与它进行视频聊天",
-      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "summary": "Meta正在迅速迭代其新的Muse AI代理，今天宣布了一系列更新，使机器人更有能力，并能够以更多方式与您聊天。",
-      "source": "AI | The Verge",
+      "title": "甲骨文就其新墨西哥州Stargate数据中心发出不可抗力通知",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "summary": "该通知将允许甲骨文在该设施未达到2028年上线目标的情况下推迟付款。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Meta Connect 2026 ：重大新闻和公告",
-      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "summary": "现在是该公司年度产品发布会Meta Connect的时候了。",
-      "source": "AI | The Verge",
+      "title": "Meta的Muse Charm看起来像Tamagotchi ，但它正在进入一个更新的趋势",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "summary": "Meta的新AI小工具可能看起来像Tamagotchi ，但其悬挂的外形尺寸利用了更广泛的Z世代趋势，包括手袋吊饰、复古科技以及将小工具变成时尚配饰。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Meta Connect 2026直播博客：在马克·扎克伯格（ Mark Zuckerberg ）的下一个重大产品发布会上",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "summary": "现在是Meta年度9月产品发布会的时候了， The Verge正在门洛帕克进行现场直播。",
-      "source": "AI | The Verge",
+      "title": "Google相册“Clueless”风格的虚拟衣柜现已在Android和iOS上推出",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "summary": "人工智能功能从您的照片中构建了一个虚拟衣柜，在6月首次向Android用户推出后，现在可以广泛使用。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "TechCrunch创始人峰会2026 ：您需要了解的一切",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行一整天的聚会，所有阶段的创始人都将与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建设和......的战术见解",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "ElevenLabs的首席执行官了解利润率、IPO时间，并告诉客户他们正在与机器人交谈",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "summary": "ElevenLabs为大量客户服务电话的另一端的人工智能语音提供支持，其首席执行官本周告诉我，企业可能应该告诉你—至少在获得机器之前......",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "Enveda获得3.11亿美元，用于将更多自然衍生的人工智能药物纳入临床试验",
       "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
       "summary": "这轮融资对AI生物技术的估值为20 $。",
@@ -58,34 +76,43 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "StrictlyVC在TechCrunch Disrupt 2026 ：风险投资不断变化的规则",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "summary": "StrictlyVC加入TechCrunch Disrupt 2026 ，讨论人工智能不断变化的风险投资格局。获取您的投资者通行证，加入这些独家会议。在9月25日晚上11:59之前节省200 $",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
-      "link": "https://www.qbitai.com/2026/09/496494.html",
-      "summary": "算电协同AI能源运营操作系统核心企业达卯科技，近期据悉已完成约2亿元新一轮融资。去年10月，达卯科技完成由宁德时代旗下溥泉资本领投的近亿元A+轮融资。达卯科技成立于2021年，总部位于上海徐汇模速空间，是国内首家将能源大模型规模化落地算电协同、虚拟电厂与泛能源场景的AI企业，也是算电协同赛道的先行者。",
+      "num": 9,
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "link": "https://www.qbitai.com/2026/09/496925.html",
+      "summary": "AI推理的竞争正在悄然发生转向：不再单纯比拼“谁能够买到性能最顶级的硬件”，而是转向“谁可以把手中已有的算力资源用得更值”。很多GPU卡，开源框架能够完成模型加载、权重下载、服务拉起，实现“能跑起来”，但实际压测性能往往远低于官方宣传水平。模型本身没有缺陷，硬件也可正常工作，性能损失的核心，来自模型框架与硬件之间存在的性能鸿沟。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "summary": "这家拥有七年历史的初创公司已经筹集了3.5亿美元的E轮融资，以推动其数据即服务的方法。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "link": "https://www.qbitai.com/2026/09/496767.html",
+      "summary": "一架架飞机在空中有序飞行，按时起降，看似只是飞机自己的事情，实际上，它需要持续与机场、跑道、航线以及地面资源系统协同。这正是“塔台”存在的意义：它负责把分散的飞机和地面、空中的资源协调组织起来，让飞机根据各自的任务有序运行。而当飞机越来越多、航线越来越复杂，这种统一管控和协调也就变得越来越重要。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "使用视觉人工智能研究城市的前景和危险",
+      "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "summary": "几个月前，麻省理工学院可感知城市实验室的研究人员发表了一项关于纽约市污染的研究，其中包括一些新方法。",
+      "source": "麻省理工学院新闻-人工智能",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "link": "https://www.qbitai.com/2026/09/496615.html",
+      "summary": "中科类脑瞄准的，正是这段从资源到智能产出的转化过程，让同样的芯片、同样的电，产出更多、成本更低、质量更稳定的Token。它将自己的体系称为“算电协同型Token工厂”，把异构芯片、模型、用户任务和电力放进同一套系统调度，用更少的资源产出更多有效Token。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
       "title": "Anthropic表示，其生物实验室已经发现了一些重要的东西，",
       "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
       "summary": "但也许最大的启示是， Anthropic并没有让Claude在其生物学实验室中逍遥法外。",
@@ -94,64 +121,19 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "麻省理工学院欢迎David Siegel SM ’86 ， PhD’ 91成为下一任创新研究员",
-      "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-      "summary": "计算机科学家、企业家和慈善家David Siegel SM ’86, PhD’ 91将在2026-27学年担任下一位麻省理工学院创新研究员。",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "YouTube将允许您使用人工智能构建自己的算法",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "summary": "YouTube新的自定义Feed让用户可以用自己的语言描述他们想要观看的视频，然后使用Gemini根据请求构建个性化的Feed。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-      "link": "https://www.qbitai.com/2026/09/496578.html",
-      "summary": "随之而来的，是AI基础设施面临的全新命题与挑战：当Token调用量迈向千倍级增长，推理系统如何承接持续攀升的需求？如何通过异构算力实现高效、稳定的Token生产？在近日举办的“2026全球AI芯片峰会·Token工厂异构混训混推技术研讨会”上，商汤大装置资深技术专家罗伟以《Token工厂：以异构算力构建新一代Al基础设施》为主题发表演讲，深入剖析规模化推理面临的系统挑战，并分享商汤大装置在异构推理架构、模型适配及关键技术演进等方面的实践与探索。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 14,
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "link": "https://www.qbitai.com/2026/09/496393.html",
-      "summary": "DeepSeek做的这个系统叫DSec（DeepSeek Elastic Compute），干的事情就是给Agent训练批量制造沙盒。它得在沙盒里写代码、跑编译、开浏览器，甚至装操作系统……每执行一步都改变环境状态，随时可能把环境搞崩。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "title": "Muse看起来很像OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "summary": "我们似乎正在进入人工智能特工的复兴。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
     },
     {
       "num": 15,
-      "title": "即使是每天使用人工智能的美国人也对此感到担忧",
-      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "summary": "该报告表明，更大的曝光率不会解决围绕该技术的不安，也不会减少公众对人工智能监管的支持。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 16,
-      "title": "“我们已经在打昨天的仗了” ：希腊总理对人工智能直言不讳",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "summary": "大多数贸易代表团的领导人坚持说话，但当我本周采访希腊总理基里亚科斯·米佐塔基斯（ Kyriakos Mitsotakis ）时，他也承认没有政府准备好接受人工智能即将要做的事情。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 17,
-      "title": "Meta承认Muse与OpenClaw的肖像并非巧合",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "summary": "Meta表示， Muse是从头开始构建的，但承认AI助手“深受OpenClaw的启发” —包括其一些工作区文件名和内容。",
+      "title": "澳大利亚将调查OpenAI入侵政府健康网站是否违法",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "summary": "该事件是第一起已知影响政府机构的违规行为，澳大利亚总理发誓要追究OpenAI的责任。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
