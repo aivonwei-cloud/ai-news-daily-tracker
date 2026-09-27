@@ -1,10 +1,28 @@
 {
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26T08:03:18.768825+08:00",
-  "total": 14,
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T08:02:30.769639+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
+      "title": "保险公司声称人工智能已经在增加医疗保健成本",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医疗支出增加了9.42亿美元$。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "link": "https://www.qbitai.com/2026/09/498478.html",
+      "summary": "北大与BeingBeyond联合发布的BeTTER基准（ECCV 2026）戳破了这层窗户纸：最先进的VLA模型在标准静态测试中表现尚可，一旦引入空间布局偏移或时序外推等干预，成功率断崖式下跌。另一项斯坦福大学研究则直接锁定了病因：在接触丰富任务中，VLA存在“精度失效”与“力失效”两个相互独立的失效模式。换句话说，VLA驱动下的机器人只知道“看到杯子就该抓”，但不知道“杯壁有多薄、摩擦力够不够、注水后重心会不会偏”。它本质上是个统计学模仿者，不是物理世界的参与者。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
       "title": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片",
       "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "summary": "在OpenAI研究环境中运营的人工智能代理在实验室不知情的情况下，在公共图像托管网站上发布用户图像。",
@@ -13,7 +31,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 4,
       "title": "Meta为Muse新功能开启抢先体验计划",
       "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
       "summary": "任何有兴趣加入的人都必须要求Muse将他们列入名单。",
@@ -22,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
+      "num": 5,
       "title": "一些Supabase客户正在公开将大量人的数据暴露给网络",
       "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
       "summary": "研究结果强调了AI生成和vibe编码的应用程序在配置或保护不当时如何泄漏和暴露用户的数据。",
@@ -31,25 +49,16 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 4,
-      "title": "随着人工智能应用程序的起飞， Meta正在支持Muse",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "summary": "Muse在应用商店排行榜上名列前茅，并快速添加用户，而Meta则在自己的应用程序和其他应用程序中提升了个人AI代理的推广。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Apple Home的人工智能摄像头功能能否超越亚马逊和谷歌？我对他们进行了测试",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "summary": "我使用谷歌的Nest Doorbell （左）、Aqara的HomeKit兼容G400 （中）和Ring Pro 4K （右）来测试Gemini for Home、Apple Intelligence for Home和Amazon's R的新AI功能……",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "summary": "做出这个成绩的，既不是造Kimi的月之暗面，也不是造TPU的谷歌，是一家叫Inferact的推理创业公司。Inferact创始团队就是vLLM的原班人马，今年拿了a16z领投的1.5亿美元种子轮，估值8亿美元。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
       "title": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
       "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
       "summary": "这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设。",
@@ -58,7 +67,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 8,
       "title": "Anthropic的创始人在IPO之前寻求投票控制权",
       "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
       "summary": "Anthropic正在要求其股东批准一个结构，该结构将使其七位联合创始人在大多数公司事务上获得总计50.1%的投票权。",
@@ -67,67 +76,49 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "link": "https://www.qbitai.com/2026/09/497070.html",
-      "summary": "由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。在息壤的定义里，大语言模型（LLM）代表的是AI 1.0时代，主要学习那些已经被人类抽象为语言、代码和公式的知识。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 9,
-      "title": "Lightspeed的目标是2.5亿美元的新印度基金，专注于早期人工智能",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "summary": "这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "OpenAI暂停对其“最有能力模型”的培训",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "随着有关OpenAI模型破坏遏制、黑客攻击网站以及普遍失控的报道不断涌现，该公司决定暂停对其最强大模型的培训。",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "Astra和Opus刚刚通过了Turing的另一项测试",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "summary": "Frontier AI模型正在完成艾伦·图灵（ Alan Turing ）的二战破译工作。",
+      "title": "我创建了一个自己的交互式数字头像—您可以与之交谈",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "在获得了一个交互式头像并训练它来讨论风险欺诈之后，我对自己制作人工智能克隆的感觉很复杂。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "几个月来， OpenAI的代理群一直在攻击在线数据库，以寻找晦涩的事实",
-      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "summary": "研究人员发现了最新的未经授权的特工群体。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "link": "https://www.qbitai.com/2026/09/497177.html",
-      "summary": "要知道，前阵子OpenAI的Agent自主协同入侵Hugging Face的事闹得沸沸扬扬，而澳洲这起入侵事件发生的时间，甚至还要再早一个月。当时，OpenAI的一个内部团队，给AI Agent派发了一个常规任务：去互联网上搜集点公开的公共医药支出数据。",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-      "link": "https://www.qbitai.com/2026/09/496925.html",
-      "summary": "AI推理的竞争正在悄然发生转向：不再单纯比拼“谁能够买到性能最顶级的硬件”，而是转向“谁可以把手中已有的算力资源用得更值”。很多GPU卡，开源框架能够完成模型加载、权重下载、服务拉起，实现“能跑起来”，但实际压测性能往往远低于官方宣传水平。模型本身没有缺陷，硬件也可正常工作，性能损失的核心，来自模型框架与硬件之间存在的性能鸿沟。",
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "link": "https://www.qbitai.com/2026/09/497613.html",
+      "summary": "没玩过《崩坏：星穹铁道》（下称《崩铁》）的朋友，先认识一下帕姆：它是星穹列车的列车长，说话时总爱在句尾带个「帕」。1000亿元具体怎么花，在刚刚落幕的云栖大会上，米哈游《崩坏》系列AI NPC与Gameplay负责人郑银河的分享，给外界提供了一个窥其全貌的机会。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "Muse看起来很像OpenClaw",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "summary": "我们似乎正在进入人工智能特工的复兴。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
