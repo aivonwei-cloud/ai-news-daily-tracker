@@ -1,10 +1,46 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T08:02:30.769639+08:00",
-  "total": 13,
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T08:01:41.304352+08:00",
+  "total": 9,
   "articles": [
     {
       "num": 1,
+      "title": "Engram是一个将破碎的人工智能幻觉转化为音乐的采样器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "音乐创业公司Thoughtful Things刚刚推出了其首款乐器Engram的Kickstarter活动。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "link": "https://www.qbitai.com/2026/09/498605.html",
+      "summary": "想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "link": "https://www.qbitai.com/2026/09/498546.html",
+      "summary": "事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下的Flipkart购物",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "有限的测试涵盖部分产品和用户，并计划于10月下旬进行更广泛的推广。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "保险公司声称人工智能已经在增加医疗保健成本",
       "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
       "summary": "Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医疗支出增加了9.42亿美元$。",
@@ -13,70 +49,25 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "link": "https://www.qbitai.com/2026/09/498478.html",
-      "summary": "北大与BeingBeyond联合发布的BeTTER基准（ECCV 2026）戳破了这层窗户纸：最先进的VLA模型在标准静态测试中表现尚可，一旦引入空间布局偏移或时序外推等干预，成功率断崖式下跌。另一项斯坦福大学研究则直接锁定了病因：在接触丰富任务中，VLA存在“精度失效”与“力失效”两个相互独立的失效模式。换句话说，VLA驱动下的机器人只知道“看到杯子就该抓”，但不知道“杯壁有多薄、摩擦力够不够、注水后重心会不会偏”。它本质上是个统计学模仿者，不是物理世界的参与者。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "summary": "在OpenAI研究环境中运营的人工智能代理在实验室不知情的情况下，在公共图像托管网站上发布用户图像。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "Meta为Muse新功能开启抢先体验计划",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "summary": "任何有兴趣加入的人都必须要求Muse将他们列入名单。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "一些Supabase客户正在公开将大量人的数据暴露给网络",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "summary": "研究结果强调了AI生成和vibe编码的应用程序在配置或保护不当时如何泄漏和暴露用户的数据。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "link": "https://www.qbitai.com/2026/09/497425.html",
-      "summary": "做出这个成绩的，既不是造Kimi的月之暗面，也不是造TPU的谷歌，是一家叫Inferact的推理创业公司。Inferact创始团队就是vLLM的原班人马，今年拿了a16z领投的1.5亿美元种子轮，估值8亿美元。",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "link": "https://www.qbitai.com/2026/09/498633.html",
+      "summary": "公司名叫费米宇宙，是国内首家专注Q4AI（Quantum for AI）的创业公司，主要在做的事情，是尝试用量子物理、量子计算的方法，重新改造AI模型。量子位了解到，这是一家“清华味儿”比较浓的创业公司，包括创始人在内的近一半员工，都拥有清华背景，主要来自基科班、计算机系人工智能实验室和高性能实验室。",
       "source": "量子位",
       "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "summary": "这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "link": "https://www.qbitai.com/2026/09/498584.html",
+      "summary": "一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek Harness（为公平起见我用了之前我没用过的DSH，惭愧）里面，给Space Bunny随便取了个名字叫“tuerye”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "Anthropic的创始人在IPO之前寻求投票控制权",
-      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "summary": "Anthropic正在要求其股东批准一个结构，该结构将使其七位联合创始人在大多数公司事务上获得总计50.1%的投票权。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
       "title": "OpenAI暂停对其“最有能力模型”的培训",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "summary": "随着有关OpenAI模型破坏遏制、黑客攻击网站以及普遍失控的报道不断涌现，该公司决定暂停对其最强大模型的培训。",
@@ -85,39 +76,12 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 9,
       "title": "我创建了一个自己的交互式数字头像—您可以与之交谈",
       "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "summary": "在获得了一个交互式头像并训练它来讨论风险欺诈之后，我对自己制作人工智能克隆的感觉很复杂。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "link": "https://www.qbitai.com/2026/09/498271.html",
-      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "link": "https://www.qbitai.com/2026/09/497624.html",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "link": "https://www.qbitai.com/2026/09/497613.html",
-      "summary": "没玩过《崩坏：星穹铁道》（下称《崩铁》）的朋友，先认识一下帕姆：它是星穹列车的列车长，说话时总爱在句尾带个「帕」。1000亿元具体怎么花，在刚刚落幕的云栖大会上，米哈游《崩坏》系列AI NPC与Gameplay负责人郑银河的分享，给外界提供了一个窥其全貌的机会。",
-      "source": "量子位",
-      "lang": "zh",
       "category": "🔬 技术突破/模型"
     }
   ]
