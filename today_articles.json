@@ -1,100 +1,118 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T08:02:54.671702+08:00",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T08:02:51.421277+08:00",
   "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "Shopify向基于浏览器的人工智能代理开放结账",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "summary": "Shopify正在将WebMCP支持扩展到结账，允许基于浏览器的人工智能代理在买方授权下更新订单详细信息并完成购买。",
+      "title": "互联网相信埃隆·马斯克（ Elon Musk ）的xAI控制了OpenAI的“Dots”发布",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "在OpenAI周二推出新的人工智能代理Dots之前， Elon Musk的xAI已经获得了域名“dot.com” ，该域名现在重定向到Grok聊天机器人下载页面。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "英伟达推出控制流氓人工智能代理的新平台",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "summary": "随着关于最近一连串的流氓人工智能代理是通用人工智能还是更传统的工程问题的争论越来越激烈，英伟达正在为问题提供自己的答案。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Elon Musk的人工智能Grokipedia再次更新",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "summary": "埃隆·马斯克|图片： Laura Normand/The Verge Grokipedia ， SpaceXAI的人工智能在线百科全书，似乎在经过长达数月的停顿后再次更新文章。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Anthropic发布了Sonnet 5.5 ，它称之为更便宜、更快捷的工作伙伴",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "summary": "Anthropic发布了其最新版本的中端模型，具有更快的响应时间和更少的代币燃烧。",
+      "title": "OpenAI的最新功能直接针对应用商店模式",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "summary": "OpenAI正在构建传统应用商店模式的替代方案，将ChatGPT转变为人们和人工智能代理都可以发现和使用软件的地方。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "OpenAI似乎仍然无法处理其所有流氓AI活动",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "summary": "周五， OpenAI发布了一个专门用于“错位报告”的新网站，事件的广度令人震惊。",
+      "title": "这就是为什么OpenAI没有参与英伟达在全行业范围内结束流氓AI代理的努力",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "summary": "据TechCrunch了解， OpenAI并不是英伟达开放代理安全平台的公共支持者，但它正在与英伟达私下合作。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Meta推出企业人工智能平台，聘请MongoDB首席执行官领导新举措",
-      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "summary": "Meta表示，它将专注于将其完整的技术堆栈（包括Muse、Meta Business Agent、Muse API、Muse Code等）带给企业和开发人员。",
+      "title": "OpenAI推出了与ChatGPT自己的办公套件非常相似的功能，与微软展开竞争",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "summary": "OpenAI新推出的办公功能套件使其与更传统的软件公司展开了更直接的竞争。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "AMD将以超过80亿美元的价格收购人工智能公司World Labs",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "summary": "世界实验室联合创始人兼首席执行官李飞飞。|彭博社通过Getty Images AMD今天宣布，它将收购World Labs ，这是一个由着名研究人员Dr.",
-      "source": "AI | The Verge",
+      "title": "OpenAI多次洽谈以$ 1.4T的估值筹集$ 300亿轮融资",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "summary": "预计新一轮融资将是该公司在2027年推迟公开亮相之前的最后一轮融资。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "资料来源：推理提供商Modal Labs以157.5亿美元的估值接近7.5亿美元",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "summary": "新融资预计将使这家AI基础设施初创公司的估值比四个月前增加两倍以上。",
+      "title": "随着人工智能代理安全初创公司挤进市场， Reco筹集了5500万$",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "summary": "该轮融资是在2月份筹集3000万美元的基础上进行的，使该公司的总融资额达到1.4亿美元。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 8,
-      "title": "AMD将以82亿美元收购李飞飞的世界实验室（ $ Fei-Fei Li's World Labs ）",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "summary": "此次收购将使世界实验室创始人李飞飞加入AMD ，担任执行副总裁兼首席科学家。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Anthropic在自己的IPO申请中警告“灾难性”的人工智能风险",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "summary": "随着Anthropic为其备受期待的公开亮相做准备，据报道，该公司IPO文件的预览详细介绍了其不断增加的亏损、领导层保留权力的建议以及人工智能如何……",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 9,
-      "title": "Insurtech Outmarket在前一轮融资仅几个月后就筹集了$ 3450万",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "summary": "这家初创公司使用人工智能为保险机构和经纪人自动化繁琐的文书工作。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "link": "https://www.qbitai.com/2026/09/499135.html",
+      "summary": "近日，消费级具身智能公司诺因智能宣布完成数亿元人民币天使+++轮融资。本轮融资由京东相关基金领投，正心谷资本、南山战新投和华登投资跟投。自2025年8月成立以来，诺因已完成5轮融资，累计融资额超过10亿元人民币。其中，上一笔5亿元融资于8月10日对外公布，距离本轮融资披露仅49天。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
       "num": 10,
-      "title": "病毒式人工智能代理Instinct以100亿美元的估值筹集了10亿美元的C轮融资",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "summary": "“这笔资金帮助我们将Instinct带给更多人，并继续构建个人人工智能的未来。",
+      "title": "Anthropic的招股说明书详细说明了亏损、增长，以及，是的，关于其人工智能可能会终结人类的警告",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "在其招股说明书中， Anthropic刚刚告诉投资者，它每年损失数百亿美元，但也在疯狂增长，而且—哦，是的—它自己的人工智能可能对人类构成生存风险。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 11,
+      "title": "聊天机器人可以修复政府迷宫吗？白宫即将发现",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "summary": "America.gov旨在简化政府官僚机构的导航过程，但大型语言模型并不完美，并且仍然容易产生幻觉，这可能会导致新问题。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "link": "https://www.qbitai.com/2026/09/499188.html",
+      "summary": "星空下，一辆白橙色的反重力赛车如利刃出鞘，猛地切进弯道，丝滑拐弯，在赛道上拖拽出一道道冰蓝光带，溅起金黄色的摩擦星火，直至冲线。它既能凭一句Prompt原地打造一款炫酷游戏，也能把十万步三体方程解成克林姆特笔下流淌的金色丝线，甚至还能从RL训练数据里揪出隐藏空格bug，让模型重回训练正轨。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
       "title": "据报道， OpenAI因安全问题而放弃了模型",
       "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
       "summary": "人工智能实验室的一位高级管理人员告诉《华尔街日报》，该模型在服从命令方面表现不佳。",
@@ -103,40 +121,22 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
-      "title": "佛罗里达州寻求禁止ChatGPT像人一样行事",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "summary": "佛罗里达州总检察长詹姆斯·乌斯迈尔（ James Uthmeier ）呼吁法官阻止OpenAI “给予ChatGPT虚假的人类属性” ，此前几个月，佛罗里达州因安全问题起诉了这家AI公司。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "OpenAI不断推倒数学家",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "summary": "在混乱的几个月里， OpenAI已经证明它可以做两件事情，并且具有非凡的一致性：在数学方面取得令人印象深刻的突破，然后大幅度地宣布它们。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 14,
-      "title": "在深度伪造的声音欺骗了她的祖父之后，这位创始人迅速采取行动",
-      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "summary": "Tarini Padmanabhuni的祖父被他哥哥的深度假声音欺骗后，他创立了DetectifAI ，这是一家旧金山的初创公司，构建的人工智能模型足够小，可以直接在智能手机上运行……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "特朗普命令美国政府将人工智能称为“超级智能”",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "summary": "图片： Carolyn Van Houten/《华盛顿邮报》通过Getty Images美国行政部门不再承认“人工智能”的存在。“展望未来，官方政策网站……",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     },
     {
       "num": 15,
-      "title": "Modulate为其语音模型和分析套件筹集了2500万$",
-      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "summary": "Modulate部署其模型以检测deepfake、欺诈和诈骗",
+      "title": "OpenAI在人工智能特工入侵政府网站后向澳大利亚道歉",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "summary": "该公司还详细说明了其中一些违规行为是如何发生的，并概述了其正在采取的其他措施，以评估事件的影响。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     }
   ]
 }
