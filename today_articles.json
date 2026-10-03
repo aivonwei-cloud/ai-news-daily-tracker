@@ -1,10 +1,37 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T08:02:50.735641+08:00",
-  "total": 10,
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T08:03:16.817917+08:00",
+  "total": 9,
   "articles": [
     {
       "num": 1,
+      "title": "用于制作Muse AI小工具的元开源代码",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta现在允许您制作自己的Muse小工具，该小工具具有公司开源的新AI代理代码。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "应对社会最复杂挑战的计算工具",
+      "link": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+      "summary": "早在她记得的时候， Cathy Wu ’12 ， MNG’ 13就想找到解决问题的方法来改善人们的生活。",
+      "source": "麻省理工学院新闻-人工智能",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "人工智能音乐制造商Suno现在生成口语",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "summary": "Suno正在从人工智能音乐的世界中脱颖而出，推出一项新功能，根据脚本或提示的描述生成语音。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "新工具允许用户修复AI生成的3D模型，然后按照他们想要的方式制作它们",
       "link": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
       "summary": "“你看到的就是你得到的”是许多软件工程师的指导原则--创建程序，使你正在编辑的内容看起来与最终产品相同。",
@@ -13,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 5,
       "title": "谷歌的新引导视觉功能可以帮助您阅读",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
       "summary": "Guided Vision今天在兼容的Android设备上推出Gemini Live ，使用人工智能为您对准手机摄像头的任何内容提供实时音频描述。",
@@ -22,76 +49,40 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "ChatGPT现在可以虚拟地为您试穿衣服",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "summary": "OpenAI正在为ChatGPT推出新的购物功能，允许用户使用自己的照片虚拟试穿服装和配饰，并将他们喜欢的产品保存到收藏夹库。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "谷歌认为SpaceX的星际飞船必须发射1800次才能让太空数据中心起飞",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "summary": "谷歌推出了首个进入轨道的先进芯片，为太空数据中心铺平了道路。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "随着决策模型在网络上泛滥，亚马逊发布了自己的JEV克隆",
-      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "summary": "Amazon Web Services的Strand Labs发布了最新的Jevalike决策模型Strands Decider 2B。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
-      "title": "Valor、Atreides和Sequoia以7.5亿美元的估值支持人工智能初创公司Flow Engineering",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "summary": "Flow Engineering将人工智能代理引入硬件设计，也让Roelof Botha成为天使投资人和董事会成员。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "link": "https://www.qbitai.com/2026/10/500098.html",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 7,
-      "title": "人工智能语音初创公司ElevenLabs的估值翻番至220亿美元（ $ 220亿）",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "summary": "3亿美元的员工招标由惠灵顿和T共同牵头。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "link": "https://www.qbitai.com/2026/10/499991.html",
+      "summary": "丘成桐参与的最新论文，在致谢里感谢了GPT 6 Astra和Claude Pro，说它们帮忙探索了部分证明思路和计算。问题关注的是七维空间，当中的球面有28种不同的「版本」，其中27种和我们熟悉的球面微妙地不同，数学上叫「怪球」。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "link": "https://www.qbitai.com/2026/10/499958.html",
+      "summary": "40363篇投稿背后，还顺手给arXiv工作人员和审核员制造了将近9000张support ticket。按照现有规则，只要作者进行披露，并且研究本身符合arXiv对学术价值和领域推进的要求，用AI辅助研究没有问题。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
       "title": "据《华尔街日报》报道， OpenAI与3名安全研究人员断绝了联系",
       "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "summary": "报告称， OpenAI已与三名安全研究人员分道扬镳，此前内部调查发现他们对敏感的公司信息处理不当。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "link": "https://www.qbitai.com/2026/09/499654.html",
-      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "麻省理工学院交通实验室为公共交通机构开发人工智能平台",
-      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-      "summary": "Google.org于9月15日宣布，麻省理工学院交通实验室获得了210万美元的资金，这是全球Google.org Impact Challenge ： AI for Government Innovation中仅有的15个项目之一。",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
