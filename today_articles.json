@@ -1,10 +1,37 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T08:03:16.817917+08:00",
-  "total": 9,
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T08:02:50.110489+08:00",
+  "total": 7,
   "articles": [
     {
       "num": 1,
+      "title": "OpenAI安全员工已辞职并正在敲响警钟",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "大卫·罗宾逊（ David Robinson ）过去常常撰写OpenAI每次主要模型发布时的安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "link": "https://www.qbitai.com/2026/10/501368.html",
+      "summary": "David Robinson，OpenAI Safety Systems团队内的“安全透明度”职能负责人。几乎每次OpenAI发布重要模型时，Robinson和他领导的团队都会为模型撰写一份“system card”。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "Meta希望您的下一个小工具融入Muse",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "summary": "Meta希望将Muse放入您的电视和烤面包机中，因此它会免费提供代码。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "用于制作Muse AI小工具的元开源代码",
       "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "summary": "Meta现在允许您制作自己的Muse小工具，该小工具具有公司开源的新AI代理代码。",
@@ -13,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 5,
       "title": "应对社会最复杂挑战的计算工具",
       "link": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
       "summary": "早在她记得的时候， Cathy Wu ’12 ， MNG’ 13就想找到解决问题的方法来改善人们的生活。",
@@ -22,66 +49,21 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "人工智能音乐制造商Suno现在生成口语",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "summary": "Suno正在从人工智能音乐的世界中脱颖而出，推出一项新功能，根据脚本或提示的描述生成语音。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "新工具允许用户修复AI生成的3D模型，然后按照他们想要的方式制作它们",
-      "link": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-      "summary": "“你看到的就是你得到的”是许多软件工程师的指导原则--创建程序，使你正在编辑的内容看起来与最终产品相同。",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "谷歌的新引导视觉功能可以帮助您阅读",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "summary": "Guided Vision今天在兼容的Android设备上推出Gemini Live ，使用人工智能为您对准手机摄像头的任何内容提供实时音频描述。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "link": "https://www.qbitai.com/2026/10/500098.html",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "link": "https://www.qbitai.com/2026/10/500148.html",
+      "summary": "他来了他来了，TypeSafe AI的联合创始人兼CEO Diogo Almeida，顶着一头新染的红发闪亮登场了！（doge 有人用它来筛选海量论文；有人用它来提前拿捏客户的需求；",
       "source": "量子位",
       "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "link": "https://www.qbitai.com/2026/10/499991.html",
-      "summary": "丘成桐参与的最新论文，在致谢里感谢了GPT 6 Astra和Claude Pro，说它们帮忙探索了部分证明思路和计算。问题关注的是七维空间，当中的球面有28种不同的「版本」，其中27种和我们熟悉的球面微妙地不同，数学上叫「怪球」。",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "link": "https://www.qbitai.com/2026/10/501381.html",
+      "summary": "现在DeepSeek的一套DSec扩展分片，大约有160台服务器、3万个CPU核心和250TB内存，每天要服务约300万个沙盒。从DeepSeek-V3.2一路到V4.1，Agent训练、评测和数据预处理产生的全部沙盒负载，都已经运行在DSec上。",
       "source": "量子位",
       "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 8,
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "link": "https://www.qbitai.com/2026/10/499958.html",
-      "summary": "40363篇投稿背后，还顺手给arXiv工作人员和审核员制造了将近9000张support ticket。按照现有规则，只要作者进行披露，并且研究本身符合arXiv对学术价值和领域推进的要求，用AI辅助研究没有问题。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "据《华尔街日报》报道， OpenAI与3名安全研究人员断绝了联系",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "summary": "报告称， OpenAI已与三名安全研究人员分道扬镳，此前内部调查发现他们对敏感的公司信息处理不当。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
       "category": "🔬 技术突破/模型"
     }
   ]
