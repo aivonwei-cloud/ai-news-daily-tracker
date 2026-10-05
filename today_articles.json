@@ -1,10 +1,19 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T08:02:50.110489+08:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T08:01:27.267619+08:00",
   "total": 7,
   "articles": [
     {
       "num": 1,
+      "title": "特朗普推出他的新超级情报部队",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "这个新的工作组是特朗普对人工智能安全辩论的最新回应。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
       "title": "OpenAI安全员工已辞职并正在敲响警钟",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "summary": "大卫·罗宾逊（ David Robinson ）过去常常撰写OpenAI每次主要模型发布时的安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。",
@@ -13,58 +22,49 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "link": "https://www.qbitai.com/2026/10/501368.html",
-      "summary": "David Robinson，OpenAI Safety Systems团队内的“安全透明度”职能负责人。几乎每次OpenAI发布重要模型时，Robinson和他领导的团队都会为模型撰写一份“system card”。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 3,
-      "title": "Meta希望您的下一个小工具融入Muse",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "summary": "Meta希望将Muse放入您的电视和烤面包机中，因此它会免费提供代码。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "用于制作Muse AI小工具的元开源代码",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta现在允许您制作自己的Muse小工具，该小工具具有公司开源的新AI代理代码。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "应对社会最复杂挑战的计算工具",
-      "link": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-      "summary": "早在她记得的时候， Cathy Wu ’12 ， MNG’ 13就想找到解决问题的方法来改善人们的生活。",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "link": "https://www.qbitai.com/2026/10/500148.html",
-      "summary": "他来了他来了，TypeSafe AI的联合创始人兼CEO Diogo Almeida，顶着一头新染的红发闪亮登场了！（doge 有人用它来筛选海量论文；有人用它来提前拿捏客户的需求；",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "link": "https://www.qbitai.com/2026/10/501506.html",
+      "summary": "据招聘数据网站FDE Pulse统计，海外公开薪资的FDE岗位，基本年薪中位数约20万美元，折合人民币约134万元。海外，Anthropic宣布投资1亿美元，在2027年底前培训1万名FDE工程师，OpenAI也带着40亿美元投资成立了专做部署的公司；AWS则拿出10亿美元组建FDE部门，把数千名工程师派到客户身边。",
       "source": "量子位",
       "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "link": "https://www.qbitai.com/2026/10/501381.html",
-      "summary": "现在DeepSeek的一套DSec扩展分片，大约有160台服务器、3万个CPU核心和250TB内存，每天要服务约300万个沙盒。从DeepSeek-V3.2一路到V4.1，Agent训练、评测和数据预处理产生的全部沙盒负载，都已经运行在DSec上。",
+      "num": 4,
+      "title": "由于人工智能提交量“大幅增加” ，谷歌冻结了其开源漏洞奖励计划",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI SLOP似乎是压倒性的漏洞赏金计划。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 5,
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "link": "https://www.qbitai.com/2026/10/501451.html",
+      "summary": "它能用Blender盖出这样一栋房子，再直接导进Unreal Engine 5，变成能走进去逛的漫游场景： But，我们把同一张参考图，分别交给Astra和专门做AI 3D生成的Meshy，结果却变成了这样……",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 6,
+      "title": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "关于Equity ，我们讨论了特朗普政府重塑AI品牌的尝试。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 7,
+      "title": "新泽西州前中尉政府正在使用人工智能说他是无辜的性骚扰",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "summary": "好吧，如果是AI说的，那一定是真的。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
