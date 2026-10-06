@@ -1,68 +1,113 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T08:01:27.267619+08:00",
-  "total": 7,
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T08:02:23.042433+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
-      "title": "特朗普推出他的新超级情报部队",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "summary": "这个新的工作组是特朗普对人工智能安全辩论的最新回应。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "这家初创公司正在发布人工智能生成的痤疮处方",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "summary": "犹他州的人们现在可以使用人工智能来获得治疗痤疮的处方。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "OpenAI安全员工已辞职并正在敲响警钟",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "大卫·罗宾逊（ David Robinson ）过去常常撰写OpenAI每次主要模型发布时的安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。",
-      "source": "AI | The Verge",
+      "title": "Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "summary": "Reflection将Beam和未来模型瞄准企业和主权国家。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "link": "https://www.qbitai.com/2026/10/501506.html",
-      "summary": "据招聘数据网站FDE Pulse统计，海外公开薪资的FDE岗位，基本年薪中位数约20万美元，折合人民币约134万元。海外，Anthropic宣布投资1亿美元，在2027年底前培训1万名FDE工程师，OpenAI也带着40亿美元投资成立了专做部署的公司；AWS则拿出10亿美元组建FDE部门，把数千名工程师派到客户身边。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "title": "Instinct将其AI代理带到群聊中，即使对于没有帐户的朋友也是如此",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "summary": "Instinct正在推出群聊，让好友一起使用其AI代理来规划行程、组织拼车和协调活动等任务。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "由于人工智能提交量“大幅增加” ，谷歌冻结了其开源漏洞奖励计划",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "summary": "AI SLOP似乎是压倒性的漏洞赏金计划。",
+      "title": "TikTok推出人工智能购物助手和一键结账",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "summary": "TikTok将其新的购物助手描述为会话式人工智能代理，旨在帮助用户发现和购买产品。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "OpenAI正在ChatGPT和Codex中添加文本水印",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "summary": "文本输出中不可见的机器可读水印正在向ChatGPT和Codex推出，但最初仅适用于欧盟用户。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "OpenAI将开始在欧盟为ChatGPT的文本添加水印",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "summary": "OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 5,
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "link": "https://www.qbitai.com/2026/10/501451.html",
-      "summary": "它能用Blender盖出这样一栋房子，再直接导进Unreal Engine 5，变成能走进去逛的漫游场景： But，我们把同一张参考图，分别交给Astra和专门做AI 3D生成的Meshy，结果却变成了这样……",
-      "source": "量子位",
-      "lang": "zh",
+      "num": 7,
+      "title": "围绕人工智能接管数学的所有戏剧",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "在过去的一年中， OpenAI、Anthropic和其他实验室宣布在许多长期存在的数学问题上取得突破，在某些情况下，这些突破远远超出了研究人员对当前系统的预期……",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 6,
-      "title": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "summary": "关于Equity ，我们讨论了特朗普政府重塑AI品牌的尝试。",
+      "num": 8,
+      "title": "OpenAI PR告诉记者“继续前进” ，同时向Sam Altman询问ChatGPT用户的自杀情况",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "summary": "一位OpenAI公关人员在编辑提到ChatGPT用户的自杀后，试图改变首席执行官Sam Altman采访《名利场》的Mark Guiducci的话题。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "HackerRank的人工智能面试官一窥求职面试可能成为什么",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "summary": "HackerRank的人工智能面试官已经进行了50多万次面试，其中Snowflake、Snorkel和Capgemini是其早期测试人员。",
       "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "研究人员正在跟踪中国人工智能“特工队”",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "summary": "独立研究人员发现了一个代理群体，似乎正在腾讯的基础设施上运行，并以阿里巴巴的地图服务Amap为目标。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "参议员亚当·希夫：人工智能监管、言论自由和再次弹劾特朗普",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "summary": "今天，我正在与来自加利福尼亚州的民主党参议员亚当·希夫（ Adam Schiff ）交谈。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     },
     {
-      "num": 7,
-      "title": "新泽西州前中尉政府正在使用人工智能说他是无辜的性骚扰",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "summary": "好吧，如果是AI说的，那一定是真的。",
-      "source": "AI | The Verge",
+      "num": 12,
+      "title": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "关于Equity ，我们讨论了特朗普政府重塑AI品牌的尝试。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
     }
