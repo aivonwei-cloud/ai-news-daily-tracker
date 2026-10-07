@@ -1,115 +1,106 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T08:02:23.042433+08:00",
-  "total": 12,
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:03:03.298459+08:00",
+  "total": 11,
   "articles": [
     {
       "num": 1,
-      "title": "这家初创公司正在发布人工智能生成的痤疮处方",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "summary": "犹他州的人们现在可以使用人工智能来获得治疗痤疮的处方。",
+      "title": "OpenAI又推出了一批数学突破",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI在一批722份手稿中揭示了一些由未发布的前沿模型产生的长期数学问题的解决方案，涵盖了372个与……相关的结果家族。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "summary": "Reflection将Beam和未来模型瞄准企业和主权国家。",
+      "title": "前Ramp工程师在报废第一款产品后为平台Melius筹集了2000万美元$",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "summary": "该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和广告系列的工具。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Instinct将其AI代理带到群聊中，即使对于没有帐户的朋友也是如此",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "summary": "Instinct正在推出群聊，让好友一起使用其AI代理来规划行程、组织拼车和协调活动等任务。",
+      "title": "人工智能决策模型如何改变内容审核",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "周二， Musubi宣布了一种针对实时审核的轻量级决策模型，称为PolicyLM-1.7B ，该模型以开放式权重发布。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "TikTok推出人工智能购物助手和一键结账",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "summary": "TikTok将其新的购物助手描述为会话式人工智能代理，旨在帮助用户发现和购买产品。",
+      "title": "Hark发布专注于隐私的人工智能个人助理",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "summary": "人工智能实验室的个人助理是未来的操作系统，旨在与Muse、Dots和Instinct竞争。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "OpenAI正在ChatGPT和Codex中添加文本水印",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "summary": "文本输出中不可见的机器可读水印正在向ChatGPT和Codex推出，但最初仅适用于欧盟用户。",
-      "source": "AI | The Verge",
+      "title": "Mirror Particle正在构建人类行为的“世界模型”",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "Mirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上推出，其世界模型将从头开始构建以预测人类行为，并认为LLM角色扮演不足以进行市场研究……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "OpenAI将开始在欧盟为ChatGPT的文本添加水印",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "summary": "OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》。",
+      "title": "人工智能计算初创公司Lambda在计划的IPO之前筹集$ 4B",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "英伟达支持的Lambda在由Coatue和Blackstone牵头的计划2027年首次公开募股之前，以145亿美元的投资前估值筹集了高达40亿美元的资金。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "围绕人工智能接管数学的所有戏剧",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "在过去的一年中， OpenAI、Anthropic和其他实验室宣布在许多长期存在的数学问题上取得突破，在某些情况下，这些突破远远超出了研究人员对当前系统的预期……",
-      "source": "AI | The Verge",
+      "title": "超级计算研究人员记录了人工智能硬件的演变",
+      "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+      "summary": "随着人工智能改变行业和国家安全，了解最新的硬件能力对于保持技术优势至关重要。人工智能加速器—专门...",
+      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "OpenAI PR告诉记者“继续前进” ，同时向Sam Altman询问ChatGPT用户的自杀情况",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "summary": "一位OpenAI公关人员在编辑提到ChatGPT用户的自杀后，试图改变首席执行官Sam Altman采访《名利场》的Mark Guiducci的话题。",
-      "source": "AI | The Verge",
+      "title": "Anthropic将为初创公司提供免费的Claude Team一年和1,000 $的学分",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "summary": "“我们之所以创建这个项目，是因为我们相信人工智能的好处将通过建立在模型之上的公司而不是仅仅通过模型来惠及大多数人。”",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "HackerRank的人工智能面试官一窥求职面试可能成为什么",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "summary": "HackerRank的人工智能面试官已经进行了50多万次面试，其中Snowflake、Snorkel和Capgemini是其早期测试人员。",
+      "title": "LibreOffice说“没有人工智能”现在是一个软件功能",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "summary": "开源文档编辑器的制造商表示，它没有计划将人工智能添加到其软件的默认配置中，理由是用户隐私。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "研究人员正在跟踪中国人工智能“特工队”",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "summary": "独立研究人员发现了一个代理群体，似乎正在腾讯的基础设施上运行，并以阿里巴巴的地图服务Amap为目标。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "谷歌即将取消对Gemini Flash和Pro的免费访问权限",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "从10月9日开始，任何使用免费套餐的Google Gemini用户将仅限于Flash Lite型号。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "参议员亚当·希夫：人工智能监管、言论自由和再次弹劾特朗普",
-      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "summary": "今天，我正在与来自加利福尼亚州的民主党参议员亚当·希夫（ Adam Schiff ）交谈。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 12,
-      "title": "“超级智能”和非约束性安全协议可以解决人工智能的图像问题吗？",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "summary": "关于Equity ，我们讨论了特朗普政府重塑AI品牌的尝试。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "link": "https://www.qbitai.com/2026/10/501726.html",
+      "summary": "赛博义父、Codex负责人Tibo昨天刚说完，接下来的28天里，他们每天要么交付一项Codex/Work的改进，要么来一次完整的额度重置。按照官方说法，无论是通过官方订阅，还是用Sign in with ChatGPT接入的第三方生态（比如OpenCode、Pi、Amp、Devin等），GPT-6 Astra和GPT-6.1 Sol的默认推理速度都提速了约50%，达到了50TPS。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     }
   ]
 }
