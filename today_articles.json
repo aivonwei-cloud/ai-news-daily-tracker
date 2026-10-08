@@ -1,55 +1,91 @@
 {
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T08:03:03.298459+08:00",
-  "total": 11,
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T08:03:14.685549+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "OpenAI又推出了一批数学突破",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI在一批722份手稿中揭示了一些由未发布的前沿模型产生的长期数学问题的解决方案，涵盖了372个与……相关的结果家族。",
-      "source": "AI | The Verge",
+      "title": "Nous Research确认其估值达到15亿美元，为企业用户推出人工智能代理",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "Hermes Agent的开发商筹集了9000万美元的$ B轮融资。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "前Ramp工程师在报废第一款产品后为平台Melius筹集了2000万美元$",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和广告系列的工具。",
+      "title": "微软推出全新Nvidia芯片人工智能个人电脑，全面升级Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "微软透露了其Surface Laptop Ultra的规格和价格，这是一款在Nvidia芯片上运行的AI PC ，旨在运行AI模型和代理。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "人工智能决策模型如何改变内容审核",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "summary": "周二， Musubi宣布了一种针对实时审核的轻量级决策模型，称为PolicyLM-1.7B ，该模型以开放式权重发布。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "ChatGPT的“智能用户界面”更新以图片、图表和按钮填充其回复",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI正在ChatGPT中推出一项新的智能用户界面功能，允许聊天机器人通过交互式视觉效果回答您的问题。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Hark发布专注于隐私的人工智能个人助理",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "summary": "人工智能实验室的个人助理是未来的操作系统，旨在与Muse、Dots和Instinct竞争。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "微软让Copilot更好地控制Windows和你的文件",
+      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "在今天的Windows和Surface活动中，微软展示了其Copilot AI系统的升级，该系统将使其能够访问PC上的本地文件，并能够在整个操作系统上执行操作。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Mirror Particle正在构建人类行为的“世界模型”",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "Mirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上推出，其世界模型将从头开始构建以预测人类行为，并认为LLM角色扮演不足以进行市场研究……",
+      "title": "随着新界面的推出， ChatGPT变得更加可视化",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "OpenAI正在推出一个新的用户界面，将为ChatGPT带来交互式视觉效果。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Healthleap为其人工智能筹集了3800万美元$ ，用于标记可能需要仔细观察的医院患者",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "summary": "此次融资包括由Sequoia Capital和First Round Capital共同牵头的$ 800万种子轮融资，以及由Hummingbird Ventures牵头的$ 3000万A轮融资。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "谷歌投资数百万美元用于马克扎克伯格创建“虚拟基站”的努力",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "summary": "谷歌DeepMind、Meta和人工智能药物发现初创公司Isomorphic Labs正在共同投资3亿美元，以创建一个“虚拟细胞” ，研究人员可以用它来对抗疾病。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "谷歌在人工智能驱动的游戏平台上进行实验",
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "summary": "Google Labs正在开发一个名为Playground的新型人工智能游戏创建平台，供用户使用简单的文本提示构建基于浏览器的游戏。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "link": "https://www.qbitai.com/2026/10/501803.html",
+      "summary": "这份榜单由AA招募的评审盲投得出，评审们在不知道模型名字的情况下，看同一条提示词生成的两段视频，选更喜欢的那段。而这个模型背后，便是被Variety称为“全球最大独立AI原生影视公司”的Utopai Studios；并且据福布斯估算，其估值已经来到10亿美元左右。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
       "title": "人工智能计算初创公司Lambda在计划的IPO之前筹集$ 4B",
       "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "summary": "英伟达支持的Lambda在由Coatue和Blackstone牵头的计划2027年首次公开募股之前，以145亿美元的投资前估值筹集了高达40亿美元的资金。",
@@ -58,7 +94,25 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 11,
+      "title": "ChatGPT for Teens让青少年保持交谈，即使在心理健康危机期间也是如此",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT的青少年保障措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励不健康的关系……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "link": "https://www.qbitai.com/2026/10/501749.html",
+      "summary": "这些手稿归成372组结果。据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时。再往下翻，还有自旋玻璃、量子磁性、自由群因子、相对论性弗拉索夫—麦克斯韦方程……数论、代数几何、理论计算机、统计力学，17个方向铺得满满当当。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
       "title": "超级计算研究人员记录了人工智能硬件的演变",
       "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
       "summary": "随着人工智能改变行业和国家安全，了解最新的硬件能力对于保持技术优势至关重要。人工智能加速器—专门...",
@@ -67,39 +121,12 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
+      "num": 14,
       "title": "Anthropic将为初创公司提供免费的Claude Team一年和1,000 $的学分",
       "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
       "summary": "“我们之所以创建这个项目，是因为我们相信人工智能的好处将通过建立在模型之上的公司而不是仅仅通过模型来惠及大多数人。”",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "LibreOffice说“没有人工智能”现在是一个软件功能",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "summary": "开源文档编辑器的制造商表示，它没有计划将人工智能添加到其软件的默认配置中，理由是用户隐私。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "谷歌即将取消对Gemini Flash和Pro的免费访问权限",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "summary": "从10月9日开始，任何使用免费套餐的Google Gemini用户将仅限于Flash Lite型号。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "link": "https://www.qbitai.com/2026/10/501726.html",
-      "summary": "赛博义父、Codex负责人Tibo昨天刚说完，接下来的28天里，他们每天要么交付一项Codex/Work的改进，要么来一次完整的额度重置。按照官方说法，无论是通过官方订阅，还是用Sign in with ChatGPT接入的第三方生态（比如OpenCode、Pi、Amp、Devin等），GPT-6 Astra和GPT-6.1 Sol的默认推理速度都提速了约50%，达到了50TPS。",
-      "source": "量子位",
-      "lang": "zh",
       "category": "🔬 技术突破/模型"
     }
   ]
