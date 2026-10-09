@@ -1,100 +1,109 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T08:03:14.685549+08:00",
-  "total": 14,
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T08:03:28.343786+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "Nous Research确认其估值达到15亿美元，为企业用户推出人工智能代理",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "summary": "Hermes Agent的开发商筹集了9000万美元的$ B轮融资。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Anthropic为开源项目推出免费的人工智能安全扫描",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic提供名为OSS Scanner的新服务，帮助开源项目跟踪安全漏洞。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "微软推出全新Nvidia芯片人工智能个人电脑，全面升级Windows 11",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "summary": "微软透露了其Surface Laptop Ultra的规格和价格，这是一款在Nvidia芯片上运行的AI PC ，旨在运行AI模型和代理。",
+      "title": "Ben Affleck是个人工智能书呆子，互联网给人留下了深刻的印象",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "summary": "本·阿弗莱克（ Ben Affleck ）因其对人工智能的深入了解而广为人知，从神经网络和变压器到开放式权重。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "ChatGPT的“智能用户界面”更新以图片、图表和按钮填充其回复",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "summary": "OpenAI正在ChatGPT中推出一项新的智能用户界面功能，允许聊天机器人通过交互式视觉效果回答您的问题。",
-      "source": "AI | The Verge",
+      "title": "谷歌将代理人工智能引入Gemini ，从企业开始",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "谷歌正在将Gemini变成一个人工智能代理，可以跨业务应用和系统规划、执行任务和工作。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "微软让Copilot更好地控制Windows和你的文件",
-      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "summary": "在今天的Windows和Surface活动中，微软展示了其Copilot AI系统的升级，该系统将使其能够访问PC上的本地文件，并能够在整个操作系统上执行操作。",
-      "source": "AI | The Verge",
+      "title": "人为改变使用政策，禁止模式滥用和选举干涉",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "summary": "Anthropic 更新后的使用政策明确禁止用户在极端情况下反复滥用 Claude，但允许表达普通的沮丧和批评。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "随着新界面的推出， ChatGPT变得更加可视化",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "summary": "OpenAI正在推出一个新的用户界面，将为ChatGPT带来交互式视觉效果。",
+      "title": "Goodfire表示，其新的“由内而外”监控器只需花费一小部分成本就能捕捉到流氓AI代理",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "Goodfire刚刚推出了一种更便宜的方式来控制人工智能代理：它的监视器可以在模型工作时窥视模型内部，而不是花费第二个人工智能来读取代理所做的一切。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "Healthleap为其人工智能筹集了3800万美元$ ，用于标记可能需要仔细观察的医院患者",
-      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "summary": "此次融资包括由Sequoia Capital和First Round Capital共同牵头的$ 800万种子轮融资，以及由Hummingbird Ventures牵头的$ 3000万A轮融资。",
+      "title": "受欢迎的人工智能排行榜Arena的估值在10个月内几乎翻了一番，达到31亿美元",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "广受欢迎的LMArena排行榜背后的公司已经筹集了2亿美元($) ，由Lightspeed和Khosla领投，现在正在衡量AI模型在撒谎等对齐问题上的表现。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "谷歌投资数百万美元用于马克扎克伯格创建“虚拟基站”的努力",
-      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "summary": "谷歌DeepMind、Meta和人工智能药物发现初创公司Isomorphic Labs正在共同投资3亿美元，以创建一个“虚拟细胞” ，研究人员可以用它来对抗疾病。",
-      "source": "AI | The Verge",
+      "title": "自与Meta分拆以来，中国的Manus在首轮融资中筹集了超过5亿美元$",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "summary": "博宇资本和IDG资本领投此轮融资，现有股东腾讯、HSG （前身为红杉中国）、振基等也参与其中。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 8,
-      "title": "谷歌在人工智能驱动的游戏平台上进行实验",
-      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "summary": "Google Labs正在开发一个名为Playground的新型人工智能游戏创建平台，供用户使用简单的文本提示构建基于浏览器的游戏。",
+      "title": "被解雇的OpenAI安全研究人员对不当行为索赔提出异议，警告其产生寒蝉效应",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "三名被解雇的OpenAI安全研究人员对有关不当处理敏感信息的指控提出异议，并在一封公开信中警告说，他们的解雇正在对该公司的人工智能安全带产生寒蝉效应……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-      "link": "https://www.qbitai.com/2026/10/501803.html",
-      "summary": "这份榜单由AA招募的评审盲投得出，评审们在不知道模型名字的情况下，看同一条提示词生成的两段视频，选更喜欢的那段。而这个模型背后，便是被Variety称为“全球最大独立AI原生影视公司”的Utopai Studios；并且据福布斯估算，其估值已经来到10亿美元左右。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "title": "OpenAI的数学解决方案尚未达到该领域的标准",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "summary": "OpenAI的大量证明偏离了前沿实验室咨询的一组数学研究人员制定的指导方针。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "人工智能计算初创公司Lambda在计划的IPO之前筹集$ 4B",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "英伟达支持的Lambda在由Coatue和Blackstone牵头的计划2027年首次公开募股之前，以145亿美元的投资前估值筹集了高达40亿美元的资金。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "《今日美国》成为起诉OpenAI的最新出版商",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "summary": "今日美国公司及其拥有的几家当地报纸正在起诉OpenAI ，声称该公司抄袭了“数十万”篇文章来训练其人工智能模型，正如早些时候报道的那样……",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
+      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+      "link": "https://www.qbitai.com/2026/10/501995.html",
+      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
       "title": "ChatGPT for Teens让青少年保持交谈，即使在心理健康危机期间也是如此",
       "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
       "summary": "ChatGPT的青少年保障措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励不健康的关系……",
@@ -103,31 +112,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "link": "https://www.qbitai.com/2026/10/501749.html",
-      "summary": "这些手稿归成372组结果。据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时。再往下翻，还有自旋玻璃、量子磁性、自由群因子、相对论性弗拉索夫—麦克斯韦方程……数论、代数几何、理论计算机、统计力学，17个方向铺得满满当当。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 13,
-      "title": "超级计算研究人员记录了人工智能硬件的演变",
-      "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-      "summary": "随着人工智能改变行业和国家安全，了解最新的硬件能力对于保持技术优势至关重要。人工智能加速器—专门...",
-      "source": "麻省理工学院新闻-人工智能",
+      "title": "人类禁止对克劳德的“虐待或残忍行为”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "summary": "Anthropic一年多来首次修改其使用政策，以反映新的高风险滥用案例，包括选举干涉、武器开发、监控，以及……",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "Anthropic将为初创公司提供免费的Claude Team一年和1,000 $的学分",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "summary": "“我们之所以创建这个项目，是因为我们相信人工智能的好处将通过建立在模型之上的公司而不是仅仅通过模型来惠及大多数人。”",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     }
   ]
 }
