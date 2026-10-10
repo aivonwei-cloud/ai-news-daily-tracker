@@ -1,10 +1,46 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T08:03:28.343786+08:00",
-  "total": 13,
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T08:03:06.565650+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
+      "title": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "link": "https://www.qbitai.com/2026/10/502114.html",
+      "summary": "节后第一天，引爆一切的是懂车帝发布的一段测试视频。三辆百万级新车，连续紧急制动，接连踏板断裂。尊界V800由此被推上热搜，江淮汽车也在国庆后首个交易日走向跌停。其一，符合标准。尊界称，其制动系统按照高于国标GB 21670-2025、GB 7258-2026及行业标准QC/T 788-2018的要求，完成全流程开发与验证。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "link": "https://www.qbitai.com/2026/10/502106.html",
+      "summary": "复杂任务链路长，多个智能体难以高效配合；业务经验难以沉淀，每次执行都可能重复摸索；算力投入不断增加，运行效率却未必同步提升。这些问题，需要贯穿开发、运行和管理的系统能力来解决。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "link": "https://www.qbitai.com/2026/10/502096.html",
+      "summary": "当这样的世界可以由代码构建、由扩散模型实时绘出，AI便拥有了一座可以反复探索的「试炼场」：亲自行动，观察后果，验证猜想，再把经验带进下一轮。这是MirroS团队最新发布的AgentGarten。它将可执行的代码环境与实时神经渲染器连接起来：代码定义物理规则，模型生成视觉反馈，以超过30 fps的吞吐，让智能体持续与世界交互。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "Anthropic为开源项目推出免费的人工智能安全扫描",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
       "summary": "Anthropic提供名为OSS Scanner的新服务，帮助开源项目跟踪安全漏洞。",
@@ -13,43 +49,16 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "Ben Affleck是个人工智能书呆子，互联网给人留下了深刻的印象",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "本·阿弗莱克（ Ben Affleck ）因其对人工智能的深入了解而广为人知，从神经网络和变压器到开放式权重。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "谷歌将代理人工智能引入Gemini ，从企业开始",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "summary": "谷歌正在将Gemini变成一个人工智能代理，可以跨业务应用和系统规划、执行任务和工作。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "人为改变使用政策，禁止模式滥用和选举干涉",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "summary": "Anthropic 更新后的使用政策明确禁止用户在极端情况下反复滥用 Claude，但允许表达普通的沮丧和批评。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Goodfire表示，其新的“由内而外”监控器只需花费一小部分成本就能捕捉到流氓AI代理",
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "summary": "Goodfire刚刚推出了一种更便宜的方式来控制人工智能代理：它的监视器可以在模型工作时窥视模型内部，而不是花费第二个人工智能来读取代理所做的一切。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
+      "title": "TechCrunch Disrupt 2026将于4天后开始—在价格上涨前锁定高达100 $的通行证优惠",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "summary": "距离TechCrunch Disrupt 2026开始还有四天，届时10,000名创始人、投资者和科技领袖将于10月13日至15日齐聚旧金山Moscone West。您的价格最高可节省100 $。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
       "title": "受欢迎的人工智能排行榜Arena的估值在10个月内几乎翻了一番，达到31亿美元",
       "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
       "summary": "广受欢迎的LMArena排行榜背后的公司已经筹集了2亿美元($) ，由Lightspeed和Khosla领投，现在正在衡量AI模型在撒谎等对齐问题上的表现。",
@@ -58,65 +67,65 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "自与Meta分拆以来，中国的Manus在首轮融资中筹集了超过5亿美元$",
-      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "summary": "博宇资本和IDG资本领投此轮融资，现有股东腾讯、HSG （前身为红杉中国）、振基等也参与其中。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 8,
-      "title": "被解雇的OpenAI安全研究人员对不当行为索赔提出异议，警告其产生寒蝉效应",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "三名被解雇的OpenAI安全研究人员对有关不当处理敏感信息的指控提出异议，并在一封公开信中警告说，他们的解雇正在对该公司的人工智能安全带产生寒蝉效应……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "根据6abc的一份报告， Anthropic AI模型向费城警察局（ PPD ）的一个小组提供了有关未解决的凶杀案的虚假信息。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "OpenAI的数学解决方案尚未达到该领域的标准",
-      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "summary": "OpenAI的大量证明偏离了前沿实验室咨询的一组数学研究人员制定的指导方针。",
+      "title": "Anthropic AI模型向费城警方发送了虚假的凶杀案提示",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "summary": "Anthropic直到其AI提交虚假提示两个多月后才发现这种行为。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "《今日美国》成为起诉OpenAI的最新出版商",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "summary": "今日美国公司及其拥有的几家当地报纸正在起诉OpenAI ，声称该公司抄袭了“数十万”篇文章来训练其人工智能模型，正如早些时候报道的那样……",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "link": "https://www.qbitai.com/2026/10/501995.html",
-      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "ChatGPT for Teens让青少年保持交谈，即使在心理健康危机期间也是如此",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "summary": "ChatGPT的青少年保障措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励不健康的关系……",
+      "title": "Danu Robotics致力于打造更好的回收机器人",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "summary": "六年来， Danu创始人Amy Ma一直在研究一种更好的方法来分类可回收废物。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 13,
-      "title": "人类禁止对克劳德的“虐待或残忍行为”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "summary": "Anthropic一年多来首次修改其使用政策，以反映新的高风险滥用案例，包括选举干涉、武器开发、监控，以及……",
+      "num": 11,
+      "title": "OpenAI加倍决定解雇三名人工智能安全研究人员",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "summary": "OpenAI坚定地决定解雇三名安全研究人员，此前调查发现他们“严重违反信任”。“在周五的X帖子中，该公司表示Jasmin……",
       "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "link": "https://www.qbitai.com/2026/10/502364.html",
+      "summary": "Seed研究人员发现，DeepSeek-V4的表现竟然会随着信息的输入位置，每隔4个Token周期性变化。在128K长上下文检索测试中，研究人员发现，同一条信息只是换了个位置，DeepSeek-V4系列模型的检索准确率最高就能拉开40.2个百分点。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "亚马逊和其他公司已将数据中心交易保密。这足以建立信任吗？",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "summary": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 14,
+      "title": "亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "summary": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
     }
