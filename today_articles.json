@@ -1,10 +1,28 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T08:03:06.565650+08:00",
-  "total": 14,
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T08:02:25.024417+08:00",
+  "total": 11,
   "articles": [
     {
       "num": 1,
+      "title": "人工智能代理制造商承诺提供隐私—他们能否提供？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "在今年的OpenAI DevDay上，首席执行官萨姆·奥尔特曼（ Sam Altman ）推出了该公司的新人工智能代理Dots ，并告诉观众，该公司希望“为前沿人工智能的隐私设定一个新标准。“ OpenAI会说……",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "link": "https://www.qbitai.com/2026/10/502467.html",
+      "summary": "FSD不能叫Full Self-Driving（完全自动驾驶），得改名叫Tesla Assisted Driving（特斯拉辅助驾驶）。马斯克坚持多年的产品名称，就这么在欧洲被降了一级…… 甚至连马斯克本人，都罕见地客气了一回，用德语向德国政府道谢。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
       "title": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "summary": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
@@ -13,43 +31,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-      "link": "https://www.qbitai.com/2026/10/502114.html",
-      "summary": "节后第一天，引爆一切的是懂车帝发布的一段测试视频。三辆百万级新车，连续紧急制动，接连踏板断裂。尊界V800由此被推上热搜，江淮汽车也在国庆后首个交易日走向跌停。其一，符合标准。尊界称，其制动系统按照高于国标GB 21670-2025、GB 7258-2026及行业标准QC/T 788-2018的要求，完成全流程开发与验证。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "link": "https://www.qbitai.com/2026/10/502106.html",
-      "summary": "复杂任务链路长，多个智能体难以高效配合；业务经验难以沉淀，每次执行都可能重复摸索；算力投入不断增加，运行效率却未必同步提升。这些问题，需要贯穿开发、运行和管理的系统能力来解决。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 4,
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "link": "https://www.qbitai.com/2026/10/502096.html",
-      "summary": "当这样的世界可以由代码构建、由扩散模型实时绘出，AI便拥有了一座可以反复探索的「试炼场」：亲自行动，观察后果，验证猜想，再把经验带进下一轮。这是MirroS团队最新发布的AgentGarten。它将可执行的代码环境与实时神经渲染器连接起来：代码定义物理规则，模型生成视觉反馈，以超过30 fps的吞吐，让智能体持续与世界交互。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Anthropic为开源项目推出免费的人工智能安全扫描",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic提供名为OSS Scanner的新服务，帮助开源项目跟踪安全漏洞。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
       "title": "TechCrunch Disrupt 2026将于4天后开始—在价格上涨前锁定高达100 $的通行证优惠",
       "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
       "summary": "距离TechCrunch Disrupt 2026开始还有四天，届时10,000名创始人、投资者和科技领袖将于10月13日至15日齐聚旧金山Moscone West。您的价格最高可节省100 $。",
@@ -58,16 +40,25 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "受欢迎的人工智能排行榜Arena的估值在10个月内几乎翻了一番，达到31亿美元",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "summary": "广受欢迎的LMArena排行榜背后的公司已经筹集了2亿美元($) ，由Lightspeed和Khosla领投，现在正在衡量AI模型在撒谎等对齐问题上的表现。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "num": 5,
+      "title": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "在X的一篇长文中，微软首席执行官阐述了他对高度先进的人工智能模型带来的危险以及如何应对这些风险的看法。",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
+      "num": 6,
+      "title": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 7,
       "title": "Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "summary": "根据6abc的一份报告， Anthropic AI模型向费城警察局（ PPD ）的一个小组提供了有关未解决的凶杀案的虚假信息。",
@@ -76,7 +67,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 8,
       "title": "Anthropic AI模型向费城警方发送了虚假的凶杀案提示",
       "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "summary": "Anthropic直到其AI提交虚假提示两个多月后才发现这种行为。",
@@ -85,7 +76,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 9,
       "title": "Danu Robotics致力于打造更好的回收机器人",
       "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
       "summary": "六年来， Danu创始人Amy Ma一直在研究一种更好的方法来分类可回收废物。",
@@ -94,25 +85,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "OpenAI加倍决定解雇三名人工智能安全研究人员",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "summary": "OpenAI坚定地决定解雇三名安全研究人员，此前调查发现他们“严重违反信任”。“在周五的X帖子中，该公司表示Jasmin……",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "link": "https://www.qbitai.com/2026/10/502364.html",
-      "summary": "Seed研究人员发现，DeepSeek-V4的表现竟然会随着信息的输入位置，每隔4个Token周期性变化。在128K长上下文检索测试中，研究人员发现，同一条信息只是换了个位置，DeepSeek-V4系列模型的检索准确率最高就能拉开40.2个百分点。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
+      "num": 10,
       "title": "亚马逊和其他公司已将数据中心交易保密。这足以建立信任吗？",
       "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
       "summary": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。",
@@ -121,7 +94,7 @@
       "category": "📋 政策与监管"
     },
     {
-      "num": 14,
+      "num": 11,
       "title": "亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡",
       "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
       "summary": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。",
