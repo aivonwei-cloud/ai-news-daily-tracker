@@ -1,10 +1,46 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T08:02:25.024417+08:00",
-  "total": 11,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T08:01:46.328113+08:00",
+  "total": 8,
   "articles": [
     {
       "num": 1,
+      "title": "HomeView会是苹果智能家居的首次成功吗？",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "summary": "在过去的几年里，我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有一个名称和一个发布日期。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "王的猜想，刚刚扩展到四维",
+      "link": "https://www.qbitai.com/2026/10/502584.html",
+      "summary": "Besicovitch给出了一个反直觉的答案：面积可以任意小。更离谱的是，一个集合可以在每个方向上都装下一根单位长的针，面积却是零。这里的「维数」不只是长、宽、高的日常概念。对于这种形状极不规则的集合，数学家会用Hausdorff维数、Minkowski维数等工具，衡量它在不同尺度下到底有多复杂。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "link": "https://www.qbitai.com/2026/10/502550.html",
+      "summary": "OpenAI将停用GPT-4o最早的API快照。它的名字里写着「2024-05-13」，正是4o第一次亮相的日子。最新一轮行动，是10月7日网友BlueBeba在X上发的一份新方案，标题叫「GPT-4o存档式开放权重」。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+      "link": "https://www.qbitai.com/2026/10/502544.html",
+      "summary": "还可以设置Main Bot。这个Bot主管拥有高权限，能帮你管理、配置其他Bot和群聊，既能降低管理多个Agent的复杂度，也能在群聊这种狂烧token的环境里，降低token消耗。这方面，ds bot是专门做了优化的：在一个群聊里设置管理员，你的消息默认会由管理员回复，它会帮你调用其他bot。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "人工智能代理制造商承诺提供隐私—他们能否提供？",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
       "summary": "在今年的OpenAI DevDay上，首席执行官萨姆·奥尔特曼（ Sam Altman ）推出了该公司的新人工智能代理Dots ，并告诉观众，该公司希望“为前沿人工智能的隐私设定一个新标准。“ OpenAI会说……",
@@ -13,34 +49,16 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "link": "https://www.qbitai.com/2026/10/502467.html",
-      "summary": "FSD不能叫Full Self-Driving（完全自动驾驶），得改名叫Tesla Assisted Driving（特斯拉辅助驾驶）。马斯克坚持多年的产品名称，就这么在欧洲被降了一级…… 甚至连马斯克本人，都罕见地客气了一回，用德语向德国政府道谢。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
+      "num": 6,
+      "title": "这些高管认为语音AI尚未达到ChatGPT时刻",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "语音人工智能经常错过上下文层的重要点，并导致整个管道中断",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 4,
-      "title": "TechCrunch Disrupt 2026将于4天后开始—在价格上涨前锁定高达100 $的通行证优惠",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "summary": "距离TechCrunch Disrupt 2026开始还有四天，届时10,000名创始人、投资者和科技领袖将于10月13日至15日齐聚旧金山Moscone West。您的价格最高可节省100 $。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 5,
+      "num": 7,
       "title": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
       "summary": "在X的一篇长文中，微软首席执行官阐述了他对高度先进的人工智能模型带来的危险以及如何应对这些风险的看法。",
@@ -49,58 +67,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 6,
+      "num": 8,
       "title": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
       "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "summary": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 7,
-      "title": "Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary": "根据6abc的一份报告， Anthropic AI模型向费城警察局（ PPD ）的一个小组提供了有关未解决的凶杀案的虚假信息。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 8,
-      "title": "Anthropic AI模型向费城警方发送了虚假的凶杀案提示",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "summary": "Anthropic直到其AI提交虚假提示两个多月后才发现这种行为。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "Danu Robotics致力于打造更好的回收机器人",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "summary": "六年来， Danu创始人Amy Ma一直在研究一种更好的方法来分类可回收废物。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "亚马逊和其他公司已将数据中心交易保密。这足以建立信任吗？",
-      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "summary": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 11,
-      "title": "亚马逊放弃了数据中心保密协议，人工智能代理想要您的信用卡",
-      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "summary": "亚马逊表示，在今年早些时候微软采取类似举措后，它将在与地方政府谈判数据中心交易时停止使用保密协议。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
