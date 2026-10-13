@@ -1,79 +1,88 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T08:01:46.328113+08:00",
-  "total": 8,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T08:01:50.722153+08:00",
+  "total": 9,
   "articles": [
     {
       "num": 1,
-      "title": "HomeView会是苹果智能家居的首次成功吗？",
-      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "summary": "在过去的几年里，我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有一个名称和一个发布日期。",
+      "title": "Meta发布其首款前沿车型Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "summary": "Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更强大，具有更高的基准分数和更好的复杂性结果……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "王的猜想，刚刚扩展到四维",
-      "link": "https://www.qbitai.com/2026/10/502584.html",
-      "summary": "Besicovitch给出了一个反直觉的答案：面积可以任意小。更离谱的是，一个集合可以在每个方向上都装下一根单位长的针，面积却是零。这里的「维数」不只是长、宽、高的日常概念。对于这种形状极不规则的集合，数学家会用Hausdorff维数、Minkowski维数等工具，衡量它在不同尺度下到底有多复杂。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Honeyjar提供人工智能工具来改善每家公司的公关和通信",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "summary": "记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "link": "https://www.qbitai.com/2026/10/502550.html",
-      "summary": "OpenAI将停用GPT-4o最早的API快照。它的名字里写着「2024-05-13」，正是4o第一次亮相的日子。最新一轮行动，是10月7日网友BlueBeba在X上发的一份新方案，标题叫「GPT-4o存档式开放权重」。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "前Plaud高管为在后台倾听您的声音的人工智能应用程序筹集了2600万美元$",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "人工智能的核心承诺之一是，它对一个人的了解越多，它就越能更好地帮助他们完成任务并提出适当的建议，如果你相信技术伙伴……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "link": "https://www.qbitai.com/2026/10/502544.html",
-      "summary": "还可以设置Main Bot。这个Bot主管拥有高权限，能帮你管理、配置其他Bot和群聊，既能降低管理多个Agent的复杂度，也能在群聊这种狂烧token的环境里，降低token消耗。这方面，ds bot是专门做了优化的：在一个群聊里设置管理员，你的消息默认会由管理员回复，它会帮你调用其他bot。",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "link": "https://www.qbitai.com/2026/10/502654.html",
+      "summary": "而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "人工智能代理制造商承诺提供隐私—他们能否提供？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "在今年的OpenAI DevDay上，首席执行官萨姆·奥尔特曼（ Sam Altman ）推出了该公司的新人工智能代理Dots ，并告诉观众，该公司希望“为前沿人工智能的隐私设定一个新标准。“ OpenAI会说……",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "智谱新模型，490 tokens/s！",
+      "link": "https://www.qbitai.com/2026/10/502649.html",
+      "summary": "据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "这些高管认为语音AI尚未达到ChatGPT时刻",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "语音人工智能经常错过上下文层的重要点，并导致整个管道中断",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Meta有一些Wonder全新的AI模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "summary": "Meta正在弥补AI竞赛中失去的时间。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 7,
-      "title": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "summary": "在X的一篇长文中，微软首席执行官阐述了他对高度先进的人工智能模型带来的危险以及如何应对这些风险的看法。",
-      "source": "AI | The Verge",
+      "title": "TechCrunch Disrupt 2026将于明天开始：您获得高达100 $门票优惠的最后机会",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "summary": "10月2日是向Disrupt的10,000多名技术领导者展示您的突破的最后一天。立即预订展览桌。Disrupt大门于10月13日开启。获取通行证，并以50%的折扣携带人员。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
+      "title": "这些高管认为语音AI尚未达到ChatGPT时刻",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "语音人工智能经常会错过上下文层的重要点，并导致整个管道中断。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "微软总裁表示，英国最适合推动人工智能监管",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "微软总裁布拉德·史密斯（ Brad Smith ）呼吁对人工智能进行紧急监管，称牛奶和洗衣机比人工智能公司拥有更多的监",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
