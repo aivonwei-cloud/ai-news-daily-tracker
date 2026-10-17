@@ -1,10 +1,46 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T08:02:59.054301+08:00",
-  "total": 12,
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T08:02:43.683392+08:00",
+  "total": 10,
   "articles": [
     {
       "num": 1,
+      "title": "印度成为报告流氓AI代理活动的最新国家",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "英伟达内部人士转向VC ，解释为什么机器人技术还没有达到其ChatGPT时刻",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath曾在英伟达机器人平台的产品营销部门工作了七年，她表示，机器人技术目前正处于“乐高时代” ，其基本构建模块包括执行器、机器人……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary": "Amulya Vishwanath曾在英伟达机器人平台的产品营销部门工作了七年，她表示，机器人技术目前正处于“乐高时代” ，其基本构建模块包括执行器、机器人……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "马克·沃尔伯格（ Mark Wahlberg ）在电影中“以正确的方式”使用人工智能，并对继承其遗产的人工智能克隆持开放态度",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "演员兼天使投资人马克·沃尔伯格（ Mark Wahlberg ）表示，他可以在电影制作中使用人工智能，前提是它被用来“增强你正在做的事情”。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
       "title": "ChatGPT现在可以查看您的Chrome标签页",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "summary": "OpenAI的ChatGPT Atlas浏览器已不复存在，但现在ChatGPT的Google Chrome扩展正在进行一些升级，允许它使用您已经打开的浏览器选项卡。",
@@ -13,46 +49,10 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "世嘉在灾难性发布后从销售中撤出《全面战争：幕府将军2》重制版",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "summary": "在一次灾难性的发布之后，世嘉正在从店面中删除全面战争：幕府将军2 -完整版，用户抱怨诸如错误和升级等问题似乎是由人工智能完成的。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "特朗普发布AI编辑照片吹嘘白宫修复工作",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "summary": "唐纳德·特朗普（ Donald Trump ）总统在“真相社交” （ Truth Social ）上发布了一系列照片，展示了白宫的翻修工作，但其中一张似乎被人工智能修改了。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "Meta推出在Mac上运行的开放式权重AI模型",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "summary": "Meta和苹果已经联手推出了这家社交媒体巨头的最新型号Muse Spark Open ，它将在苹果芯片上本地运行。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Bluesky的人工智能工具现在可以让您制作游戏和应用程序，在社交平台上分享",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "summary": "Bluesky的Attie AI工具最初于今年早些时候推出，用于使用AI构建自己的Feed ，现在可以让您制作“小型”社交应用程序，如游戏，民意调查和仪表板，您可以......",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
       "title": "当谈到Cal AI的病毒式成功时，一小群有影响力的人得到了回报",
       "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "该公司在两年内创造了超过3000万美元的收入，并于3月被MyFitness以未披露的金额收购。",
+      "summary": "该公司在两年内创造了超过3000万美元的收入，并于3月被MyFitnessPal以未披露的金额收购。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
@@ -68,48 +68,30 @@
     },
     {
       "num": 8,
+      "title": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于GPT-6 Astra ，在其他视觉推理任务上取得了有竞争力的结果。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "Jev是Vercel有史以来采用最快的人工智能模型",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "数据来自Vercel的AI网关，这是一种类似于OpenRouter的统一API服务。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
       "title": "AI模型解码用于沟通的语言细胞",
       "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
       "summary": "随着胚胎从一小群干细胞发育而来，那些曾经的“空白石板”细胞开始扮演更特殊的角色，如大脑、肝脏或肌肉细胞，并将自己组织成三个……",
       "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "Benn Jordan谈论Flock、隐私和新的监控反弹",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "summary": "今天，我正在与音乐家、YouTuber、研究员和调查记者Benn Jordan交谈。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "Floqer的人工智能代理研究销售前景，因此团队不必",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "summary": "Floqer试图解决的问题对于任何从事销售或收入运营的人来说都是熟悉的。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "研究人员改善两到六周后的天气预报",
-      "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "summary": "2021年，德克萨斯州经历了2月份三次严重的冬季风暴后，遭遇了州历史上最严重的能源基础设施",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "Flock首席执行官表示，其麦克风检测到“只是枪声” —其网站上说不同",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "summary": "兰利的评论是在包括ACLU在内的隐私倡导者以及担心其技术被滥用的公众对Flock进行越来越严格的审查之际发表的。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
