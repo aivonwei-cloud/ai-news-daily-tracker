@@ -1,73 +1,82 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T08:02:43.683392+08:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T08:02:01.552352+08:00",
   "total": 10,
   "articles": [
     {
       "num": 1,
-      "title": "印度成为报告流氓AI代理活动的最新国家",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。",
+      "title": "Meta删除了引起抓取和人工智能培训问题的语言",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "Meta发言人坚称，更新后的条款并未反映Meta爬网方式的变化。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "英伟达内部人士转向VC ，解释为什么机器人技术还没有达到其ChatGPT时刻",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath曾在英伟达机器人平台的产品营销部门工作了七年，她表示，机器人技术目前正处于“乐高时代” ，其基本构建模块包括执行器、机器人……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "summary": "Amulya Vishwanath曾在英伟达机器人平台的产品营销部门工作了七年，她表示，机器人技术目前正处于“乐高时代” ，其基本构建模块包括执行器、机器人……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "马克·沃尔伯格（ Mark Wahlberg ）在电影中“以正确的方式”使用人工智能，并对继承其遗产的人工智能克隆持开放态度",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "summary": "演员兼天使投资人马克·沃尔伯格（ Mark Wahlberg ）表示，他可以在电影制作中使用人工智能，前提是它被用来“增强你正在做的事情”。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "ChatGPT现在可以查看您的Chrome标签页",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI的ChatGPT Atlas浏览器已不复存在，但现在ChatGPT的Google Chrome扩展正在进行一些升级，允许它使用您已经打开的浏览器选项卡。",
+      "title": "Meta删除了可能允许其抓取新闻网站的语言",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "在强烈反对之后， Meta再次更新其条款，以删除暗示它可以从包括新闻网站在内的网站上抓取内容来训练其人工智能的语言。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 3,
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "link": "https://www.qbitai.com/2026/10/504067.html",
+      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "智谱新模型，懂法方面全球第一了",
+      "link": "https://www.qbitai.com/2026/10/503965.html",
+      "summary": "它不只能你聊聊法条，还能包揽审合同、串证据、做跨境合规研究等一系列具体的工作，并交给你一份可以原地使用的成果。在Vals AI最新公布的法律测评中，GLM-Legal分别以19.2%的任务全通过率和86.23%的准确率，摘得Harvey LAB与LegalBench双榜开放权重模型榜榜首。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "link": "https://www.qbitai.com/2026/10/503935.html",
+      "summary": "这套名叫PilotDeck 2.0的系统，由清华大学THUNLP实验室联合面壁智能、OpenBMB等团队共同推出。而PilotDeck 2.0瞄准的，恰好就是这些让人头大的老bug——记忆管理、任务执行，以及模型调用成本。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 6,
-      "title": "当谈到Cal AI的病毒式成功时，一小群有影响力的人得到了回报",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "该公司在两年内创造了超过3000万美元的收入，并于3月被MyFitnessPal以未披露的金额收购。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "link": "https://www.qbitai.com/2026/10/503880.html",
+      "summary": "公司名为物原科技，迄今为止迅速完成了多轮融资，公司估值来到数亿美元，投资方队伍中出现了蚂蚁、美团、达晨财智、星连等一线投资机构的的身影。该工作提出了一种全新的动力学提升预训练范式，通过合成动力学（Synthetic Dynamics）将静态几何“提升”到动态空间，让模型在无标签数据上通过学习粒子轨迹演化来获取物理直觉。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "为您的TechCrunch创始人峰会通行证节省高达200 $的最后机会：提前预订将于10月16日结束",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "summary": "截至10月16日， TechCrunch创始人峰会最高可节省200 $。创始人和投资者通行证的这些节省将在周五之后消失。",
+      "title": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "上周末， Masad澄清说， OpenAI将取代Anthropic作为其默认模型提供商。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "link": "https://www.qbitai.com/2026/10/503910.html",
+      "summary": "刚刚，据Anthropic披露，Claude用不到半小时，查明了五条NIST标准椭圆曲线的种子生成方式。它能让接收方检查，一份数据是否由声称的签署者签发，以及签署后有没有被修改。2000年，它被美国国家标准与技术研究院NIST纳入FIPS 186-2数字签名标准。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
       "title": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们",
       "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "summary": "根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于GPT-6 Astra ，在其他视觉推理任务上取得了有竞争力的结果。",
@@ -76,20 +85,11 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 10,
       "title": "Jev是Vercel有史以来采用最快的人工智能模型",
       "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "summary": "数据来自Vercel的AI网关，这是一种类似于OpenRouter的统一API服务。",
       "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "AI模型解码用于沟通的语言细胞",
-      "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-      "summary": "随着胚胎从一小群干细胞发育而来，那些曾经的“空白石板”细胞开始扮演更特殊的角色，如大脑、肝脏或肌肉细胞，并将自己组织成三个……",
-      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     }
