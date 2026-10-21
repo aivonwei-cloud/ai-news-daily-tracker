@@ -1,55 +1,73 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T08:02:05.731766+08:00",
-  "total": 9,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T08:03:21.891601+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "summary": "人工智能实验室已经在模型基准测试上打下了声誉，模型基准测试是所谓的中立和准确的评估系统，旨在衡量一种人工智能产品是否比另一种产品更好。",
+      "title": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "拟议的政策似乎提供了针对人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "亚马逊正在利用新的TorchNeuron开发工具对英伟达进行最大规模的尝试",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "summary": "亚马逊希望打破英伟达对PyTorch的控制， PyTorch是用于构建大多数人工智能应用程序的免费工具包，以便更多的开发人员在自己的替代芯片上运行他们的应用程序。",
+      "title": "OpenAI收购创业公司Orchestra Bio ，以加强其生物技术业务",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI表示，它正在增加Orchestra的团队和技术，以开发其生命科学研究的人工智能模型Rosalind ，以及其相关的Rosalind Workbench工具，该工具旨在帮助研究人员......",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "黑客攻击人工智能编码工具OpenCode ，对用户的人工智能账户收费",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "OpenCode是一种开源的AI编码代理，已成为Claude Code和Cursor的流行替代品。",
+      "title": "谷歌已加入亚马逊，通过AI应用程序开发人员攻击Nvidia的据点",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "谷歌与亚马逊一起发布了一个开发人员工具，使PyTorch用户可以轻松地将其应用程序从Nvidia GPU上移除。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Tolan为其人工智能伴侣获得了3000万美元的$收入，该伴侣可帮助用户导航生活",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "summary": "人工智能伴侣应用程序Tolan在吸引了超过25万活跃用户后又筹集了3000万美元$。",
+      "title": "Meta的Muse在40天内在美国下载量达到1000万次，这是其他11个应用程序达到的里程碑",
+      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "summary": "Meta的人工智能伴侣Muse在前40天内已超过1000万次美国下载，加入了包括Threads在内的独家应用程序组。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Tenstorrent达到62亿美元的估值，以扩展开放式重量AI芯片",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "summary": "在今年早些时候获得收购权益后，英伟达挑战者筹集了15亿美元以保持独立性。",
+      "title": "Otter.ai从General Catalyst的增长基金为其会议工具筹集了3.2亿美元$",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "会议记录工具Otter.ai周二宣布，它已从General Catalyst的客户价值基金（ CVF ）筹集了3.2亿美元（ $ ） ，该基金为初创公司提供资金，而不会稀释股权和……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Anthropic的云合作伙伴关系变得混乱",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "据报道， Anthropic正在努力从云提供商那里获得足够的计算，这些云提供商越来越多地将其视为竞争对手，尽管其基础设施支出在计划于11月进行的IPO之前激增……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "市长Zohran Mamdani周一晚间表示，纽约人必须抵制人工智能收购不可避免的说法，并要求保护公众并将权力交还给他们的监管。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "CoreWeave的债务正在成为整个人工智能行业的问题",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
       "summary": "CoreWeave上周表现不佳。根据一个共同的定义，其债券陷入困境--投资者对收益率的要求比从政府债券中获得的要多1000个基点。",
@@ -58,29 +76,65 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "微软表示，人工智能代理就像内部威胁一样，因为“前沿模型不可信”",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "summary": "微软希望企业密切关注员工使用不受OpenAI和Anthropic等人工智能实验室控制的系统的代理。",
+      "num": 9,
+      "title": "谷歌更个性化的双子座人工智能正走向您的汽车",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "谷歌正在将个人智能引入您的车中的Gemini AI。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "ChatGPT现在可以锁定您的聊天",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "summary": "该公司表示，该功能专为用户可能正在讨论个人或计划惊喜的情况而设计，并希望在交付设备时保持这些对话的私密性……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 8,
-      "title": "JB Pritzker认为人工智能可以帮助我们活到100岁—或者像核武器一样威胁我们",
-      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "summary": "今天，我正在与伊利诺伊州州长JB Pritzker交谈，他对人工智能、技术和隐私有很多想法。",
+      "num": 11,
+      "title": "在研究人员在网络上发现人工智能聊天后， Meta暂停Muse共享",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "summary": "Meta表示，它暂停了一项Muse功能，根据Ars Technica的报告，在研究人员发现网页上公开的URL后，您可以与人工智能助手分享对话。",
       "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "植物可以用电说话，所以这家初创公司建立了一个人工智能模型来破译它们的语言",
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "summary": "Electric Plant已经建立了一个人工智能驱动的翻译器，帮助人类倾听植物在说什么，微妙的电流穿过它们的茎。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "Eka的价值为14.5亿美元，这要归功于有专家赞叹的物理人工智能模型",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "Eka Robotics可能是第一个真正善于拾取各种物体的机器人手臂，它如此光滑和人性化，令人惊叹。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "嵌入式评估员的想法--将所谓的“中立”第三方观察员放置在人工智能组织内部--在过去几个月中得到了普及，因为人工智能实验室正在努力应对……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
     },
     {
-      "num": 9,
-      "title": "迪士尼同意雇用Character AI的大部分员工",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "该文件还表示，在迪士尼获得工作机会的“绝大多数” Character.AI员工都接受了他们。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "num": 15,
+      "title": "JB Pritzker认为人工智能可以帮助我们活到100岁—或者像核武器一样威胁我们",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "summary": "今天，我正在与伊利诺伊州州长JB Pritzker交谈，他对人工智能、技术和隐私有很多想法。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     }
