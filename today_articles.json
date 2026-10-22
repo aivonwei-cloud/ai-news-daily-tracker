@@ -1,55 +1,73 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:03:21.891601+08:00",
-  "total": 15,
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T08:02:44.739126+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "拟议的政策似乎提供了针对人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。",
+      "title": "Meta表示， Muse拥有超过1000万用户，购物是热门活动",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "该公司在第三季度财报中表示， Meta Muse用户正在采用该应用程序进行购物和提高个人生产力。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "OpenAI收购创业公司Orchestra Bio ，以加强其生物技术业务",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "summary": "OpenAI表示，它正在增加Orchestra的团队和技术，以开发其生命科学研究的人工智能模型Rosalind ，以及其相关的Rosalind Workbench工具，该工具旨在帮助研究人员......",
+      "title": "递归推出Flint ，这是一种笔记本电脑编码模型，据称主要由人工智能构建",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "Startup Recursive发布了Flint ，这是一种免费的笔记本电脑大小的编码模型，主要由其自己的人工智能研究系统构建，作为对自我改进的人工智能的早期测试。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "谷歌已加入亚马逊，通过AI应用程序开发人员攻击Nvidia的据点",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "summary": "谷歌与亚马逊一起发布了一个开发人员工具，使PyTorch用户可以轻松地将其应用程序从Nvidia GPU上移除。",
+      "title": "虽然亚马逊阻止人工智能代理，但沃尔玛推出了欢迎垫",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "由于亚马逊阻止人工智能代理在其网站上购物，沃尔玛采取了相反的方法，引入了新技术，允许人工智能代理代表客户进行购买，并控制……",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Meta的Muse在40天内在美国下载量达到1000万次，这是其他11个应用程序达到的里程碑",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "Meta的人工智能伴侣Muse在前40天内已超过1000万次美国下载，加入了包括Threads在内的独家应用程序组。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "对话式双子座导航应用于Apple CarPlay",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "summary": "在去年将其Gemini AI助手引入Android Auto之后， Google现在将其带给Apple CarPlay用户。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Otter.ai从General Catalyst的增长基金为其会议工具筹集了3.2亿美元$",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "会议记录工具Otter.ai周二宣布，它已从General Catalyst的客户价值基金（ CVF ）筹集了3.2亿美元（ $ ） ，该基金为初创公司提供资金，而不会稀释股权和……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "link": "https://www.qbitai.com/2026/10/504551.html",
+      "summary": "紧接着Power Day电动技术发布会上，理想正式发布连山电动技术体系，集中披露其在电池、电机、电控、碳化硅功率芯片以及超充网络方面的研发成果。5C磷酸铁锂电芯，能量密度比2C电芯反而更高；冬季电池峰值功率提升40%以上；自研碳化硅功率芯片累计装车400万颗，理想称至今保持零失效纪录。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "TechCrunch创始人峰会2026 ：您需要了解的一切",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行一整天的聚会，所有阶段的创始人都将与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建设和......的战术见解",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "在红杉领先C系列后，铁匠达到独角兽估值",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "summary": "Blacksmith是一个让公司更有效地构建和测试人工智能代码的平台，刚刚宣布了由红杉领导的6600万美元C轮融资，该公司的估值为10亿美元。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "Anthropic的云合作伙伴关系变得混乱",
       "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "summary": "据报道， Anthropic正在努力从云提供商那里获得足够的计算，这些云提供商越来越多地将其视为竞争对手，尽管其基础设施支出在计划于11月进行的IPO之前激增……",
@@ -58,25 +76,25 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "summary": "市长Zohran Mamdani周一晚间表示，纽约人必须抵制人工智能收购不可避免的说法，并要求保护公众并将权力交还给他们的监管。",
+      "num": 9,
+      "title": "前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”",
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "summary": "这是每个人都在等待的时刻—机器人的ChatGPT时刻， Amulya Vishwanath向TechCrunch的Equity解释说。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "CoreWeave的债务正在成为整个人工智能行业的问题",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "summary": "CoreWeave上周表现不佳。根据一个共同的定义，其债券陷入困境--投资者对收益率的要求比从政府债券中获得的要多1000个基点。",
+      "num": 10,
+      "title": "Anthropic与新的AI特工Claude Duet对抗Muse",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic刚刚宣布了Meta的Muse和OpenAI的Dots: Claude Duet的AI代理竞争对手。",
       "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 11,
       "title": "谷歌更个性化的双子座人工智能正走向您的汽车",
       "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
       "summary": "谷歌正在将个人智能引入您的车中的Gemini AI。",
@@ -85,7 +103,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 12,
       "title": "ChatGPT现在可以锁定您的聊天",
       "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "summary": "该公司表示，该功能专为用户可能正在讨论个人或计划惊喜的情况而设计，并希望在交付设备时保持这些对话的私密性……",
@@ -94,7 +112,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
+      "num": 13,
       "title": "在研究人员在网络上发现人工智能聊天后， Meta暂停Muse共享",
       "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
       "summary": "Meta表示，它暂停了一项Muse功能，根据Ars Technica的报告，在研究人员发现网页上公开的URL后，您可以与人工智能助手分享对话。",
@@ -103,40 +121,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
+      "num": 14,
       "title": "植物可以用电说话，所以这家初创公司建立了一个人工智能模型来破译它们的语言",
       "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
       "summary": "Electric Plant已经建立了一个人工智能驱动的翻译器，帮助人类倾听植物在说什么，微妙的电流穿过它们的茎。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "Eka的价值为14.5亿美元，这要归功于有专家赞叹的物理人工智能模型",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "summary": "Eka Robotics可能是第一个真正善于拾取各种物体的机器人手臂，它如此光滑和人性化，令人惊叹。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "summary": "嵌入式评估员的想法--将所谓的“中立”第三方观察员放置在人工智能组织内部--在过去几个月中得到了普及，因为人工智能实验室正在努力应对……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 15,
-      "title": "JB Pritzker认为人工智能可以帮助我们活到100岁—或者像核武器一样威胁我们",
-      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "summary": "今天，我正在与伊利诺伊州州长JB Pritzker交谈，他对人工智能、技术和隐私有很多想法。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
