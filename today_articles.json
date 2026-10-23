@@ -1,55 +1,82 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T08:02:44.739126+08:00",
-  "total": 14,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T08:03:03.806674+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "Meta表示， Muse拥有超过1000万用户，购物是热门活动",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "该公司在第三季度财报中表示， Meta Muse用户正在采用该应用程序进行购物和提高个人生产力。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "递归推出Flint ，这是一种笔记本电脑编码模型，据称主要由人工智能构建",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "summary": "Startup Recursive发布了Flint ，这是一种免费的笔记本电脑大小的编码模型，主要由其自己的人工智能研究系统构建，作为对自我改进的人工智能的早期测试。",
+      "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "虽然亚马逊阻止人工智能代理，但沃尔玛推出了欢迎垫",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "summary": "由于亚马逊阻止人工智能代理在其网站上购物，沃尔玛采取了相反的方法，引入了新技术，允许人工智能代理代表客户进行购买，并控制……",
+      "title": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI正在向全世界推出其决策模型。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "对话式双子座导航应用于Apple CarPlay",
-      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "summary": "在去年将其Gemini AI助手引入Android Auto之后， Google现在将其带给Apple CarPlay用户。",
-      "source": "AI | The Verge",
+      "title": "Canva发布首个图像生成模型",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "link": "https://www.qbitai.com/2026/10/504551.html",
-      "summary": "紧接着Power Day电动技术发布会上，理想正式发布连山电动技术体系，集中披露其在电池、电机、电控、碳化硅功率芯片以及超充网络方面的研发成果。5C磷酸铁锂电芯，能量密度比2C电芯反而更高；冬季电池峰值功率提升40%以上；自研碳化硅功率芯片累计装车400万颗，理想称至今保持零失效纪录。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Discord现在将Markdown预览格式化为右侧",
+      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "据该公司称，今天发布的Discord最新更新对Markdown预览有了很大的改进：它们现在应该能够正确渲染，而不是使用“一堆符号”。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "如果OpenAI在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "据报道， DeepSeek在美国限制后筹集了150亿美元$",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "据报道， DeepSeek在中国最大的一轮融资中筹集了150 $ ，仅在美国",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Meta希望通过新创建的股票类别为其广泛的人工智能构建付费",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "summary": "这家社交媒体巨头正在计划一项新的股票策略，以帮助其对人工智能模型和服务进行广泛的投资。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "TechCrunch创始人峰会2026 ：您需要了解的一切",
       "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
       "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行一整天的聚会，所有阶段的创始人都将与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建设和......的战术见解",
@@ -58,7 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 10,
       "title": "在红杉领先C系列后，铁匠达到独角兽估值",
       "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
       "summary": "Blacksmith是一个让公司更有效地构建和测试人工智能代码的平台，刚刚宣布了由红杉领导的6600万美元C轮融资，该公司的估值为10亿美元。",
@@ -67,66 +94,48 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Anthropic的云合作伙伴关系变得混乱",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "summary": "据报道， Anthropic正在努力从云提供商那里获得足够的计算，这些云提供商越来越多地将其视为竞争对手，尽管其基础设施支出在计划于11月进行的IPO之前激增……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "summary": "这是每个人都在等待的时刻—机器人的ChatGPT时刻， Amulya Vishwanath向TechCrunch的Equity解释说。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Anthropic与新的AI特工Claude Duet对抗Muse",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic刚刚宣布了Meta的Muse和OpenAI的Dots: Claude Duet的AI代理竞争对手。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "谷歌更个性化的双子座人工智能正走向您的汽车",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "summary": "谷歌正在将个人智能引入您的车中的Gemini AI。",
+      "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta已经调整了其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言，但法律专家表示，这些变化还不足以解决......",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "ChatGPT现在可以锁定您的聊天",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "summary": "该公司表示，该功能专为用户可能正在讨论个人或计划惊喜的情况而设计，并希望在交付设备时保持这些对话的私密性……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "在研究人员在网络上发现人工智能聊天后， Meta暂停Muse共享",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "summary": "Meta表示，它暂停了一项Muse功能，根据Ars Technica的报告，在研究人员发现网页上公开的URL后，您可以与人工智能助手分享对话。",
+      "title": "Meta重新启用Muse共享",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "在安全研究人员报告说公共对话链接很容易找到之后， Meta重新启用了Muse共享。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 14,
-      "title": "植物可以用电说话，所以这家初创公司建立了一个人工智能模型来破译它们的语言",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "Electric Plant已经建立了一个人工智能驱动的翻译器，帮助人类倾听植物在说什么，微妙的电流穿过它们的茎。",
+      "num": 13,
+      "title": "微软的穆斯塔法·苏莱曼（ Mustafa Suleyman ）表示，在追求“医学超级智能”的过程中，其人工智能在困难病例上的表现优于医生",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "根据《科学》杂志的一项研究，微软的新人工智能诊断系统在困难病例上击败了多面手医生。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "优步让所有30,000名员工都加入ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "summary": "这家拼车巨头以前为ChatGPT Work部署了一个规模小得多的试点，但现在正在全公司范围内采用企业代理。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "谁在给OpenAI供应具身数据？",
+      "link": "https://www.qbitai.com/2026/10/504800.html",
+      "summary": "还记得在2020-2021年，壮志未酬的OpenAI机器人团队经历了一轮解散风波，其中反复被提到的现实难题之一，就是训练数据不够。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     }
   ]
