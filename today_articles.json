@@ -1,10 +1,28 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T08:03:03.806674+08:00",
-  "total": 15,
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T08:02:57.430402+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
+      "title": "现在，谷歌表示可能会使用您的Gmail和Google相册数据来定位广告",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "谷歌更新了隐私政策，这意味着如果您使用个性化的人工智能功能，您将开始看到基于个人数据的定向广告。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "在发布商拒绝人工智能抓取后， Meta推迟了新的商业条款",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "summary": "正如Fast Company早些时候报道的那样，在发布商表示担心他们可能允许该公司抓取新闻网站进行人工智能培训之后， Meta正在推迟其新业务条款的执行。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
       "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "summary": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。",
@@ -13,7 +31,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 4,
       "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "summary": "新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。",
@@ -22,29 +40,11 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI正在向全世界推出其决策模型。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
+      "num": 5,
       "title": "Canva发布首个图像生成模型",
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "summary": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
       "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "Discord现在将Markdown预览格式化为右侧",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "summary": "据该公司称，今天发布的Discord最新更新对Markdown预览有了很大的改进：它们现在应该能够正确渲染，而不是使用“一堆符号”。",
-      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
@@ -68,74 +68,47 @@
     },
     {
       "num": 8,
-      "title": "Meta希望通过新创建的股票类别为其广泛的人工智能构建付费",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "summary": "这家社交媒体巨头正在计划一项新的股票策略，以帮助其对人工智能模型和服务进行广泛的投资。",
+      "title": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "TechCrunch创始人峰会2026 ：您需要了解的一切",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行一整天的聚会，所有阶段的创始人都将与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建设和......的战术见解",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "OpenAI现在在没有互联网接入的情况下训练其前沿人工智能模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "在一系列流氓黑客事件发生后， OpenAI现在正在训练其最先进的人工智能模型，而无需访问互联网。",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "在红杉领先C系列后，铁匠达到独角兽估值",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "summary": "Blacksmith是一个让公司更有效地构建和测试人工智能代码的平台，刚刚宣布了由红杉领导的6600万美元C轮融资，该公司的估值为10亿美元。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Jack Dorsey的Block制作了一个人工智能模型，就像一个尴尬的新朋友一样与你交谈",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Jack Dorsey的Block宣布了一个名为Dessa的人工智能模型，该模型“除了人类对话之外，什么都没有从头开始训练” ，为了炫耀这个模型， Block与人类分享了可以...",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta已经调整了其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言，但法律专家表示，这些变化还不足以解决......",
-      "source": "AI | The Verge",
+      "title": "问答：人工智能是如何模拟“混乱”的人类思维的",
+      "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "summary": "生成人工智能模型植根于20世纪中期工程师的想法，他们认为对于一台可以像人类一样思考的机器来说，一定程度的非理性是必不可少的，争论......",
+      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "Meta重新启用Muse共享",
-      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "summary": "在安全研究人员报告说公共对话链接很容易找到之后， Meta重新启用了Muse共享。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "微软的穆斯塔法·苏莱曼（ Mustafa Suleyman ）表示，在追求“医学超级智能”的过程中，其人工智能在困难病例上的表现优于医生",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "summary": "根据《科学》杂志的一项研究，微软的新人工智能诊断系统在困难病例上击败了多面手医生。",
+      "title": "独自一人无事可做，人工智能特工开始玩",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "优步让所有30,000名员工都加入ChatGPT Work",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "summary": "这家拼车巨头以前为ChatGPT Work部署了一个规模小得多的试点，但现在正在全公司范围内采用企业代理。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "谁在给OpenAI供应具身数据？",
-      "link": "https://www.qbitai.com/2026/10/504800.html",
-      "summary": "还记得在2020-2021年，壮志未酬的OpenAI机器人团队经历了一轮解散风波，其中反复被提到的现实难题之一，就是训练数据不够。",
-      "source": "量子位",
-      "lang": "zh",
       "category": "🔬 技术突破/模型"
     }
   ]
