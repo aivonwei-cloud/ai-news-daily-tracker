@@ -1,10 +1,19 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T08:02:57.430402+08:00",
-  "total": 12,
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:01:48.344656+08:00",
+  "total": 9,
   "articles": [
     {
       "num": 1,
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
       "title": "现在，谷歌表示可能会使用您的Gmail和Google相册数据来定位广告",
       "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "summary": "谷歌更新了隐私政策，这意味着如果您使用个性化的人工智能功能，您将开始看到基于个人数据的定向广告。",
@@ -13,7 +22,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 3,
       "title": "在发布商拒绝人工智能抓取后， Meta推迟了新的商业条款",
       "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
       "summary": "正如Fast Company早些时候报道的那样，在发布商表示担心他们可能允许该公司抓取新闻网站进行人工智能培训之后， Meta正在推迟其新业务条款的执行。",
@@ -22,52 +31,25 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "summary": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 4,
-      "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "summary": "新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。",
+      "title": "Block的新声音模型听起来很人性化",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "布洛克说，语音模型可以在MacBook M4 Max上本地运行",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 5,
-      "title": "Canva发布首个图像生成模型",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
+      "title": "被迫选择，格罗克的人工智能模型选择了共和党人。OpenAI挑选民主党人。",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "一项新的研究发现， Grok的人工智能压倒性地推荐了共和党候选人，而OpenAI的GPT则倾向于民主党人，在近500场选举中，有90%以上的人工智能模式存在分歧。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 6,
-      "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "如果OpenAI在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 7,
-      "title": "据报道， DeepSeek在美国限制后筹集了150亿美元$",
-      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "summary": "据报道， DeepSeek在中国最大的一轮融资中筹集了150 $ ，仅在美国",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
       "title": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "summary": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
@@ -76,7 +58,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 7,
       "title": "OpenAI现在在没有互联网接入的情况下训练其前沿人工智能模型",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
       "summary": "在一系列流氓黑客事件发生后， OpenAI现在正在训练其最先进的人工智能模型，而无需访问互联网。",
@@ -85,7 +67,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 8,
       "title": "Jack Dorsey的Block制作了一个人工智能模型，就像一个尴尬的新朋友一样与你交谈",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
       "summary": "Jack Dorsey的Block宣布了一个名为Dessa的人工智能模型，该模型“除了人类对话之外，什么都没有从头开始训练” ，为了炫耀这个模型， Block与人类分享了可以...",
@@ -94,22 +76,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
-      "title": "问答：人工智能是如何模拟“混乱”的人类思维的",
-      "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "summary": "生成人工智能模型植根于20世纪中期工程师的想法，他们认为对于一台可以像人类一样思考的机器来说，一定程度的非理性是必不可少的，争论......",
-      "source": "麻省理工学院新闻-人工智能",
+      "num": 9,
+      "title": "宾夕法尼亚州将要求在人工智能生成的广告上添加标签",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "周四，宾夕法尼亚州州长乔希·夏皮罗（ Josh Shapiro ）签署了《人工智能欺骗性广告法》（ Artificial Intelligence Deceptive Advertising Act ） ，要求披露人工智能生成的广告。",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "独自一人无事可做，人工智能特工开始玩",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     }
   ]
 }
