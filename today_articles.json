@@ -1,10 +1,37 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T08:01:28.924309+08:00",
-  "total": 9,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T08:01:51.280481+08:00",
+  "total": 10,
   "articles": [
     {
       "num": 1,
+      "title": "OpenAI宣布三大科学发现和与学术界合作的新方式",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "在大量发布数百份手稿（据称这些手稿包含了长期存在的数学问题的解决方案）不到一个月后， OpenAI又带回了另外三项“重大”数学发现……",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "RealReal不会让人工智能代理商占用设计师服装",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "二手奢侈品时尚寄售零售商RealReal表示，它正在更新其机器人防御系统，这实际上使人工智能代理商更难在其网站上购物。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "Anthropic的IPO申请揭示了其吸引企业客户的策略",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic的S-1显示，超过一半的$ 100,000 +客户现在同时使用Claude平台和第一方应用程序，这本交叉销售剧本让人想起亚马逊正在制造企业客户……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
       "title": "Grok发布其人工智能生成的“奥德赛”的前七分钟",
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "summary": "只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。",
@@ -13,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 5,
       "title": "您应该了解的最热门的AI可穿戴设备和小工具",
       "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "summary": "我们编制了所有最热门的AI可穿戴设备列表，包括Muse Charm、Bee、Friend、Plaud等。",
@@ -22,67 +49,49 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "r/opensource刚刚禁止了人工智能、非英语人士等",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "summary": "R/opensource的mod发布了新的提交规则，其中包括禁止使用人工智能的项目。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "谷歌的人工智能搜索变革颠覆了在线发布",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "summary": "The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。有关人工智能对网络影响的更多信息，请关注Emma Roth。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
-      "title": "Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "“尽管围绕人工智能进行了大量投资和广泛炒作，但该技术为科技以外的美国企业带来了零财务回报。”",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "人类正在燃烧气体来喂养人工智能热潮",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "在准备上市时， Anthropic的S-1申请使生成式人工智能的甲烷依赖性显而易见。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "Block的新声音模型听起来很人性化",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "summary": "布洛克说，语音模型可以在MacBook M4 Max上本地运行",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Anthropic IPO申请中的五个奇怪细节",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic终于向美国证券交易委员会提交了S-1招股说明书，这是一份旨在让投资者了解其业务范围的文件，从其高管的收入和花费计划……",
+      "source": "AI | The Verge",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "💰 投融资事件"
     },
     {
       "num": 8,
-      "title": "被迫选择，格罗克的人工智能模型选择了共和党人。OpenAI挑选民主党人。",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "一项新的研究发现， Grok的人工智能压倒性地推荐了共和党候选人，而OpenAI的GPT则倾向于民主党人，在近500场选举中，有90%以上的人工智能模式存在分歧。",
+      "title": "SpaceX与阿波罗达成400 $ GPU融资协议",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "summary": "这笔融资为SpaceX提供了另一种方式，为其快速扩张的人工智能雄心提供资金，而不仅仅依靠传统的债务市场。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "💰 投融资事件"
     },
     {
       "num": 9,
-      "title": "宾夕法尼亚州将要求在人工智能生成的广告上添加标签",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "周四，宾夕法尼亚州州长乔希·夏皮罗（ Josh Shapiro ）签署了《人工智能欺骗性广告法》（ Artificial Intelligence Deceptive Advertising Act ） ，要求披露人工智能生成的广告。",
+      "title": "微软向6万名员工提供收购",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "summary": "微软将向美国、英国、加拿大和印度的多达6万名员工提供自愿收购。",
       "source": "AI | The Verge",
       "lang": "en",
-      "category": "📋 政策与监管"
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
+      "title": "Anthropic正式申请公开亮相",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic已正式申请IPO ，揭示了飙升的收入、不断增加的亏损、大型企业的采用以及旨在保护创始人控制权及其人工智能安全的不寻常的治理结构。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
     }
   ]
 }
