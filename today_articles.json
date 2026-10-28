@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T08:01:51.280481+08:00",
-  "total": 10,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T08:03:04.229813+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "OpenAI宣布三大科学发现和与学术界合作的新方式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "summary": "在大量发布数百份手稿（据称这些手稿包含了长期存在的数学问题的解决方案）不到一个月后， OpenAI又带回了另外三项“重大”数学发现……",
+      "title": "Firefox的智能窗口增加了AI表单填写和网页监控功能",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "summary": "Mozilla正在更新智能窗口（ Firefox的人工智能浏览体验） ，其新功能可以帮助您根据打开的标签页填写在线表单。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "RealReal不会让人工智能代理商占用设计师服装",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "summary": "二手奢侈品时尚寄售零售商RealReal表示，它正在更新其机器人防御系统，这实际上使人工智能代理商更难在其网站上购物。",
+      "title": "谷歌的下一个Genie AI模型生成更逼真的体验",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "summary": "谷歌今天宣布推出使用人工智能生成交互式体验的Genie 4世界模型。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Anthropic的IPO申请揭示了其吸引企业客户的策略",
-      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "summary": "Anthropic的S-1显示，超过一半的$ 100,000 +客户现在同时使用Claude平台和第一方应用程序，这本交叉销售剧本让人想起亚马逊正在制造企业客户……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Apple正在为Pages、Keynote和Numbers添加AI聊天机器人",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "summary": "苹果正在将人工智能助手引入其生产力应用程序套件，包括Keynote、Pages和Numbers。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Grok发布其人工智能生成的“奥德赛”的前七分钟",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "summary": "只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。",
+      "title": "日本互联网巨头GMO称黑客发布被盗客户数据",
+      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "summary": "日本的GMO互联网正在核实涉嫌黑客在云服务泄露后发布的涉嫌客户数据。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "您应该了解的最热门的AI可穿戴设备和小工具",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "summary": "我们编制了所有最热门的AI可穿戴设备列表，包括Muse Charm、Bee、Friend、Plaud等。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "link": "https://www.qbitai.com/2026/10/505580.html",
+      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "人类正在燃烧气体来喂养人工智能热潮",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "summary": "在准备上市时， Anthropic的S-1申请使生成式人工智能的甲烷依赖性显而易见。",
-      "source": "AI | The Verge",
+      "title": "General Compute筹集了1亿美元的A轮融资，以对抗新云灾难的叙述",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "summary": "General Compute押注于Nvidia生态系统之外的推理芯片。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
       "num": 7,
-      "title": "Anthropic IPO申请中的五个奇怪细节",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "summary": "Anthropic终于向美国证券交易委员会提交了S-1招股说明书，这是一份旨在让投资者了解其业务范围的文件，从其高管的收入和花费计划……",
+      "title": "人类正在燃烧气体来喂养人工智能热潮",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "在准备上市时， Anthropic的S-1申请使生成式人工智能的甲烷依赖性显而易见。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "💰 投融资事件"
@@ -77,11 +77,11 @@
     },
     {
       "num": 9,
-      "title": "微软向6万名员工提供收购",
-      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "summary": "微软将向美国、英国、加拿大和印度的多达6万名员工提供自愿收购。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "link": "https://www.qbitai.com/2026/10/505551.html",
+      "summary": "Anthropic向微软作出的采购承诺由314亿美元增至449亿美元，对谷歌的采购承诺为1145亿美元；与SpaceXAI签订的算力合同最高金额为1205亿美元。在与宿敌OpenAI的资本竞速中，Anthropic率先撞线，在市场情绪并不友好的时刻强行冲刺，有望成为美股历史上第一家血统纯正的前沿大模型上市公司。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "💰 投融资事件"
     },
     {
@@ -92,6 +92,51 @@
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
+    },
+    {
+      "num": 11,
+      "title": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "研究人员厌倦了OpenAI的突破",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "summary": "周一， OpenAI宣布了数学、计算机科学和物理学领域令人印象深刻的突破，以及该公司所说的不断发展的沟通方法。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "前沿人工智能实验室表示，他们的模型驳斥了指数时间假说。这是什么意思？",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "TechCrunch采访了负责解释OpenAI最新发现的麻省理工学院计算机科学家。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "谷歌的Genie 4世界模型增加了音频、更逼真的世界和实时转向",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "summary": "精灵4可以保持一致的场景长达两分钟，精灵3的限制增加一倍，并提供更好的物理和更人性化的角色。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "Opera引入了新的网络标准，允许用户在浏览器中本地部署AI",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "summary": "新标准WebAI旨在与各种AI模型配合使用。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
     }
   ]
 }
