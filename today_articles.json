@@ -1,55 +1,91 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T08:03:25.079505+08:00",
-  "total": 12,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T08:03:17.859082+08:00",
+  "total": 16,
   "articles": [
     {
       "num": 1,
-      "title": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "summary": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "苹果智能终于借助iOS 27.3登陆中国",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "summary": "该应用程序可以连接到Instagram ，根据您已分享的照片构建虚拟衣柜，也可以通过拍摄照片、录制快速视频或上传图片来手动添加物品……",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "人工智能领域的大牌企业正在支持一种新的方式来选择退出",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "summary": "OpenAI、谷歌、微软和Anthropic表示，正如搜索引擎圆桌会议（ Search Engine Roundtable ）早些时候报道的那样，他们将采用一种新标准，发布商可以使用该标准来选择不被人工智能抓取。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Granola推出听写功能，与Wispr展开竞争",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "教皇利奥呼吁解除人工智能： “机器是工具，不是人”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "教皇利奥十四世表示，人工智能系统应该“解除武装” ，并补充说，人类“有责任指导、改变并在必要时拒绝其应用。“在星期五的教皇讲话中，教皇利奥·恩科……",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Mistral发布针对网络安全的万亿参数AI模型的权重",
-      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "维基百科的运营商表示，糟糕的人工智能版权裁决可能会威胁到开放的网络",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "summary": "维基媒体基金会正在一组具有里程碑意义的人工智能版权案件中寻找中间立场，推动法院依法保护大型语言模型（ LLM ）关于受版权保护作品的培训--但没有……",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "DREAM以真实的物理和建筑标准为基础。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "link": "https://www.qbitai.com/2026/10/506743.html",
+      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone的预测只是一个预测，但自然，高垃圾评级将使Anthropic更难以筹集资金来继续为其庞大的支出提供资金。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "人工智能支出热潮中正在出现裂缝",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "大型科技公司正在向人工智能基础设施投入数十亿美元，但越来越多的债务、负现金流和越来越多的投资者怀疑正在引发人们对人工智能支出热潮的可持续性的质疑。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Theranos举报人泰勒·舒尔茨（ Tyler Shultz ）警告说，人工智能热潮是“欺骗人们的绝佳机会”",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "summary": "Theranos的警示故事在人工智能时代具有新的意义，当时从未盈利的公司正在以万亿美元的估值筹集资金。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "硅谷希望您投资奇迹",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "summary": "投资任何股票有点像赌博，因为你把钱押在公司未来的表现上。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
       "title": "OpenAI支持的Thrive Holdings收购ADT",
       "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "summary": "OpenAI支持的Thrive Holdings将以153亿美元的价格收购ADT ，并计划将AI引入家庭安全业务。",
@@ -58,58 +94,58 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Deepgram收购Pipecat制造商Daily ，以加强其语音人工智能基础设施",
-      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "summary": "借助Pipecat ， Deepgram可能会更深入地了解实时语音和视频基础设施。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "link": "https://www.qbitai.com/2026/10/506281.html",
-      "summary": "10月29日，文远知行（NASDAQ: WRD，HKEX: 0800）披露旗下子公司景烁科技首次融资进展，景烁科技目前已获嘉御资本、HKSTP香港科技园、天狼星资本等资方数千万美元的pre-A轮共同投资。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
-      "title": "Anthropic要求华尔街相信AGI",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "summary": "今天在Decoder上，我与芯片和人工智能研究公司SemiAnalysis的分析师Joey Brookhart一起，帮助我深入了解Anthropic首次公开募股申请的数量—一个文件...",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "link": "https://www.qbitai.com/2026/10/506227.html",
-      "summary": "两周前谷歌刚发Gemini 4 Argon时，硅谷还在热议谷歌内部泄露的一个神秘存档点“Carbon”，当时内部工程师给出的评价还是“编程体感逼近Opus 5.5”。没想到短短半个月，正式版Carbon不仅在智商与长程编程上完成了对Opus 5.5的正面反超，更在代码安全与防作弊上大幅领先。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "麻省理工学院附属机构命名为2026 Schmidt Sciences AI2050 Fellows",
+      "link": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+      "summary": "麻省理工学院的五名教职员工和另外两名校友最近被提名为2026年AI2050研究员。",
+      "source": "麻省理工学院新闻-人工智能",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "Akai正在使用开源MPC拥抱氛围编码的模组",
-      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "summary": "MPC示例密钥看起来像MPC示例，只是使用密钥而不是焊盘。",
+      "title": "谷歌的第一颗数据中心卫星在线并撰写诗歌",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "summary": "太空中的第一个TPU正在运行Google DeepMind Gemma 4模型，并撰写俗气的诗歌。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "山姆·奥尔特曼（ Sam Altman ）同情数学家，但表示OpenAI的数学冲击不会停止",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "summary": "OpenAI首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，经过数月的轰炸，数学家获得了源源不断的人工智能结果，他同情那些努力理解这一切的研究人员。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "link": "https://www.qbitai.com/2026/10/506674.html",
+      "summary": "一开始是有人发现，在Azure的模型目录里，短暂出现了一个叫claude-fable-5-5的条目，虽然很快就被删了，但截图已经满天飞了。不过对比下还是看得出来，Fable 5.5确实比Opus 5.5多了很多细节，这也是水桶模型的强势之处吧。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "专注于隐私的人工智能助手Ollie正在关闭",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 16,
+      "title": "英特尔股市崩盘，从政府持股中损失120亿$",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
