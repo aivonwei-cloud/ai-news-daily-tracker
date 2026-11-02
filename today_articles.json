@@ -1,55 +1,37 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T08:02:48.864412+08:00",
-  "total": 16,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T08:01:32.760843+08:00",
+  "total": 6,
   "articles": [
     {
       "num": 1,
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "link": "https://www.qbitai.com/2026/10/506884.html",
-      "summary": "就在最近，博主@mylifcc突然开喷，称苹果的“精准刀法”已经进化到了“不人道（inhumane）”的程度。2024年5月，苹果推出了M4 iPad Pro，256GB和512GB版本统一内存只有8GB，想要16GB，就得直接升级到1TB或2TB版本。",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "link": "https://www.qbitai.com/2026/11/507038.html",
+      "summary": "很快，Anthropic官方也确认了。技术人员说，他们在Opus 5.5模型的系统提示词里加了两句话，引导Claude不要去“重新创建一个属于别人的特定游戏”。一个多月前，强大的Opus 5.5发布，就像打开了游戏克隆的潘多拉魔盒。破解、修改、移植游戏，变得前所未有的简单。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "link": "https://www.qbitai.com/2026/10/506855.html",
-      "summary": "真正的重点，落在了原Max 20x的新Ultra用户上，按照官方刚刚发布的最新说明，Ultra订阅用户可以获得—— 打开Claude的 Settings → Usage，如果发现那个熟悉的5小时使用进度条消失了，那就恭喜，解封成功。",
+      "title": "Jev新成果，再次引爆开源",
+      "link": "https://www.qbitai.com/2026/11/506922.html",
+      "summary": "刚刚，Jev的母公司TypeSafe AI联手Agent工具平台Treg，开源了一款比Clay便宜了85%的找人工具，狂揽6400 Star。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "苹果智能终于借助iOS 27.3登陆中国",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "summary": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "link": "https://www.qbitai.com/2026/10/506904.html",
+      "summary": "要知道，此前不少人还在等DeepSeek推出传闻中的「dsh dot」，结果这次先等来了一篇面向工程实践的架构思路探讨—— 在模拟多任务环境中，Super-agent的任务完成时间中位数为12.4分钟，95分位数为15.7分钟，表现优于测试中的传统单会话方案。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "人工智能领域的大牌企业正在支持一种新的方式来选择退出",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI、谷歌、微软和Anthropic表示，正如搜索引擎圆桌会议（ Search Engine Roundtable ）早些时候报道的那样，他们将采用一种新标准，发布商可以使用该标准来选择不被人工智能抓取。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "教皇利奥呼吁解除人工智能： “机器是工具，不是人”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "summary": "教皇利奥十四世表示，人工智能系统应该“解除武装” ，并补充说，人类“有责任指导、改变并在必要时拒绝其应用。“在星期五的教皇讲话中，教皇利奥·恩科……",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
       "title": "据报道， OpenAI降低了新一轮融资目标",
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "summary": "OpenAI的最新一轮融资似乎没有达到预期。",
@@ -58,94 +40,22 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "summary": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "Blackstone的预测只是一个预测，但自然，高垃圾评级将使Anthropic更难以筹集资金来继续为其庞大的支出提供资金。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "人工智能支出热潮中正在出现裂缝",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "summary": "大型科技公司正在向人工智能基础设施投入数十亿美元，但越来越多的债务、负现金流和越来越多的投资者怀疑正在引发人们对人工智能支出热潮的可持续性的质疑。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Theranos举报人泰勒·舒尔茨（ Tyler Shultz ）警告说，人工智能热潮是“欺骗人们的绝佳机会”",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "summary": "Theranos的警示故事在人工智能时代具有新的意义，当时从未盈利的公司正在以万亿美元的估值筹集资金。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 11,
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "link": "https://www.qbitai.com/2026/10/506866.html",
-      "summary": "它想表达的是：X7 Ultra的确有更高的推理效率，但没有放任量化误差无限扩大，而是要求量化后的模型输出尽可能贴近FP32模型。因为大模型实在太能吃算力、内存和功耗了，把模型权重和计算精度压下来的主要途径，就是减少存储与计算开销。但压得太狠，输出也可能出现偏差。",
+      "num": 5,
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "link": "https://www.qbitai.com/2026/11/507076.html",
+      "summary": "10月31日，西湖世界模型研究中心在云谷校区成立。这个名字也许会让很多人困惑：知道“大语言模型”，但什么是“世界模型”？过去几年里，大语言模型的飞速发展让我们惊叹于它的“博览群书”和“无所不谈”。但能驾驭语言，不等同于理解世界。而世界模型，就是要赋予人工智能“格物致知”的智慧和“见微知著”的洞见——探索物理世界的规律，推演真实世界的运行，从“观世界”走向“世界观” 。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
-      "title": "麻省理工学院附属机构命名为2026 Schmidt Sciences AI2050 Fellows",
-      "link": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
-      "summary": "麻省理工学院的五名教职员工和另外两名校友最近被提名为2026年AI2050研究员。",
-      "source": "麻省理工学院新闻-人工智能",
-      "lang": "en",
+      "num": 6,
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "link": "https://www.qbitai.com/2026/11/507031.html",
+      "summary": "清华大学姚期智和袁洋老师领导的科研团队，搞出了一个重磅项目，叫「代数世界模型」（Algebraic World Model,AWM）。尴尬的是，训练数据容易被污染，很难复原出这样的情景：打造一个完全陌生的世界，让AI从0开始观察和实验。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "谷歌的第一颗数据中心卫星在线并撰写诗歌",
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary": "太空中的第一个TPU正在运行Google DeepMind Gemma 4模型，并撰写俗气的诗歌。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "山姆·奥尔特曼（ Sam Altman ）同情数学家，但表示OpenAI的数学冲击不会停止",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "summary": "OpenAI首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，经过数月的轰炸，数学家获得了源源不断的人工智能结果，他同情那些努力理解这一切的研究人员。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "专注于隐私的人工智能助手Ollie正在关闭",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 16,
-      "title": "英特尔股市崩盘，从政府持股中损失120亿$",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "summary": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
     }
   ]
 }
