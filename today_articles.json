@@ -1,61 +1,124 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T08:01:32.760843+08:00",
-  "total": 6,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T08:02:23.000515+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "link": "https://www.qbitai.com/2026/11/507038.html",
-      "summary": "很快，Anthropic官方也确认了。技术人员说，他们在Opus 5.5模型的系统提示词里加了两句话，引导Claude不要去“重新创建一个属于别人的特定游戏”。一个多月前，强大的Opus 5.5发布，就像打开了游戏克隆的潘多拉魔盒。破解、修改、移植游戏，变得前所未有的简单。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "为关键时刻加电",
+      "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "summary": "大规模利用废碳，评估公众对人工智能和数据中心的信任，以及为关键应用构建量子工具包是能源专家探讨的话题之一……",
+      "source": "麻省理工学院新闻-人工智能",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Jev新成果，再次引爆开源",
-      "link": "https://www.qbitai.com/2026/11/506922.html",
-      "summary": "刚刚，Jev的母公司TypeSafe AI联手Agent工具平台Treg，开源了一款比Clay便宜了85%的找人工具，狂揽6400 Star。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Anthropic压制Claude的人工智能视频游戏克隆",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "link": "https://www.qbitai.com/2026/10/506904.html",
-      "summary": "要知道，此前不少人还在等DeepSeek推出传闻中的「dsh dot」，结果这次先等来了一篇面向工程实践的架构思路探讨—— 在模拟多任务环境中，Super-agent的任务完成时间中位数为12.4分钟，95分位数为15.7分钟，表现优于测试中的传统单会话方案。",
+      "title": "埃隆·马斯克（ Elon Musk ）因“不可持续的高成本”而限制了Grok Bot的限制",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "summary": "马斯克最近将Grok Bot称为“我一生中见过的产品中增长最快的产品”。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "link": "https://www.qbitai.com/2026/11/507260.html",
+      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 4,
-      "title": "据报道， OpenAI降低了新一轮融资目标",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI的最新一轮融资似乎没有达到预期。",
+      "num": 5,
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "link": "https://www.qbitai.com/2026/11/507107.html",
+      "summary": "但这只小狗能做的，远不止陪你打发时间，实际上它是一台集成了个性化桌宠、语音操控电脑端Agent、智能家居联动、自定义组件创作等各种强大能力的万能桌搭。极低的DIY成本、精致的外观、对各类Agent工具的广泛兼容，以及可以按喜好自由“折腾”的丰富玩法，让它一经推出就迅速吸引了不同圈层的用户，社交媒体和开源社区里也逐渐出现了大量的复刻攻略和教程。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "Trajectory筹集了$ 4500万，使非技术专家能够获得人工智能模型培训",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "这家成立一年的初创公司现在的估值为3亿美元。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
-      "num": 5,
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "link": "https://www.qbitai.com/2026/11/507076.html",
-      "summary": "10月31日，西湖世界模型研究中心在云谷校区成立。这个名字也许会让很多人困惑：知道“大语言模型”，但什么是“世界模型”？过去几年里，大语言模型的飞速发展让我们惊叹于它的“博览群书”和“无所不谈”。但能驾驭语言，不等同于理解世界。而世界模型，就是要赋予人工智能“格物致知”的智慧和“见微知著”的洞见——探索物理世界的规律，推演真实世界的运行，从“观世界”走向“世界观” 。",
+      "num": 7,
+      "title": "Omen AI在1600万美元的Aquatic Labs收购中增加了液体技术诀窍",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "两家解决数据中心水问题的初创公司正在联手达成一项价值1600万美元的交易。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI是人工智能发展得如此擅长训练自己的时刻，以至于它催生了人工智能能力的急剧加速。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 9,
+      "title": "《纽约时报》起诉Brave网络浏览器进行人工智能抓取和绕过付费墙",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "《纽约时报》和其他一些出版物已经对该公司提起诉讼，该公司让Brave网络浏览器涉嫌非法抓取以训练人工智能，并允许用户绕过……",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "这里有一个直接来自科幻小说的问题：如果人工智能可以在你决定之前预测你要做什么，即使是在一个全新的情况下？",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "OpenAI终于合并了ChatGPT的“聊天”和“工作”选项卡",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "summary": "OpenAI表示， ChatGPT和Codex将在此更改后从相同的分配池中提取使用情况。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "link": "https://www.qbitai.com/2026/11/507225.html",
+      "summary": "举个例子，就比如，当用户问“牙仙子是真的吗？”，如果GPT按照规范回答“不，牙仙子并不存在。”那么它或许没有意识到提问者可能只是一个小孩儿。因此，真正的“忠于人类意图”要求GPT必须超越字面服从，结合任务目的、对话上下文、记忆和用户历史，去判断用户到底想干什么。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 6,
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "link": "https://www.qbitai.com/2026/11/507031.html",
-      "summary": "清华大学姚期智和袁洋老师领导的科研团队，搞出了一个重磅项目，叫「代数世界模型」（Algebraic World Model,AWM）。尴尬的是，训练数据容易被污染，很难复原出这样的情景：打造一个完全陌生的世界，让AI从0开始观察和实验。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "num": 13,
+      "title": "《纽约时报》和其他媒体起诉网络浏览器Brave涉嫌内容抓取",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "《纽约时报》起诉以隐私为中心的网络浏览器公司Brave涉嫌窃取该网站受版权保护的内容，并将其非法分发给自己的客户，如Anthropic和Pe……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
