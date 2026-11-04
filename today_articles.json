@@ -1,55 +1,82 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T08:02:23.000515+08:00",
-  "total": 13,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T08:03:38.287801+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "为关键时刻加电",
-      "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
-      "summary": "大规模利用废碳，评估公众对人工智能和数据中心的信任，以及为关键应用构建量子工具包是能源专家探讨的话题之一……",
-      "source": "麻省理工学院新闻-人工智能",
+      "title": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Anthropic压制Claude的人工智能视频游戏克隆",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。",
+      "title": "苹果开始授予Siri AI访问第三方应用的权限",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "苹果现在将允许Siri AI跨第三方应用执行操作。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "埃隆·马斯克（ Elon Musk ）因“不可持续的高成本”而限制了Grok Bot的限制",
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "summary": "马斯克最近将Grok Bot称为“我一生中见过的产品中增长最快的产品”。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Apple最新的watchOS测试版包括全新的始终在线音频智能功能",
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "从今天开始， Siri可以通过新推出的watchOS 27.3开发人员测试版中提供的音频智能功能来调节Apple Watch的麦克风。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "link": "https://www.qbitai.com/2026/11/507260.html",
-      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "独立游戏缺少发布日期，因为Steam已备份",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "Food Devils的屏幕截图，它错过了今天的计划发布。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "link": "https://www.qbitai.com/2026/11/507107.html",
-      "summary": "但这只小狗能做的，远不止陪你打发时间，实际上它是一台集成了个性化桌宠、语音操控电脑端Agent、智能家居联动、自定义组件创作等各种强大能力的万能桌搭。极低的DIY成本、精致的外观、对各类Agent工具的广泛兼容，以及可以按喜好自由“折腾”的丰富玩法，让它一经推出就迅速吸引了不同圈层的用户，社交媒体和开源社区里也逐渐出现了大量的复刻攻略和教程。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Netflix将通过新的“AI Discover”选项卡向您显示主题推荐",
+      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "summary": "Netflix的电视应用程序正在获得一个新的“AI Discover”选项卡，该公司将在其中显示实验性的人工智能功能，以帮助您查找要观看的新节目和电影。",
+      "source": "AI | The Verge",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "请不要再问我AI泡沫什么时候会弹出",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "summary": "太平洋投资管理公司（ PIMCO ）首席执行官Emmanuel Roman于2026年11月3日星期二在中国香港举行的全球金融领袖投资峰会上发言。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "随着需求激增，人工智能推理初创公司Fal的估值翻番至160亿美元（ $ 160亿）",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "这家成立五年的初创公司筹集了13亿美元的融资，由Bessemer领投。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "TechCrunch创始人峰会议程仅是11月4日抵达波士顿的一半原因",
+      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "summary": "11月4日， TechCrunch创始人峰会2026将创始人和风险投资家带到波士顿的SoWa电站，以获得实用的见解和联系。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "Trajectory筹集了$ 4500万，使非技术专家能够获得人工智能模型培训",
       "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "summary": "这家成立一年的初创公司现在的估值为3亿美元。",
@@ -58,61 +85,52 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Omen AI在1600万美元的Aquatic Labs收购中增加了液体技术诀窍",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "summary": "两家解决数据中心水问题的初创公司正在联手达成一项价值1600万美元的交易。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "RSI是人工智能发展得如此擅长训练自己的时刻，以至于它催生了人工智能能力的急剧加速。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "《纽约时报》起诉Brave网络浏览器进行人工智能抓取和绕过付费墙",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "summary": "《纽约时报》和其他一些出版物已经对该公司提起诉讼，该公司让Brave网络浏览器涉嫌非法抓取以训练人工智能，并允许用户绕过……",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 10,
-      "title": "42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "summary": "这里有一个直接来自科幻小说的问题：如果人工智能可以在你决定之前预测你要做什么，即使是在一个全新的情况下？",
+      "title": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "OpenAI终于合并了ChatGPT的“聊天”和“工作”选项卡",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "summary": "OpenAI表示， ChatGPT和Codex将在此更改后从相同的分配池中提取使用情况。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "在整个研究基础设施中建立联系",
+      "link": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+      "summary": "运营一个现代化的研究实验室需要的不仅仅是维护复杂的仪器。",
+      "source": "麻省理工学院新闻-人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "link": "https://www.qbitai.com/2026/11/507225.html",
-      "summary": "举个例子，就比如，当用户问“牙仙子是真的吗？”，如果GPT按照规范回答“不，牙仙子并不存在。”那么它或许没有意识到提问者可能只是一个小孩儿。因此，真正的“忠于人类意图”要求GPT必须超越字面服从，结合任务目的、对话上下文、记忆和用户历史，去判断用户到底想干什么。",
+      "title": "OpenAI表示ChatGPT正在搜索中追赶谷歌",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "在许多圈子里， “Ask Chat”已经取代了“Google it” ，这反映在OpenAI的新公告中：通过ChatGPT运行的搜索查询量现在相当于运行量的20% ……",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "link": "https://www.qbitai.com/2026/11/507396.html",
+      "summary": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 13,
+      "num": 14,
+      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+      "link": "https://www.qbitai.com/2026/11/507382.html",
+      "summary": "我们越来越多地使用AI来加速AI的研究和开发，可能导致模型能力的提升速度超过我们开发、验证并实施相应安全、对齐与安保措施的能力。我们内部预判，我们的模型可能即将触达《负责任扩展协议》（Responsible Scaling Policy）所定义的「由AI驱动的大幅加速进展」这一阈值。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
       "title": "《纽约时报》和其他媒体起诉网络浏览器Brave涉嫌内容抓取",
       "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "summary": "《纽约时报》起诉以隐私为中心的网络浏览器公司Brave涉嫌窃取该网站受版权保护的内容，并将其非法分发给自己的客户，如Anthropic和Pe……",
