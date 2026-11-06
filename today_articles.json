@@ -1,55 +1,82 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T08:03:05.223821+08:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T08:03:04.765697+08:00",
   "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "首席执行官没有说公司神秘的人工智能优先设备将在下个月下架",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "summary": "虽然目前尚不清楚这家智能手机初创公司正在酝酿什么样的产品，但Nothing的首席执行官表示，该产品旨在利用人工智能来提高生产力。",
+      "title": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "在下个月推出之前，没有任何东西可以取笑无屏幕的人工智能设备",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "summary": "首席执行官Carl Pei在X上的一篇帖子中表示，该公司将于12月推出其首款人工智能设备。",
+      "title": "Perplexity推出了自己对AI代理工作的看法",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity正在用自己的以工作为重点的人工智能代理来对抗OpenAI和Anthropic。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "link": "https://www.qbitai.com/2026/11/507647.html",
-      "summary": "按照单辆车每天行驶150公里计算，相当于连续行驶超过6600天。即便投入上百辆测试车同时上路，也要耗时两个多月。何况真实道路上的复杂情况，很多时候也不会按照测试计划出现。很长一段时间内，这都是无人驾驶规模化发展面临的一道现实难题。每一次车队运营范围扩大、驾驶系统更新，往往都伴随着大量需要验证的交通场景。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Meta表示，美国用户现在可以与他们的Muse AI头像进行视频聊天",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta的AI代理现在可以在推出旨在让Muse栩栩如生的类似Tamagotchi的可穿戴设备之前，将呼叫作为可定制的动画头像。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-      "link": "https://www.qbitai.com/2026/11/507586.html",
-      "summary": "视频画面中物体位置看上去更高，并不等同于它在真实三维空间里处于更高位置；更换拍摄角度，家具外观发生改变，但它仍是同一个物体；画面内物体发生位移，有可能是物体本身发生移动，也可能仅仅是相机镜头产生转动…… 想要机器人可靠完成现实任务，模型不能仅仅做到“看见物体”，更要读懂三维空间关系、捕捉物体状态变化、研判任务所处阶段。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "OpenAI发布了新的网络安全模型。够了吗？",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "summary": "随着人工智能实验室面临对其保护数字基础设施工作的审查， OpenAI最新的网络安全模型应运而生。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-      "link": "https://www.qbitai.com/2026/11/507567.html",
-      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Claude现在可以使用其新的个人理财工具来分析您的支出",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "借助Claude的个人理财服务，用户可以通过Plaid连接其银行账户和信用卡账户，并询问有关其财务状况的问题。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Meta警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary": "Meta警告说，随着社区对大规模基础设施项目的抵制，对数据中心的政治反对可能会威胁到未来的人工智能投资。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Dropbox以3.5亿美元收购Tigris Data ，以加强其人工智能基础设施",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "这笔交易预计将支持DBX Agent Cloud的开发，这是一个新的存储平台，旨在帮助开发人员构建人工智能模型和代理。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Agility是股票市场上第一家纯人形机器人公司。您正在购买吗？",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "summary": "Agility今天登陆纳斯达克，成为第一家公开上市的纯人形机器人公司。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "Meta收购AI编码初创公司Conductor",
       "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
       "summary": "这家初创公司允许软件工程师部署代理团队，同时处理项目的各个方面。",
@@ -58,25 +85,43 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "随着需求激增，人工智能推理初创公司Fal的估值翻番至160亿美元（ $ 160亿）",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "这家成立五年的初创公司筹集了13亿美元的融资，由Bessemer领投。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "Gemini for Home现已接入AT&T的智能安全系统",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "summary": "AT&T的智能家居安全系统现在与Gemini for Home集成。",
+      "num": 10,
+      "title": "Claude AI可以直接插入您的银行账户",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic为管理您的个人财务提出了一个新的策略：让Claude来代替，使用新的个人财务功能，通过Plaid银行桥接器将其连接到您的银行和卡账户……",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 9,
+      "num": 11,
+      "title": "一家YC初创公司正在为人工智能的5个未解决的材料科学问题提供100万美元（ $ 1M ）",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "summary": "虽然前沿的人工智能模型已经解决了一系列杰出的数学问题，并在生命科学方面取得了进展，但它们还没有真正探索高级材料中的复杂物理学……",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "link": "https://www.qbitai.com/2026/11/507787.html",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "link": "https://www.qbitai.com/2026/11/507675.html",
+      "summary": "年轻研究者由此面临一道难题：企业想要已经做出成果的人，但如果参与核心项目的机会变少了，代表作又该在哪完成？这也让人才竞争有了另一重标准：不只是企业筛选谁已经做出成果，年轻研究者也需要判断，谁能为自己的下一项成果提供条件。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
       "title": "开源人工智能正在蓬勃发展。拥抱的脸解释了谁获利。",
       "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
       "summary": "开源模型正变得越来越主流，因为企业、政府和初创公司都依赖于更低成本、更多控制和更大灵活性的承诺。",
@@ -85,56 +130,11 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
-      "title": "建立在开源人工智能之上？拥抱Face的政策主管，了解成本、风险和权衡",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "summary": "开源模型正变得越来越主流，因为企业、政府和初创公司都依赖于更低成本、更多控制和更大灵活性的承诺。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "ChatGPT现在将为您制作动画GIF",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "summary": "ChatGPT现在可以使用上传到AI聊天机器人的提示或照片创建GIF。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-      "link": "https://www.qbitai.com/2026/11/507574.html",
-      "summary": "以“金融科技枢纽 联通世界 共建未来”为主题的香港金融科技周×StartmeupHK 2026在香港会议展览中心揭幕。作为全栈具身智能大模型公司，超维动力（Kinetix AI）携高动态人形机器人乒乓系统SMASH、全球最高自由度（117 DoF）的超高拟人人形机器人本体KAIBot、超高自由度灵巧手KAI Hand与第一人称数采头环KAI Halo等全栈矩阵登场，为全球的金融科技从业者带来一场别开生面的具身智能科技盛宴。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "在对谷歌人工智能政策的强烈反对中， DuckDuckGo向学校推销自己",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "summary": "DuckDuckGo正在向对谷歌人工智能限制感到沮丧的学校求助，向教育工作者指出其搜索引擎和禁用人工智能功能的选项。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 14,
-      "title": "我试过苹果的Siri回顾。它们令人惊讶地有用—并且有点令人不安",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "summary": "尽管我保留了隐私，但苹果的人工智能Siri Recaps在短短一天内就赢得了我的支持。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
       "num": 15,
-      "title": "谷歌面临计划的强烈反对，该计划将关闭搜索限制人工智能的学校",
-      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "summary": "左翼政客，如纽约市市长Zohran Mamdani和前联邦贸易委员会主席Lina Khan ，指责谷歌充当不受监管的垄断者。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "“彻底否定” ：蓝色浪潮即将击中AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "周二晚上，民主党人控制了众议院和参议院，创造了历史，一股蓝色的浪潮席卷了传统的红色和摇摆州--美国第一位黑人女性政府……",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "📋 政策与监管"
     }
