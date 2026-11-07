@@ -1,55 +1,82 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T08:03:04.765697+08:00",
-  "total": 15,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T08:02:56.051374+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "summary": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 2,
-      "title": "Perplexity推出了自己对AI代理工作的看法",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "summary": "Perplexity正在用自己的以工作为重点的人工智能代理来对抗OpenAI和Anthropic。",
+      "title": "人工智能数据中心的所有最新更新",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "summary": "大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。",
       "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 2,
+      "title": "如何从稀缺数据中预测分子的行为",
+      "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "summary": "发现特定用途的新分子是各种行业进步的主要驱动力，无论是寻找新药的制药公司，还是电子产品或能源公司……",
+      "source": "麻省理工学院新闻-人工智能",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 3,
-      "title": "Meta表示，美国用户现在可以与他们的Muse AI头像进行视频聊天",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "summary": "Meta的AI代理现在可以在推出旨在让Muse栩栩如生的类似Tamagotchi的可穿戴设备之前，将呼叫作为可定制的动画头像。",
+      "title": "数百个公开暴露在网络中的Artex AI黑客工具",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "summary": "安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "OpenAI发布了新的网络安全模型。够了吗？",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "summary": "随着人工智能实验室面临对其保护数字基础设施工作的审查， OpenAI最新的网络安全模型应运而生。",
+      "title": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta的Muse代理继续获得新功能和集成。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Claude现在可以使用其新的个人理财工具来分析您的支出",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "summary": "借助Claude的个人理财服务，用户可以通过Plaid连接其银行账户和信用卡账户，并询问有关其财务状况的问题。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间”",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "summary": "Meta现在允许您在Muse中构建自定义的、类似于应用程序的体验。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "据彭博社报道， OpenAI目前在新一轮融资中的估值为1.25万亿美元，该轮融资又筹集了110亿美元。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "据报道， OpenAI以1.25万亿美元的估值额外筹集了110亿美元",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "据报道，作为一轮融资的一部分， OpenAI又筹集了110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "Meta警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
       "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "summary": "Meta警告说，随着社区对大规模基础设施项目的抵制，对数据中心的政治反对可能会威胁到未来的人工智能投资。",
@@ -58,7 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 10,
       "title": "Dropbox以3.5亿美元收购Tigris Data ，以加强其人工智能基础设施",
       "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "summary": "这笔交易预计将支持DBX Agent Cloud的开发，这是一个新的存储平台，旨在帮助开发人员构建人工智能模型和代理。",
@@ -67,75 +94,39 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Agility是股票市场上第一家纯人形机器人公司。您正在购买吗？",
-      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "summary": "Agility今天登陆纳斯达克，成为第一家公开上市的纯人形机器人公司。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Meta收购AI编码初创公司Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "这家初创公司允许软件工程师部署代理团队，同时处理项目的各个方面。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Claude AI可以直接插入您的银行账户",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "summary": "Anthropic为管理您的个人财务提出了一个新的策略：让Claude来代替，使用新的个人财务功能，通过Plaid银行桥接器将其连接到您的银行和卡账户……",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "一家YC初创公司正在为人工智能的5个未解决的材料科学问题提供100万美元（ $ 1M ）",
-      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "summary": "虽然前沿的人工智能模型已经解决了一系列杰出的数学问题，并在生命科学方面取得了进展，但它们还没有真正探索高级材料中的复杂物理学……",
+      "title": "Underdog在新演示中展示了32MB的语音模型",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "尽管尺寸很小，但Underdog的新模型可以生成语音和音乐。",
       "source": "人工智能新闻与人工智能| TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "link": "https://www.qbitai.com/2026/11/507787.html",
-      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "link": "https://www.qbitai.com/2026/11/508107.html",
+      "summary": "就在被称为「AI安全世界杯」的CyberGym榜单上，360自研AI安全攻防系统图龙锋，以99.4%的漏洞复现成功率登顶，创下该榜单最高纪录。同一张榜单上，与图龙锋同场竞技的，还有OpenAI的GPT-5.5-Cyber、Anthropic的Claude Mythos Preview，以及Google的Gemini 3.8 Flash Cyber。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "link": "https://www.qbitai.com/2026/11/507675.html",
-      "summary": "年轻研究者由此面临一道难题：企业想要已经做出成果的人，但如果参与核心项目的机会变少了，代表作又该在哪完成？这也让人才竞争有了另一重标准：不只是企业筛选谁已经做出成果，年轻研究者也需要判断，谁能为自己的下一项成果提供条件。",
+      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+      "link": "https://www.qbitai.com/2026/11/507967.html",
+      "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 14,
-      "title": "开源人工智能正在蓬勃发展。拥抱的脸解释了谁获利。",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "summary": "开源模型正变得越来越主流，因为企业、政府和初创公司都依赖于更低成本、更多控制和更大灵活性的承诺。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "“彻底否定” ：蓝色浪潮即将击中AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "summary": "周二晚上，民主党人控制了众议院和参议院，创造了历史，一股蓝色的浪潮席卷了传统的红色和摇摆州--美国第一位黑人女性政府……",
-      "source": "AI | The Verge",
-      "lang": "en",
+      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+      "link": "https://www.qbitai.com/2026/11/507919.html",
+      "summary": "这个问题还得赶在选科安排确定前想清楚。不同组合会影响后续可报考的专业范围，也与孩子将来的职业方向有关。它会先了解孩子的学科表现和兴趣，进一步确认家庭的培养目标，再结合教育知识与地区政策，梳理不同选择的要求和准备事项。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "📋 政策与监管"
     }
   ]
