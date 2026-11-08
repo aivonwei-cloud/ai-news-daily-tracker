@@ -1,10 +1,19 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T08:02:56.051374+08:00",
-  "total": 14,
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T08:02:26.190880+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
+      "title": "纽约时报烹饪的AI助手拯救了我的工作夜鸡，但几乎毁了我的蛋糕",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "纽约时报烹饪应用程序现在有一个内置的人工智能助手。",
+      "source": "AI | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
       "title": "人工智能数据中心的所有最新更新",
       "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "summary": "大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。",
@@ -13,7 +22,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
+      "num": 3,
       "title": "如何从稀缺数据中预测分子的行为",
       "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
       "summary": "发现特定用途的新分子是各种行业进步的主要驱动力，无论是寻找新药的制药公司，还是电子产品或能源公司……",
@@ -22,7 +31,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
+      "num": 4,
       "title": "数百个公开暴露在网络中的Artex AI黑客工具",
       "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "summary": "安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具。",
@@ -31,7 +40,7 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 4,
+      "num": 5,
       "title": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
       "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "summary": "Meta的Muse代理继续获得新功能和集成。",
@@ -40,16 +49,16 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 5,
-      "title": "Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间”",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "summary": "Meta现在允许您在Muse中构建自定义的、类似于应用程序的体验。",
-      "source": "AI | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
+      "num": 6,
+      "title": "",
+      "link": "https://www.qbitai.com/2026/11/508236.html",
+      "summary": "时隔三个半月，创办的公司估值从40亿飙至近百亿、放话要做“中国版Cosmos”的浙大00后博士生陈天润，又交卷了。据团队介绍，通过学习这些物理要素及其相互作用，世界模型能够更准确地模拟物体运动、碰撞和环境变化，并为物理仿真等下游任务提供支持。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
     },
     {
-      "num": 6,
+      "num": 7,
       "title": "随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "summary": "据彭博社报道， OpenAI目前在新一轮融资中的估值为1.25万亿美元，该轮融资又筹集了110亿美元。",
@@ -58,7 +67,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 8,
       "title": "据报道， OpenAI以1.25万亿美元的估值额外筹集了110亿美元",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "summary": "据报道，作为一轮融资的一部分， OpenAI又筹集了110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。",
@@ -67,67 +76,49 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "summary": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 9,
-      "title": "Meta警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "summary": "Meta警告说，随着社区对大规模基础设施项目的抵制，对数据中心的政治反对可能会威胁到未来的人工智能投资。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Dropbox以3.5亿美元收购Tigris Data ，以加强其人工智能基础设施",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "summary": "这笔交易预计将支持DBX Agent Cloud的开发，这是一个新的存储平台，旨在帮助开发人员构建人工智能模型和代理。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 11,
-      "title": "Underdog在新演示中展示了32MB的语音模型",
-      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "summary": "尽管尺寸很小，但Underdog的新模型可以生成语音和音乐。",
-      "source": "人工智能新闻与人工智能| TechCrunch",
+      "title": "为什么关于人类自动化人工智能开发的新报告让研究人员感到震惊",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic首席执行官Dario Amodei。|照片： Jason Henry/Bloomberg通过Getty Images Anthropic正在使用AI构建更强大的AI。",
+      "source": "AI | The Verge",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
+      "num": 10,
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "link": "https://www.qbitai.com/2026/11/508244.html",
+      "summary": "就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "link": "https://www.qbitai.com/2026/11/508196.html",
+      "summary": "自动化系统可以省掉这段等待，及时决定下一轮做什么。但训练、计算、保存数据、评估结果，这些步骤仍然需要时间。近期，在斯坦福HAI（以人为本人工智能研究院）与李飞飞的对谈中，Jeff Dean谈到了RSI的限制，也披露了自己的新公司正在做的事情。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
       "num": 12,
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "link": "https://www.qbitai.com/2026/11/508107.html",
-      "summary": "就在被称为「AI安全世界杯」的CyberGym榜单上，360自研AI安全攻防系统图龙锋，以99.4%的漏洞复现成功率登顶，创下该榜单最高纪录。同一张榜单上，与图龙锋同场竞技的，还有OpenAI的GPT-5.5-Cyber、Anthropic的Claude Mythos Preview，以及Google的Gemini 3.8 Flash Cyber。",
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "link": "https://www.qbitai.com/2026/11/508184.html",
+      "summary": "他知道，这会让外界更难核验METR的分析。但在他看来，公开研发提速背后的细节，既涉及商业敏感信息，也可能给其他公司提供一份「加速路线图」。AECI是Anthropic版本的Epoch能力指数，将多项内部、外部基准的成绩综合起来，用于观察模型能力随时间的变化。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-      "link": "https://www.qbitai.com/2026/11/507967.html",
-      "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "Underdog在新演示中展示了32MB的语音模型",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "尽管尺寸很小，但Underdog的新模型可以生成语音和音乐。",
+      "source": "人工智能新闻与人工智能| TechCrunch",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-      "link": "https://www.qbitai.com/2026/11/507919.html",
-      "summary": "这个问题还得赶在选科安排确定前想清楚。不同组合会影响后续可报考的专业范围，也与孩子将来的职业方向有关。它会先了解孩子的学科表现和兴趣，进一步确认家庭的培养目标，再结合教育知识与地区政策，梳理不同选择的要求和准备事项。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "📋 政策与监管"
     }
   ]
 }
