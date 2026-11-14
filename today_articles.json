@@ -1,56 +1,83 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:03:36.306934+08:00",
-  "total": 13,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T08:03:42.612324+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "Google 最新搜索升级承诺为您最复杂的问题提供更好的答案",
-      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "summary": "借助Gemini 4 Hydrogen，Google的AI模式在理解复杂查询、显示相关链接和提供更丰富的视觉响应方面正变得越来越出色。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "亚马逊计划为全球在线购物数据编制索引",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "据路透社报道，亚马逊计划建立一个数据库，储存互联网上任何地方销售的每种产品的数据，甚至包括亚马逊不销售的产品，并通过其自有网站提供这些信息……",
+      "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Nectar推出AI代理，帮助品牌方自动化发现和联系创作者",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "summary": "Nectar 的新一代 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "ChatGPT钱包让OpenAI的Dots代理为您代为购物",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "在今年早些时候推出Dots AI代理平台后，OpenAI将为这些代理推出一个钱包。",
+      "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "黄仁勋的退出使人们对英伟达对开源的支持产生疑问",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "summary": "Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导，因为该公司……",
+      "title": "AI代理初创公司LangChain估值达30亿美元",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain目前声称其模型和平台无关的代理管理工具LangSmith拥有7000名客户。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "研究发现，人工智能聊天机器人正在推荐虚假的零售网站",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "summary": "一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被引导至冒名网站和其他存在风险的网站。",
-      "source": "人工智能 | The Verge",
+      "title": "ChatGPT 的新钱包让 AI 代理为您购物和结账",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "ChatGPT钱包让AI代理能够代表用户购物和结账，该功能将首先在美国有限推出。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Phota Labs使用人工智能将日常照片转变为专业水准的照片",
-      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "summary": "Phota Labs的目的不是要为消费者提供又一款照片编辑工具，而是要利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地将日常时刻转化为更出色的照片……",
+      "title": "ElevenLabs 的新应用程序将团队会议笔记和听写功能相结合",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "Nebius 将计划投入 400 亿美元来测试新云战略手册",
+      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面造成了巨大缺口",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "在黄仁勋的领导下，英伟达向人工智能初创公司投入了数百亿美元。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "summary": "鉴于Nvidia在人工智能领域的强势地位及其在以色列的重要性，该国初创企业生态系统中的许多人对他的离职所带来的影响感到担忧。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "特斯拉和SpaceX最快下月合并",
+      "link": "https://www.qbitai.com/2026/11/509613.html",
+      "summary": "众所周知马斯克野心勃勃，一直想把自己的公司全都合在一起，包括SpaceX、xAI、X、特斯拉、SolarCity…… 由于xAI此前已经收购了社交平台X，所以现在的SpaceX已经是火箭、星舰和Grok、X的合体形态了。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "Nebius计划斥资400亿美元测试新云战略手册",
       "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "summary": "Nebius计划通过客户预付款和贷款为其400亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延迟引发了对其融资模式的质疑。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -58,8 +85,8 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "Hugging Face首席执行官誓言在Jensen Huang退出后继续为开源人工智能而战",
+      "num": 10,
+      "title": "Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而战",
       "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "summary": "在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -67,55 +94,46 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Norwest通过40亿美元的新基金进一步深入人工智能领域",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "summary": "这是该投资公司迄今为止规模最大的基金。",
+      "num": 11,
+      "title": "被禁止出口的英伟达芯片是支撑中国最强大人工智能模型的基础——哎呀，Jensen！",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "一项新研究表明，中国最先进的人工智能模型是在被禁用的Nvidia芯片上训练的。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "link": "https://www.qbitai.com/2026/11/509381.html",
-      "summary": "说实话，一开始，恐怕没人能想到，A社这场曾经史上最大IPO能惨烈到这个地步，以及达里奥·阿莫代伊的头能这么铁。按计划，Anthropic拟以每股70—78美元的价格发行8.25亿股，IPO交易规模最高约643.5亿美元，计划于11月19日在纳斯达克开始交易，股票代码为ANT。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "谷歌的新Gemini模型更擅长理解复杂的问题",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "summary": "Google表示，其全新Gemini 4 Hydrogen模型能够对复杂问题提供更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或非常具体的要求”。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 11,
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "link": "https://www.qbitai.com/2026/11/509440.html",
-      "summary": "此外，像镜子上的水泽和灰尘，闪光灯打在镜头上形成的光晕，这些细节也处理得非常离谱，真就跟小某书首页刷到的一样。即便从仰视角度也能看出不少面部细节，就比如下面这张桌子即ins照片的时尚杂志封面，你仔细看人物的眼神，和微妙的面部肌肉牵引，都是非常符合现实社交逻辑的。",
-      "source": "量子位",
-      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "新的研究可能会带来更快、更可靠的气候预测人工智能模型",
-      "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-      "summary": "准确、及时的气候预测对于制定规划决策至关重要，这些决策有助于增强电网的韧性、保护公众健康、最大限度地提高农业产量等。如今，麻省理工学院的研究人员……",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "link": "https://www.qbitai.com/2026/11/509995.html",
+      "summary": "现任执行副总裁兼 CFO Colette Kress 出任临时 CEO，并继续兼任原有职务，直至正式继任者获任命。作为参照，2025年1月27日，DeepSeek引发市场对AI算力投入的重新评估，英伟达曾单日收跌约17%，市值蒸发约5930亿美元，创下当时美股单家公司单日市值损失纪录。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
-      "link": "https://www.qbitai.com/2026/11/509224.html",
-      "summary": "视频地址：https://mp.weixin.qq.com/s/Rj-T8unLFnHUk6R89rt02Q 刚做完动画，背后的模型转头又扎进虚幻引擎UE5.8，连续干了11小时，搓出一款东方武侠游戏《云岫行》。",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "link": "https://www.qbitai.com/2026/11/509827.html",
+      "summary": "2026年已经走到尾声。回看这一年，AI行业最显著的变化不在榜单上，而在交付现场：模型从回答问题转向执行任务，机器人从春晚跳舞走向产线作业。衡量一套AI的标准，也从参数与跑分，转向系统效能与真实产出。在这个演变进程下，本届大会的第二批嘉宾如约而至，他们将要回答：当AI从模型能力变成可交付的系统，是谁在把它送进真实场景，又是谁在底下为它提供支撑？",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "link": "https://www.qbitai.com/2026/11/509796.html",
+      "summary": "该项研究由中国AI医疗公司“未来医生”与国内顶级三甲医院胸外科团队联合开展，将医疗AI直接放进了临床最考验综合判断的一类场景： 不仅对比GPT-5.4、Claude Opus 4.7、Gemini 3.1 Pro等当前国际主流通用大模型优势明显，人机协作一侧的变化也同样具体。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "link": "https://www.qbitai.com/2026/11/509663.html",
+      "summary": "从底层垂直模型、评测标准到科研工作台，全球头部AI企业在短短半年内，已经将生命科学视作验证AGI与RSI含金量的头号战场之一，纷纷开启全栈布局。一方面，以GPT-Rosalind为代表的海外生信垂域模型高度闭源。更关键的是，这些模型未必能够直接满足国内课题组与药企对本地化部署、数据安全和业务适配的需求；",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
