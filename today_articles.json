@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T08:03:42.612324+08:00",
-  "total": 15,
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T08:02:13.219803+08:00",
+  "total": 10,
   "articles": [
     {
       "num": 1,
-      "title": "亚马逊计划为全球在线购物数据编制索引",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "据路透社报道，亚马逊计划建立一个数据库，储存互联网上任何地方销售的每种产品的数据，甚至包括亚马逊不销售的产品，并通过其自有网站提供这些信息……",
-      "source": "人工智能 | The Verge",
+      "title": "人工智能的坟场：一个不断更新的失败项目和初创公司名单",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的AIGC项目。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "ChatGPT钱包让OpenAI的Dots代理为您代为购物",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "在今年早些时候推出Dots AI代理平台后，OpenAI将为这些代理推出一个钱包。",
+      "title": "解雇萨姆·阿尔特曼的OpenAI董事会成员表示，我们仍然不能信任人工智能公司的首席执行官",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "今天，我将与乔治敦大学安全与新兴技术中心的执行主任Helen Toner进行对话。本期节目是我们“人工智能在现实生活中的应用”系列节目的第二期。",
       "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "AI代理初创公司LangChain估值达30亿美元",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "LangChain目前声称其模型和平台无关的代理管理工具LangSmith拥有7000名客户。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "Jensen Huang与富有远见的表演型创始人兼首席执行官的没落",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "summary": "2025年1月6日，英伟达首席执行官黄仁勋在内华达州拉斯维加斯举行的2025年国际消费类电子产品展览会（CES）上。",
+      "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "ChatGPT 的新钱包让 AI 代理为您购物和结账",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT钱包让AI代理能够代表用户购物和结账，该功能将首先在美国有限推出。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "link": "https://www.qbitai.com/2026/11/510232.html",
+      "summary": "这两年，AI for Science的方式越来越深入，AI已经能自主查文献、用软件，为完成一项分析任务连续做上几小时也不在话下。它需要AI理解实验目标，并从已有知识中挖掘出相关机制，才能更好地帮助研究人员筛选值得进一步探索的研究方向。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "ElevenLabs 的新应用程序将团队会议笔记和听写功能相结合",
-      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "summary": "ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
+      "title": "突发！DeepSeek开放全家桶API",
+      "link": "https://www.qbitai.com/2026/11/510003.html",
+      "summary": "以前大家在DeepSeek App里用得顺手的联网搜索、深度思考搜索、文件上传、链接阅读等功能，现在开发者通过API通通都能直接用上了，而且不必打包使用，它们都有独立接口，支持单独调用、分别计费。DeepSeek还贴心亲自打了个样，直接开源了一套轻量级聊天前端Demo，支持导入DeepSeek历史对话。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面造成了巨大缺口",
+      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
       "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "summary": "在黄仁勋的领导下，英伟达向人工智能初创公司投入了数百亿美元。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -59,7 +59,7 @@
     },
     {
       "num": 7,
-      "title": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
+      "title": "以色列的风险投资机构认为，Nvidia的动荡为挑战者带来了机会",
       "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
       "summary": "鉴于Nvidia在人工智能领域的强势地位及其在以色列的重要性，该国初创企业生态系统中的许多人对他的离职所带来的影响感到担忧。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -68,33 +68,15 @@
     },
     {
       "num": 8,
-      "title": "特斯拉和SpaceX最快下月合并",
-      "link": "https://www.qbitai.com/2026/11/509613.html",
-      "summary": "众所周知马斯克野心勃勃，一直想把自己的公司全都合在一起，包括SpaceX、xAI、X、特斯拉、SolarCity…… 由于xAI此前已经收购了社交平台X，所以现在的SpaceX已经是火箭、星舰和Grok、X的合体形态了。",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "link": "https://www.qbitai.com/2026/11/510094.html",
+      "summary": "国家数据局数据显示，我国日均词元调用量从2024年初的1000亿增至2025年底的100万亿，2026年3月突破140万亿，两年增长千倍；中国信通院披露，到2026年6月，相关指标已突破500万亿。需求暴涨的情绪很快传导到了算力供给端。模型不断进化，Agent逐渐承担复杂任务，Token需求激增，算力基础设施也跟着加速扩张。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 9,
-      "title": "Nebius计划斥资400亿美元测试新云战略手册",
-      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "summary": "Nebius计划通过客户预付款和贷款为其400亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延迟引发了对其融资模式的质疑。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而战",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "summary": "在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 11,
       "title": "被禁止出口的英伟达芯片是支撑中国最强大人工智能模型的基础——哎呀，Jensen！",
       "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "summary": "一项新研究表明，中国最先进的人工智能模型是在被禁用的Nvidia芯片上训练的。",
@@ -103,40 +85,13 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 12,
-      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-      "link": "https://www.qbitai.com/2026/11/509995.html",
-      "summary": "现任执行副总裁兼 CFO Colette Kress 出任临时 CEO，并继续兼任原有职务，直至正式继任者获任命。作为参照，2025年1月27日，DeepSeek引发市场对AI算力投入的重新评估，英伟达曾单日收跌约17%，市值蒸发约5930亿美元，创下当时美股单家公司单日市值损失纪录。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-      "link": "https://www.qbitai.com/2026/11/509827.html",
-      "summary": "2026年已经走到尾声。回看这一年，AI行业最显著的变化不在榜单上，而在交付现场：模型从回答问题转向执行任务，机器人从春晚跳舞走向产线作业。衡量一套AI的标准，也从参数与跑分，转向系统效能与真实产出。在这个演变进程下，本届大会的第二批嘉宾如约而至，他们将要回答：当AI从模型能力变成可交付的系统，是谁在把它送进真实场景，又是谁在底下为它提供支撑？",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-      "link": "https://www.qbitai.com/2026/11/509796.html",
-      "summary": "该项研究由中国AI医疗公司“未来医生”与国内顶级三甲医院胸外科团队联合开展，将医疗AI直接放进了临床最考验综合判断的一类场景： 不仅对比GPT-5.4、Claude Opus 4.7、Gemini 3.1 Pro等当前国际主流通用大模型优势明显，人机协作一侧的变化也同样具体。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-      "link": "https://www.qbitai.com/2026/11/509663.html",
-      "summary": "从底层垂直模型、评测标准到科研工作台，全球头部AI企业在短短半年内，已经将生命科学视作验证AGI与RSI含金量的头号战场之一，纷纷开启全栈布局。一方面，以GPT-Rosalind为代表的海外生信垂域模型高度闭源。更关键的是，这些模型未必能够直接满足国内课题组与药企对本地化部署、数据安全和业务适配的需求；",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
+      "num": 10,
+      "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职的反应",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "一些政府已采取行动，确认芯片供应承诺，而另一些政府则在监测对本地项目的影响或处理正在进行的调查。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
