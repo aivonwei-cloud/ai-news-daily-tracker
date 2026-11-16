@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T08:02:13.219803+08:00",
-  "total": 10,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T08:01:39.368309+08:00",
+  "total": 4,
   "articles": [
     {
       "num": 1,
       "title": "人工智能的坟场：一个不断更新的失败项目和初创公司名单",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的AIGC项目。",
+      "summary": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的AI项目。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
@@ -23,72 +23,18 @@
     },
     {
       "num": 3,
-      "title": "Jensen Huang与富有远见的表演型创始人兼首席执行官的没落",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "2025年1月6日，英伟达首席执行官黄仁勋在内华达州拉斯维加斯举行的2025年国际消费类电子产品展览会（CES）上。",
-      "source": "人工智能 | The Verge",
+      "title": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi表示，其支持人工智能的传感器技术已获得多家公司（包括通用原子公司）的设计定案。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "💰 投融资事件"
     },
     {
       "num": 4,
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "link": "https://www.qbitai.com/2026/11/510232.html",
-      "summary": "这两年，AI for Science的方式越来越深入，AI已经能自主查文献、用软件，为完成一项分析任务连续做上几小时也不在话下。它需要AI理解实验目标，并从已有知识中挖掘出相关机制，才能更好地帮助研究人员筛选值得进一步探索的研究方向。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "突发！DeepSeek开放全家桶API",
-      "link": "https://www.qbitai.com/2026/11/510003.html",
-      "summary": "以前大家在DeepSeek App里用得顺手的联网搜索、深度思考搜索、文件上传、链接阅读等功能，现在开发者通过API通通都能直接用上了，而且不必打包使用，它们都有独立接口，支持单独调用、分别计费。DeepSeek还贴心亲自打了个样，直接开源了一套轻量级聊天前端Demo，支持导入DeepSeek历史对话。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 6,
-      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "在黄仁勋的领导下，英伟达向人工智能初创公司投入了数百亿美元。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 7,
-      "title": "以色列的风险投资机构认为，Nvidia的动荡为挑战者带来了机会",
-      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "summary": "鉴于Nvidia在人工智能领域的强势地位及其在以色列的重要性，该国初创企业生态系统中的许多人对他的离职所带来的影响感到担忧。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "link": "https://www.qbitai.com/2026/11/510094.html",
-      "summary": "国家数据局数据显示，我国日均词元调用量从2024年初的1000亿增至2025年底的100万亿，2026年3月突破140万亿，两年增长千倍；中国信通院披露，到2026年6月，相关指标已突破500万亿。需求暴涨的情绪很快传导到了算力供给端。模型不断进化，Agent逐渐承担复杂任务，Token需求激增，算力基础设施也跟着加速扩张。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 9,
-      "title": "被禁止出口的英伟达芯片是支撑中国最强大人工智能模型的基础——哎呀，Jensen！",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "一项新研究表明，中国最先进的人工智能模型是在被禁用的Nvidia芯片上训练的。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 10,
       "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职的反应",
       "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "一些政府已采取行动，确认芯片供应承诺，而另一些政府则在监测对本地项目的影响或处理正在进行的调查。",
+      "summary": "一些政府已采取行动，确认芯片供应承诺，而另一些政府则正在监测对本地项目的影响，或处理正在进行的调查。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
