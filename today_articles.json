@@ -1,40 +1,121 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T08:01:39.368309+08:00",
-  "total": 4,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T08:03:06.726080+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "人工智能的坟场：一个不断更新的失败项目和初创公司名单",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的AI项目。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "苹果正在测试更复杂Siri人工智能交互的每日使用限制",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "summary": "苹果公司今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3的测试版，该公司正在利用此次更新来测试某些Siri AI和Apple Intelligence功能的每日使用限制（按设备）。",
+      "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "解雇萨姆·阿尔特曼的OpenAI董事会成员表示，我们仍然不能信任人工智能公司的首席执行官",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "summary": "今天，我将与乔治敦大学安全与新兴技术中心的执行主任Helen Toner进行对话。本期节目是我们“人工智能在现实生活中的应用”系列节目的第二期。",
+      "title": "OpenAI 希望阻止深度伪造视频淹没儿童虐待举报热线",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "summary": "OpenAI宣布推出一款工具，声称该工具将帮助儿童性虐待调查人员排除干扰，找到他们可以迅速采取行动的有害材料。",
       "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
+      "title": "美国联邦调查局表示，Artex AI开源黑客工具被用于在“不到三小时”内入侵网络",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "summary": "美国联邦调查局（FBI）表示，这款开源黑客工具被用于针对美国的一起网络攻击。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "OpenAI发布新的图像分类器和ChatGPT警告，以打击CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "summary": "作为警告，ChatGPT 将禁止试图访问 CSAM 内容的账户 24 小时。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "Audible 正在努力让您更容易找到真正喜欢的有声读物",
+      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "summary": "以下是 Audible 应用中全新音频发现功能的样子。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "link": "https://www.qbitai.com/2026/11/510493.html",
+      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+      "link": "https://www.qbitai.com/2026/11/510416.html",
+      "summary": "这是下一代AI留给芯片产业的一个时间差：模型可以快速迭代，一颗芯片从定义到量产，却要经历漫长的工程周期。等计算需求完全定型再出发，可能已经晚了一步。这家由著名人工智能专家朱松纯教授发起、北京通用人工智能研究院孵化的公司，成立于今年4月。短短半年，该公司已经连续完成种子轮和天使轮融资，合计数亿元，资金将主要投入流片前的核心架构设计与研发。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
       "title": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi表示，其支持人工智能的传感器技术已获得多家公司（包括通用原子公司）的设计定案。",
+      "summary": "Bharat Semi表示，其支持人工智能的传感器技术已获得多家公司的设计认可，其中包括通用原子能公司。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
-      "num": 4,
-      "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职的反应",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "一些政府已采取行动，确认芯片供应承诺，而另一些政府则正在监测对本地项目的影响，或处理正在进行的调查。",
+      "num": 9,
+      "title": "美国的数据中心现在消耗的电力比一个中等规模的国家还要多",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "summary": "《自然-可持续性》期刊上发表的一篇新论文显示，化石燃料仍然是美国超大规模数据中心最大的电力来源。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 10,
+      "title": "OpenAI将聘用安全研究人员来调查人工智能颠覆行为",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "summary": "OpenAI将嵌入六名Apollo Research评估员，以调查其人工智能模型是否从事颠覆性行为，但对访问和披露的限制引发了对其独立性的质疑。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "link": "https://www.qbitai.com/2026/11/510526.html",
+      "summary": "2026年，AI正在发生一些过去只出现在论文里的转折。它开始走出对话框，进入工厂、医院和家庭；从回答问题走向科学发现，从被人类改进走向参与自身的迭代，从数字世界迈向更广阔的现实世界。于是，很多人把这一年称作AI的“下半场”，认为故事主线已基本展开，剩下的交给定义与兑现。「甲子光年」的判断与此不同。我们相信，2026只是AI“第二序章”的起点，真正精彩的故事尚待你我共同探索。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+      "link": "https://www.qbitai.com/2026/11/510369.html",
+      "summary": "减少计算步骤可以缩短生成时间，但也可能引入误差累积；保留完整计算过程能够维持生成质量，却需要承担更高的算力与显存开销。当视频生成从单次体验进入批量生产，问题不再只是模型能否生成视频，而是如何在生成质量、推理时延与资源成本之间取得平衡。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "特朗普表示，Nvidia前首席执行官黄仁勋与一名疑似中国间谍的婚外情并未危及国家安全。",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "summary": "特朗普与自己政府的情报官员的说法相左，据报道，这些情报官员的结论是爱丽丝·黄是一名中国间谍。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
