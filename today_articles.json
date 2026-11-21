@@ -1,55 +1,82 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T08:03:31.378343+08:00",
-  "total": 14,
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T08:03:41.660684+08:00",
+  "total": 15,
   "articles": [
     {
       "num": 1,
-      "title": "苹果正在招聘工程师，以打造自己的AI代理",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "苹果正在开发自己的AI代理，它可以为您执行一系列任务，包括浏览网页、跨应用程序工作、编写代码和调用服务。",
+      "title": "特朗普威胁对将人工智能数据中心迁至美国境外征收“巨额税款”",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "唐纳德·特朗普总统承诺，对在美国境外建设数据中心的公司征收“巨额税款”，即使美国各地州和城市正在对新的应用程序施加限制……",
       "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Meta的新款Muse Charm设备售价可能为300美元",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "summary": "Meta并未否认The Information的报道，只是表示很快将“有更多信息要分享”有关其即将推出的AI可穿戴设备。",
+      "title": "英伟达黄仁勋丑闻的影响仍在持续",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "summary": "在应对罢免首席执行官黄仁勋所带来的影响之际，英伟达本周发布了最新的财报，显示出稳健的增长态势，并承诺美好势头将持续下去。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "谷歌正在将AI聊天功能直接置于主页上",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary": "Google 正在更新其主页，以纳入 AI 搜索。",
-      "source": "人工智能 | The Verge",
+      "title": "六款由人工智能驱动的小工具，让您的居家办公更智能化",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "summary": "从笔记工具到网络摄像头，以下是六款由人工智能驱动的小工具，可助您升级工作空间。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Mac 版 Gemini 现在可以使用您的电脑了",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "谷歌的macOS版Gemini应用现在具备了电脑使用功能，这意味着它可以帮助您“跨本地文件、桌面应用和网页完成多步任务”，该公司表示。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "link": "https://www.qbitai.com/2026/11/511610.html",
+      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "Google让Gemini能够代您使用Mac",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "summary": "Google 对 Gemini 的最新更新为 Mac 带来了 AI 代理，它可以整理文件、填写表单并处理多步工作流程。",
+      "title": "苹果可能正在开发自己的AI代理来运行您的Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "这家iPhone制造商似乎正在打造能够与Meta Muse、Instinct、Claude和OpenAI Dots等产品竞争的智能体。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "芯片可以在太空环境中存活——它们的融资能否做到？",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "summary": "贷款人不想让SpaceX把他们的抵押品送入轨道。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Anthropic 的数学家声称已借助 Claude 解决了著名的千年大奖难题",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic 于 2026 年 11 月 19 日上市。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "按照上调后的83美元/股IPO价格，Anthropic的七位创始人每人赚取了2.8亿美元，而公司则获得了近1050亿美元。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
       "title": "Anthropic的IPO可能为慈善事业带来1560亿美元",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "summary": "当股价为95美元时，Frontier Lab的公益基金会、员工捐款以及公司的配捐总额高达1560亿美元。",
@@ -58,7 +85,7 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
+      "num": 10,
       "title": "Anthropic在纳斯达克交易所上市，股价为111美元，比IPO价格高出33%",
       "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
       "summary": "Anthropic的IPO价格定为83美元，这意味着将筹集超过800亿美元的新资本。",
@@ -67,64 +94,46 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "Anthropic开始在华尔街交易",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "summary": "Anthropic首席执行官Dario Amodei在公司上市前于纳斯达克发表讲话。|照片：Michael Nagle /彭博社，由Getty Images提供Anthropic已正式上市。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Anthropic的IPO将对人工智能的循环融资热潮进行考验",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "summary": "Anthropic在上市之际面临着巨大的计算承诺，但即使Anthropic失去领先地位，其最大的基础设施合作伙伴（包括亚马逊和谷歌）仍可继续从人工智能中获利。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "随着有史以来规模最大的IPO即将到来，Anthropic的“好人”声誉岌岌可危",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "summary": "今天是 Anthropic 的新起点：经过多年筹备的 IPO 成功超越 SpaceX，成为有史以来市值最高的公司，筹集了 813 亿美元，并为其他上市公司树立了重要先例……",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
       "num": 11,
-      "title": "人工智能帮助研究人员调查数千项医学研究如何共享代码",
-      "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
-      "summary": "支撑研究的数据和代码可以告诉我们实际做了什么以及是如何做的。例如，在医学研究中，是如何选择纳入患者的？如何处理缺失值？",
+      "title": "问答：在多模态基础模型中实现更像人类的互动和理解",
+      "link": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+      "summary": "人类通过感官信息来体验世界并与世界互动。",
       "source": "麻省理工学院新闻 - 人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "现在，ChatGPT 可以使用实时听写功能为您转录语音",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "summary": "现在，ChatGPT 可以通过实时听写功能更快地接收来自麦克风的语音提示，该功能会在您说话时进行转录，而不是等到您录制完毕。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "研究揭示数据中心对空气质量的远距离损害",
-      "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-      "summary": "根据一项最新研究，人工智能数据中心的快速扩张对远离实体设施所在地区的健康和空气质量造成了负面影响。",
+      "title": "新方法实现了混沌系统在物理上一致的AI模型",
+      "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "summary": "近年来，对天气和气候模式以及航空或洋流中湍流等复杂、混沌过程的建模取得了巨大进展。",
       "source": "麻省理工学院新闻 - 人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
+      "num": 13,
+      "title": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Spotify创始人丹尼尔·埃克（Daniel Ek）正在为Europa Fusion提供支持，这是一家由人工智能研究员创立的聚变能初创公司。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
       "num": 14,
-      "title": "这款超轻型飞行机器人搭载有自身的传感器和计算机",
-      "link": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
-      "summary": "过去十年间，麻省理工学院的研究人员开发出了具有大黄蜂般速度、敏捷性和耐受性的空中微型机器人，用于精准农业或搜救等任务。",
+      "title": "Signal 正在阻止 Gemini 和 Siri AI 读取您的屏幕",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "iOS 上的 Signal 用户将看到此选项，用于切换阻止截屏和阻止 Siri AI 扫描屏幕内容。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 15,
+      "title": "人工智能帮助研究人员调查数千项医学研究如何共享代码",
+      "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "summary": "支撑研究的数据和代码可以告诉我们实际做了什么以及是如何做的。例如，在医学研究中，是如何选择纳入患者的？如何处理缺失值？",
       "source": "麻省理工学院新闻 - 人工智能",
       "lang": "en",
       "category": "🔬 技术突破/模型"
