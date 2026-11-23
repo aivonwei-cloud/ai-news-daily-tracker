@@ -1,142 +1,70 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T08:03:41.660684+08:00",
-  "total": 15,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T08:02:00.260474+08:00",
+  "total": 7,
   "articles": [
     {
       "num": 1,
-      "title": "特朗普威胁对将人工智能数据中心迁至美国境外征收“巨额税款”",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "唐纳德·特朗普总统承诺，对在美国境外建设数据中心的公司征收“巨额税款”，即使美国各地州和城市正在对新的应用程序施加限制……",
+      "title": "振动编码革命即将席卷所有小工具",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "本期是《The Stepback》，这是一份每周通讯，深入剖析科技界的一则重要新闻。如需了解更多关于“一切皆可氛围黑客”的内容，请关注David Pierce。",
       "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "英伟达黄仁勋丑闻的影响仍在持续",
-      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "summary": "在应对罢免首席执行官黄仁勋所带来的影响之际，英伟达本周发布了最新的财报，显示出稳健的增长态势，并承诺美好势头将持续下去。",
+      "title": "Signal限制移动端截屏，以应对人工智能监控的“生存威胁”",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal 正在限制用户在其 Android 和 iOS 应用中进行截屏的能力。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "六款由人工智能驱动的小工具，让您的居家办公更智能化",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "summary": "从笔记工具到网络摄像头，以下是六款由人工智能驱动的小工具，可助您升级工作空间。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "title": "Anthropic 是否有能力将安全放在首位？",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "今天，我将与The Verge的高级人工智能记者Hayden Field聊聊Anthropic的IPO，这是我们关于人工智能在现实生活中的系列节目的第三期，也是最后一期。",
+      "source": "人工智能 | The Verge",
       "lang": "en",
-      "category": "🆕 新产品/工具"
+      "category": "💰 投融资事件"
     },
     {
       "num": 4,
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-      "link": "https://www.qbitai.com/2026/11/511610.html",
-      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "link": "https://www.qbitai.com/2026/11/511904.html",
+      "summary": "Nature最新研究，新加坡国立大学、南京邮电大学造出了一款植入装置，成功让糖尿病大鼠恢复了正常血糖。实验结果来看，二型糖尿病大鼠在植入装置仅仅两周后，血糖就降到了接近健康大鼠的水平；而一型糖尿病大鼠则在治疗八周后恢复正常血糖控制，研究人员甚至观察到了胰岛β细胞的增殖和恢复。",
       "source": "量子位",
       "lang": "zh",
-      "category": "🆕 新产品/工具"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 5,
-      "title": "苹果可能正在开发自己的AI代理来运行您的Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "summary": "这家iPhone制造商似乎正在打造能够与Meta Muse、Instinct、Claude和OpenAI Dots等产品竞争的智能体。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "link": "https://www.qbitai.com/2026/11/511870.html",
+      "summary": "一边是黎曼猜想，关乎素数分布；另一边是Navier–Stokes存在性与光滑性问题，关乎描述水和空气运动的方程，能否一直给出平滑的解。11月20日，Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier–Stokes方程的无外力有限时间爆破。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 6,
-      "title": "芯片可以在太空环境中存活——它们的融资能否做到？",
-      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "summary": "贷款人不想让SpaceX把他们的抵押品送入轨道。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "中国计算，走出新的登峰之路",
+      "link": "https://www.qbitai.com/2026/11/511849.html",
+      "summary": "近日，2026年国际超级计算大会上，中国科学技术大学联合中科院物理所、国家高性能计算机工程技术研究中心完成的铁钼辅因子量子化学计算项目，成功摘得这一高性能计算领域的“诺贝尔奖”。同一时间，中科天机SD3全球公里级气象数值模拟系统入围戈登·贝尔气候建模奖决赛。中国企业团队也首次出现在该奖项决赛名单。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 7,
-      "title": "Anthropic 的数学家声称已借助 Claude 解决了著名的千年大奖难题",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "summary": "Anthropic 于 2026 年 11 月 19 日上市。",
+      "title": "联合国未能就“杀手机器人”的监管规则达成一致",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "本周在日内瓦举行的联合国外交官会议的议程之一是制定有关使用自主武器（即所谓的“杀手机器人”）的规则。最终，代表……",
       "source": "人工智能 | The Verge",
       "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "summary": "按照上调后的83美元/股IPO价格，Anthropic的七位创始人每人赚取了2.8亿美元，而公司则获得了近1050亿美元。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Anthropic的IPO可能为慈善事业带来1560亿美元",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "summary": "当股价为95美元时，Frontier Lab的公益基金会、员工捐款以及公司的配捐总额高达1560亿美元。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "Anthropic在纳斯达克交易所上市，股价为111美元，比IPO价格高出33%",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "Anthropic的IPO价格定为83美元，这意味着将筹集超过800亿美元的新资本。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 11,
-      "title": "问答：在多模态基础模型中实现更像人类的互动和理解",
-      "link": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
-      "summary": "人类通过感官信息来体验世界并与世界互动。",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 12,
-      "title": "新方法实现了混沌系统在物理上一致的AI模型",
-      "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
-      "summary": "近年来，对天气和气候模式以及航空或洋流中湍流等复杂、混沌过程的建模取得了巨大进展。",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "summary": "Spotify创始人丹尼尔·埃克（Daniel Ek）正在为Europa Fusion提供支持，这是一家由人工智能研究员创立的聚变能初创公司。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
-      "title": "Signal 正在阻止 Gemini 和 Siri AI 读取您的屏幕",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "summary": "iOS 上的 Signal 用户将看到此选项，用于切换阻止截屏和阻止 Siri AI 扫描屏幕内容。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 15,
-      "title": "人工智能帮助研究人员调查数千项医学研究如何共享代码",
-      "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
-      "summary": "支撑研究的数据和代码可以告诉我们实际做了什么以及是如何做的。例如，在医学研究中，是如何选择纳入患者的？如何处理缺失值？",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
-      "category": "🔬 技术突破/模型"
+      "category": "📋 政策与监管"
     }
   ]
 }
