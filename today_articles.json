@@ -1,68 +1,131 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T08:02:00.260474+08:00",
-  "total": 7,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T08:03:28.710490+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "振动编码革命即将席卷所有小工具",
-      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "summary": "本期是《The Stepback》，这是一份每周通讯，深入剖析科技界的一则重要新闻。如需了解更多关于“一切皆可氛围黑客”的内容，请关注David Pierce。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 2,
-      "title": "Signal限制移动端截屏，以应对人工智能监控的“生存威胁”",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "summary": "Signal 正在限制用户在其 Android 和 iOS 应用中进行截屏的能力。",
+      "title": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "随着人工智能生成的代码不断累积，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 3,
-      "title": "Anthropic 是否有能力将安全放在首位？",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "今天，我将与The Verge的高级人工智能记者Hayden Field聊聊Anthropic的IPO，这是我们关于人工智能在现实生活中的系列节目的第三期，也是最后一期。",
+      "num": 2,
+      "title": "Claude AI 现在可以自行审核拉取请求并发布修复程序",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "summary": "Anthropic 即将推出一些新的 Claude AI 功能，以帮助软件工程师交付代码。",
       "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "Google搜索的AI模式现可利用Drive和Wallet提供更个性化的回复",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "通过将AI模式下的个人智能引入Drive、Wallet和Gemini应用，Google正在利用其生态系统中已有的丰富用户数据。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "Nothing即将推出的Ear Note是一款搭载AI转录功能的耳机",
+      "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "summary": "Nothing的新款人工智能设备是Ear Note，这是一套耳机及其配备麦克风的充电盒，可以录制和转录对话，并配有用于管理录音、转录……的配套应用程序。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+      "link": "https://www.qbitai.com/2026/11/512004.html",
+      "summary": "规则很简单：研究团队搭建好共享预印本服务器和聊天室，35家人类实验室只负责提供算力、API预算和宽泛的研究方向。结果，12周下来，这近1000个agent一共在平台上发布了936篇研究论文，研究横跨机器学习、太阳物理等多个学科。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 6,
+      "title": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "您认为自己知道市场走向吗？",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "💰 投融资事件"
     },
     {
-      "num": 4,
-      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "link": "https://www.qbitai.com/2026/11/511904.html",
-      "summary": "Nature最新研究，新加坡国立大学、南京邮电大学造出了一款植入装置，成功让糖尿病大鼠恢复了正常血糖。实验结果来看，二型糖尿病大鼠在植入装置仅仅两周后，血糖就降到了接近健康大鼠的水平；而一型糖尿病大鼠则在治疗八周后恢复正常血糖控制，研究人员甚至观察到了胰岛β细胞的增殖和恢复。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 5,
-      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-      "link": "https://www.qbitai.com/2026/11/511870.html",
-      "summary": "一边是黎曼猜想，关乎素数分布；另一边是Navier–Stokes存在性与光滑性问题，关乎描述水和空气运动的方程，能否一直给出平滑的解。11月20日，Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier–Stokes方程的无外力有限时间爆破。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 6,
-      "title": "中国计算，走出新的登峰之路",
-      "link": "https://www.qbitai.com/2026/11/511849.html",
-      "summary": "近日，2026年国际超级计算大会上，中国科学技术大学联合中科院物理所、国家高性能计算机工程技术研究中心完成的铁钼辅因子量子化学计算项目，成功摘得这一高性能计算领域的“诺贝尔奖”。同一时间，中科天机SD3全球公里级气象数值模拟系统入围戈登·贝尔气候建模奖决赛。中国企业团队也首次出现在该奖项决赛名单。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 7,
-      "title": "联合国未能就“杀手机器人”的监管规则达成一致",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "本周在日内瓦举行的联合国外交官会议的议程之一是制定有关使用自主武器（即所谓的“杀手机器人”）的规则。最终，代表……",
-      "source": "人工智能 | The Verge",
+      "title": "亚马逊以75亿美元收购Decart的AI优化技术，为销售Trainium芯片做准备",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "据报道，亚马逊正以75亿美元的交易价格收购Decart的AI优化技术和研究团队。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "随着客户体验领域对人工智能的需求激增，Sierra 的估值在六个月内翻番，达到 300 亿美元",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "summary": "由Salesforce前联席首席执行官Bret Taylor共同创立的企业客户体验公司Sierra周一表示，该公司已在F轮融资中筹集了17.5亿美元。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "Notable Capital、GIC和Baillie Gifford如何在Anthropic上市前对其进行大手笔投资",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "三位重要支持者分享了是什么让他们有信心在Anthropic上押注数十亿美元。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
+      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "link": "https://www.qbitai.com/2026/11/512195.html",
+      "summary": "数据显示，其月活跃用户数（MAU）一度高达2200万。破产时，在公司披露的经营困境中，核心因素之一就是算力成本。但想把大模型真正搬到手机、PC等终端，并没有那么简单。受限于设备的显存、内存带宽、存储和功耗，模型规模越大，越需要解决如何加载、如何调度，以及如何保证实际推理速度的问题。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 11,
+      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+      "link": "https://www.qbitai.com/2026/11/512017.html",
+      "summary": "再算上识别疾病风险的LingSante Pulse、专门给医疗AI回答做安全保镖的LingSante MedGuard…… 举个例子，比如用户说头疼，一般模型可能罗列出一堆可能的疾病（吓鼠了.GIF），但医生式思考就会先问你疼了多久、怎么个疼法，再决定下一步。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 12,
+      "title": "人工智能驱动的技术可以帮助工程师更快、更经济地设计模拟芯片",
+      "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "summary": "麻省理工学院研究人员开发的一种新技术可以帮助工程师利用人工智能来简化模拟集成电路（一种执行各种功能的半导体芯片）的设计和创新……",
+      "source": "麻省理工学院新闻 - 人工智能",
+      "lang": "en",
+      "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 13,
+      "title": "特朗普支持黄仁勋重返英伟达，并表示美国没有证据证明其存在不当行为",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "summary": "特朗普总统周一赞扬了Nvidia让创始人黄仁勋重任公司首席执行官兼总裁的决定，他在社交网络Truth Social上表示：“美国政府没有理由相信黄仁勋重返N…",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
+      "num": 14,
+      "title": "Nvidia 改变方针，让黄仁勋重返首席执行官职位",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "summary": "这一令人震惊的政策逆转得到了美国高级官员的支持。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "📋 政策与监管"
     }
