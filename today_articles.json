@@ -1,55 +1,91 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T08:03:28.710490+08:00",
-  "total": 14,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T08:03:32.160812+08:00",
+  "total": 13,
   "articles": [
     {
       "num": 1,
-      "title": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "summary": "随着人工智能生成的代码不断累积，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。",
+      "title": "Maple筹集530万美元，用于打造能够保护您的数据（甚至免受AI自身侵害）的AI产品",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "该初创公司的加密人工智能架构旨在防止即使是公司本身也无法访问用户的私有数据。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 2,
-      "title": "Claude AI 现在可以自行审核拉取请求并发布修复程序",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "summary": "Anthropic 即将推出一些新的 Claude AI 功能，以帮助软件工程师交付代码。",
-      "source": "人工智能 | The Verge",
+      "title": "英国警告称，由人工智能驱动的网络攻击正在暴露多年来存在的安全漏洞",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "summary": "英国网络安全机构表示，“建立坚实的基础从未像现在这样重要”，因为人工智能黑客工具依赖于利用简单的安全漏洞。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 3,
-      "title": "Google搜索的AI模式现可利用Drive和Wallet提供更个性化的回复",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "summary": "通过将AI模式下的个人智能引入Drive、Wallet和Gemini应用，Google正在利用其生态系统中已有的丰富用户数据。",
+      "title": "Meta 将其 Muse AI 助手直接引入 Instagram 私信",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "summary": "通过新的集成功能，用户在希望与AI代理互动时，无需在Instagram和Muse应用之间来回切换。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 4,
-      "title": "Nothing即将推出的Ear Note是一款搭载AI转录功能的耳机",
-      "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "summary": "Nothing的新款人工智能设备是Ear Note，这是一套耳机及其配备麦克风的充电盒，可以录制和转录对话，并配有用于管理录音、转录……的配套应用程序。",
+      "title": "《纽约时报》警告摄影师不要更新具有人工智能功能的Photoshop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "《纽约时报》正要求自由摄影师不要使用最新版本的Adobe Photoshop，因为2027年更新中的功能以“用户可能察觉不到的方式”使用人工智能。在一封电子邮件中，该报纸表示，它正在与Adobe合作，以确保其摄影师能够使用该软件，同时避免使用人工智能功能。",
       "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 5,
-      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-      "link": "https://www.qbitai.com/2026/11/512004.html",
-      "summary": "规则很简单：研究团队搭建好共享预印本服务器和聊天室，35家人类实验室只负责提供算力、API预算和宽泛的研究方向。结果，12周下来，这近1000个agent一共在平台上发布了936篇研究论文，研究横跨机器学习、太阳物理等多个学科。",
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "link": "https://www.qbitai.com/2026/11/512354.html",
+      "summary": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
+      "title": "Anthropic股价跌破IPO价格，这对人工智能初创公司来说是一个令人担忧的信号",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic的IPO后股价暴跌可能会对人工智能初创企业的估值造成压力。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "为什么Crusoe的投资者押注于太阳能和电池为未来的人工智能数据中心供电",
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "summary": "下一代数据中心每年将需要数十吉瓦的电力。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 8,
+      "title": "亚马逊收购Decart是一次押注，旨在通过使用软件来缩小与英伟达的芯片差距",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "summary": "据报道，亚马逊以75亿美元收购Decart的决定是其提高Trainium芯片效率工作的一部分。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 9,
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "link": "https://www.qbitai.com/2026/11/512348.html",
+      "summary": "11月19日，方程豹钛9上市，售价27.99万元起，顶配折叠智舱版首搭比亚迪折叠智舱，折叠方向盘第一次从概念车走进量产车，推动驾驶空间向未来演进。早在2016年，业内就提出过折叠方向盘概念，但受机械连接限制，一直难以实现量产。2019年上海车展，比亚迪在E-SEED GT概念车上展示了可隐藏式方向盘，收进仪表台后，主驾前方完全腾空；2026年，这一构想在钛9上量产交付，前后八年。该方向盘基于比亚迪自研线控转向，支持0°至180°折叠，收纳全程约10秒。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 10,
       "title": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
       "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "summary": "您认为自己知道市场走向吗？",
@@ -58,76 +94,31 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "亚马逊以75亿美元收购Decart的AI优化技术，为销售Trainium芯片做准备",
-      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "summary": "据报道，亚马逊正以75亿美元的交易价格收购Decart的AI优化技术和研究团队。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 8,
-      "title": "随着客户体验领域对人工智能的需求激增，Sierra 的估值在六个月内翻番，达到 300 亿美元",
-      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "summary": "由Salesforce前联席首席执行官Bret Taylor共同创立的企业客户体验公司Sierra周一表示，该公司已在F轮融资中筹集了17.5亿美元。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "Notable Capital、GIC和Baillie Gifford如何在Anthropic上市前对其进行大手笔投资",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "summary": "三位重要支持者分享了是什么让他们有信心在Anthropic上押注数十亿美元。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 10,
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-      "link": "https://www.qbitai.com/2026/11/512195.html",
-      "summary": "数据显示，其月活跃用户数（MAU）一度高达2200万。破产时，在公司披露的经营困境中，核心因素之一就是算力成本。但想把大模型真正搬到手机、PC等终端，并没有那么简单。受限于设备的显存、内存带宽、存储和功耗，模型规模越大，越需要解决如何加载、如何调度，以及如何保证实际推理速度的问题。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
       "num": 11,
-      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
-      "link": "https://www.qbitai.com/2026/11/512017.html",
-      "summary": "再算上识别疾病风险的LingSante Pulse、专门给医疗AI回答做安全保镖的LingSante MedGuard…… 举个例子，比如用户说头疼，一般模型可能罗列出一堆可能的疾病（吓鼠了.GIF），但医生式思考就会先问你疼了多久、怎么个疼法，再决定下一步。",
-      "source": "量子位",
-      "lang": "zh",
+      "title": "即使是最好的 AI 代理也难以应对日常生活",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "随着数以百万计的人开始使用个人人工智能助手，一项新的基准测试表明，即使是最先进的人工智能模型，在不引入潜在新问题的情况下，也很难可靠、安全地完成日常任务……",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "人工智能驱动的技术可以帮助工程师更快、更经济地设计模拟芯片",
-      "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-      "summary": "麻省理工学院研究人员开发的一种新技术可以帮助工程师利用人工智能来简化模拟集成电路（一种执行各种功能的半导体芯片）的设计和创新……",
-      "source": "麻省理工学院新闻 - 人工智能",
-      "lang": "en",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "link": "https://www.qbitai.com/2026/11/512362.html",
+      "summary": "汽车的引擎决定单辆车的性能，道路网络和交通调度则决定整座城市的通行能力。即使车辆性能没有变化，只要优化行驶路线与交通调度，也能在现有条件下提升整个交通系统的运行效率。随着AI走进物理世界，智能摄像头、机器人、传感器、边缘计算盒等设备不断增加，算力被部署在工厂、园区等不同场景。",
+      "source": "量子位",
+      "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "特朗普支持黄仁勋重返英伟达，并表示美国没有证据证明其存在不当行为",
-      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "summary": "特朗普总统周一赞扬了Nvidia让创始人黄仁勋重任公司首席执行官兼总裁的决定，他在社交网络Truth Social上表示：“美国政府没有理由相信黄仁勋重返N…",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
-    },
-    {
-      "num": 14,
-      "title": "Nvidia 改变方针，让黄仁勋重返首席执行官职位",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "summary": "这一令人震惊的政策逆转得到了美国高级官员的支持。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "📋 政策与监管"
+      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "link": "https://www.qbitai.com/2026/11/512329.html",
+      "summary": "2026年，AI领域最显著的变化发生在交付现场：模型开始接手任务，机器人离开舞台走进产线，智能体被嵌进组织的日常流程。这些事分散在不同行业与场景里，我们却从中看到了同一条线索。12月9日，量子位主办的MEET2027智能未来大会将在北京·金茂万丽酒店举行。大会以“智行合一·驭见未来”为主题，在一整天的时间里，邀请AI领域的一线代表共同来回答：当AI从模型能力变成可交付的系统产出，是谁在把它送进真实场景，又是谁在底层为它提供支撑？",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     }
   ]
 }
