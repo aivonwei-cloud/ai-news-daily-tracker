@@ -1,56 +1,65 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:03:32.160812+08:00",
-  "total": 13,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T08:03:22.875939+08:00",
+  "total": 14,
   "articles": [
     {
       "num": 1,
-      "title": "Maple筹集530万美元，用于打造能够保护您的数据（甚至免受AI自身侵害）的AI产品",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "summary": "该初创公司的加密人工智能架构旨在防止即使是公司本身也无法访问用户的私有数据。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 2,
-      "title": "英国警告称，由人工智能驱动的网络攻击正在暴露多年来存在的安全漏洞",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "summary": "英国网络安全机构表示，“建立坚实的基础从未像现在这样重要”，因为人工智能黑客工具依赖于利用简单的安全漏洞。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "Meta 将其 Muse AI 助手直接引入 Instagram 私信",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "summary": "通过新的集成功能，用户在希望与AI代理互动时，无需在Instagram和Muse应用之间来回切换。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "《纽约时报》警告摄影师不要更新具有人工智能功能的Photoshop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "《纽约时报》正要求自由摄影师不要使用最新版本的Adobe Photoshop，因为2027年更新中的功能以“用户可能察觉不到的方式”使用人工智能。在一封电子邮件中，该报纸表示，它正在与Adobe合作，以确保其摄影师能够使用该软件，同时避免使用人工智能功能。",
+      "title": "FCC批准SpaceX的计划，拟将多达100万颗数据中心卫星送入太空",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "美国联邦通信委员会（FCC）周三发布公告称，已授权SpaceX部署多达100万颗配备人工智能芯片的卫星，作为埃隆·马斯克旗下公司“Starmind”计划的一部分。",
       "source": "人工智能 | The Verge",
       "lang": "en",
       "category": "🆕 新产品/工具"
     },
     {
+      "num": 2,
+      "title": "Nothing全面展示其AI耳机和充电盒",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "summary": "在即将于12月8日发布之前，Nothing并未透露其即将推出的AI耳机的更多细节。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "link": "https://www.qbitai.com/2026/11/512715.html",
+      "summary": "随着具身智能加速发展，机器人正从动作展示走向真实场景应用，但开发门槛高、场景适配复杂、应用能力难以复用，仍是制约机器人规模化落地的重要问题。为此，智元推出行业首个开放且完整的具身智能生态技术体系AIMA，并发布“元苼”生态发展计划，未来五年投入不低于20亿元支持生态建设。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "link": "https://www.qbitai.com/2026/11/512582.html",
+      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
       "num": 5,
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "link": "https://www.qbitai.com/2026/11/512354.html",
-      "summary": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。",
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "link": "https://www.qbitai.com/2026/11/512683.html",
+      "summary": "近⽇，逐际动⼒（LimX Dynamics）与商汤⼤装置达成合作。商汤⼤装置将依托 SenseCore平台，为逐际动⼒的机器⼈仿真、视觉策略训练和强化学习提供⾼性能、高弹性调度的算⼒服务，⽀撑复杂具⾝模型的⼤规模训练与验证，加快机器⼈运动控制与任务执⾏能⼒的迭代。逐际动力LimX Dynamics是一家全球领先的具身智能机器人主机厂，专注于通用机器人的研发、制造与商业化应用，产品涵盖全自主人形机器人LimX Oli、LimX Luna，和模块化机器人TRON系列。",
       "source": "量子位",
       "lang": "zh",
       "category": "🆕 新产品/工具"
     },
     {
       "num": 6,
-      "title": "Anthropic股价跌破IPO价格，这对人工智能初创公司来说是一个令人担忧的信号",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "link": "https://www.qbitai.com/2026/11/512515.html",
+      "summary": "再往前翻一周，同一账号还爆料Claude Code桌面版之父、被网友称为「Claude版Tibo」的Anthony Morris，也已经加盟OpenAI。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "💰 投融资事件"
+    },
+    {
+      "num": 7,
+      "title": "Anthropic股价跌破IPO价格，这对人工智能初创企业来说是一个令人担忧的信号",
       "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "summary": "Anthropic的IPO后股价暴跌可能会对人工智能初创企业的估值造成压力。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -58,8 +67,8 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 7,
-      "title": "为什么Crusoe的投资者押注于太阳能和电池为未来的人工智能数据中心供电",
+      "num": 8,
+      "title": "为什么Crusoe的投资者押注于太阳能和电池为未来的人工智能数据中心供电？",
       "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
       "summary": "下一代数据中心每年将需要数十吉瓦的电力。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -67,58 +76,58 @@
       "category": "💰 投融资事件"
     },
     {
-      "num": 8,
-      "title": "亚马逊收购Decart是一次押注，旨在通过使用软件来缩小与英伟达的芯片差距",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "summary": "据报道，亚马逊以75亿美元收购Decart的决定是其提高Trainium芯片效率工作的一部分。",
+      "num": 9,
+      "title": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能更快达到使用上限。",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI 将在整个 ChatGPT 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "link": "https://www.qbitai.com/2026/11/512348.html",
-      "summary": "11月19日，方程豹钛9上市，售价27.99万元起，顶配折叠智舱版首搭比亚迪折叠智舱，折叠方向盘第一次从概念车走进量产车，推动驾驶空间向未来演进。早在2016年，业内就提出过折叠方向盘概念，但受机械连接限制，一直难以实现量产。2019年上海车展，比亚迪在E-SEED GT概念车上展示了可隐藏式方向盘，收进仪表台后，主驾前方完全腾空；2026年，这一构想在钛9上量产交付，前后八年。该方向盘基于比亚迪自研线控转向，支持0°至180°折叠，收纳全程约10秒。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 10,
-      "title": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "summary": "您认为自己知道市场走向吗？",
+      "title": "Anthropic的Dario Amodei称，将人类控制权拱手让给人工智能的指控“荒谬”",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary": "Anthropic首席执行官Dario Amodei反驳了竞争对手的指控，即他倾向于将人类的自主权拱手让给人工智能，即使是领先的人工智能公司也在日益实现其自身的研究和模型开发的自动化……",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 11,
-      "title": "即使是最好的 AI 代理也难以应对日常生活",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "summary": "随着数以百万计的人开始使用个人人工智能助手，一项新的基准测试表明，即使是最先进的人工智能模型，在不引入潜在新问题的情况下，也很难可靠、安全地完成日常任务……",
+      "title": "想在这个圣诞节给孩子买一个人工智能玩具吗？不在纽约",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "summary": "纽约已禁止AI聊天机器人玩具五年，因为Common Sense Media的新研究揭示了令人担忧的安全缺陷，包括接触不当内容和对情感发展的风险……",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 12,
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "link": "https://www.qbitai.com/2026/11/512362.html",
-      "summary": "汽车的引擎决定单辆车的性能，道路网络和交通调度则决定整座城市的通行能力。即使车辆性能没有变化，只要优化行驶路线与交通调度，也能在现有条件下提升整个交通系统的运行效率。随着AI走进物理世界，智能摄像头、机器人、传感器、边缘计算盒等设备不断增加，算力被部署在工厂、园区等不同场景。",
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "link": "https://www.qbitai.com/2026/11/512565.html",
+      "summary": "OpenAI Astra依靠循环深度刷新基准榜单；智谱GLM-5.4把Loop Transformer搬进国产旗舰基座，7500亿参数实现对标2到3万亿参数模型的效果，循环迭代一夜之间从学术概念变成了行业共识。大多数讨论都顺着海外大厂的脉络复盘技术演进，却很少留意，其实早有国内初创团队先把这条路线跑通了完整闭环。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
     },
     {
       "num": 13,
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "link": "https://www.qbitai.com/2026/11/512329.html",
-      "summary": "2026年，AI领域最显著的变化发生在交付现场：模型开始接手任务，机器人离开舞台走进产线，智能体被嵌进组织的日常流程。这些事分散在不同行业与场景里，我们却从中看到了同一条线索。12月9日，量子位主办的MEET2027智能未来大会将在北京·金茂万丽酒店举行。大会以“智行合一·驭见未来”为主题，在一整天的时间里，邀请AI领域的一线代表共同来回答：当AI从模型能力变成可交付的系统产出，是谁在把它送进真实场景，又是谁在底层为它提供支撑？",
+      "title": "Anthropic还藏着2个最强模型…",
+      "link": "https://www.qbitai.com/2026/11/512538.html",
+      "summary": "据AI行业观察者Chris爆料，Anthropic目前内部还有两款更强的模型，未来半年能力可能迎来一轮大跃升。「这次进步幅度可能远远超过此前GPT-5.3到GPT-6、Claude Opus 4.5到Fable 5.2的飞跃。",
       "source": "量子位",
       "lang": "zh",
       "category": "🔬 技术突破/模型"
+    },
+    {
+      "num": 14,
+      "title": "Character.AI拍卖用户私人聊天的计划受到州总检察长的质疑",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "summary": "拟议的Character.ai破产拍卖包括来自超过2100万美国用户的敏感个人数据。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "📋 政策与监管"
     }
   ]
 }
