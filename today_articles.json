@@ -1,11 +1,47 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:03:22.875939+08:00",
-  "total": 14,
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T08:02:29.732843+08:00",
+  "total": 12,
   "articles": [
     {
       "num": 1,
-      "title": "FCC批准SpaceX的计划，拟将多达100万颗数据中心卫星送入太空",
+      "title": "《侠盗猎车手6》证明了效率为何不是一种美德",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "在Anthropic上市的同一天，一款精心打造的拟人化视频游戏成为了有史以来最成功的娱乐产品之一。",
+      "source": "人工智能新闻与人工智能 | TechCrunch",
+      "lang": "en",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 2,
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "link": "https://www.qbitai.com/2026/11/512981.html",
+      "summary": "这位在“地狱级”群像雕塑里稳住阵脚的专业选手，就是VAST刚发布的新一代高精度AI 3D基座模型Tripo H3.5 Preview。相比上一代H3.1，H3.5 Preview在复杂结构还原、精细几何生成、输入输出对齐，以及不可见部位的合理推断等方面均有显著提升。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 3,
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "link": "https://www.qbitai.com/2026/11/512916.html",
+      "summary": "在权威评测机构Artificial Analysis的图生视频榜单里，生成这条视频的模型冲到了全球榜一。如你所见，它也made in China，系视频初创公司Sand.ai刚发布的480B视频模型MAGI-2。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 4,
+      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "link": "https://www.qbitai.com/2026/11/512828.html",
+      "summary": "今年的视频大模型和视频Agent工具迭代神速，开始真正走进影视工业的生产流程，曾经令人出戏的「恐怖谷」效应逐渐消退。在此基础上，微短剧市场的发展尤为惊人。据国家广电数据，2026年前10个月，全国已上线近55万部微短剧，是2025年全年的近17倍，且其中超过94%都是AI剧。据预测，AI微短剧2026年预估市场规模已达到400亿元。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🆕 新产品/工具"
+    },
+    {
+      "num": 5,
+      "title": "FCC批准SpaceX的计划，将多达100万颗数据中心卫星送入太空",
       "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "summary": "美国联邦通信委员会（FCC）周三发布公告称，已授权SpaceX部署多达100万颗配备人工智能芯片的卫星，作为埃隆·马斯克旗下公司“Starmind”计划的一部分。",
       "source": "人工智能 | The Verge",
@@ -13,71 +49,26 @@
       "category": "🆕 新产品/工具"
     },
     {
-      "num": 2,
-      "title": "Nothing全面展示其AI耳机和充电盒",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "summary": "在即将于12月8日发布之前，Nothing并未透露其即将推出的AI耳机的更多细节。",
-      "source": "人工智能 | The Verge",
-      "lang": "en",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 3,
-      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-      "link": "https://www.qbitai.com/2026/11/512715.html",
-      "summary": "随着具身智能加速发展，机器人正从动作展示走向真实场景应用，但开发门槛高、场景适配复杂、应用能力难以复用，仍是制约机器人规模化落地的重要问题。为此，智元推出行业首个开放且完整的具身智能生态技术体系AIMA，并发布“元苼”生态发展计划，未来五年投入不低于20亿元支持生态建设。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 4,
-      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-      "link": "https://www.qbitai.com/2026/11/512582.html",
-      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
-      "num": 5,
-      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
-      "link": "https://www.qbitai.com/2026/11/512683.html",
-      "summary": "近⽇，逐际动⼒（LimX Dynamics）与商汤⼤装置达成合作。商汤⼤装置将依托 SenseCore平台，为逐际动⼒的机器⼈仿真、视觉策略训练和强化学习提供⾼性能、高弹性调度的算⼒服务，⽀撑复杂具⾝模型的⼤规模训练与验证，加快机器⼈运动控制与任务执⾏能⼒的迭代。逐际动力LimX Dynamics是一家全球领先的具身智能机器人主机厂，专注于通用机器人的研发、制造与商业化应用，产品涵盖全自主人形机器人LimX Oli、LimX Luna，和模块化机器人TRON系列。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🆕 新产品/工具"
-    },
-    {
       "num": 6,
-      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
-      "link": "https://www.qbitai.com/2026/11/512515.html",
-      "summary": "再往前翻一周，同一账号还爆料Claude Code桌面版之父、被网友称为「Claude版Tibo」的Anthony Morris，也已经加盟OpenAI。",
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "link": "https://www.qbitai.com/2026/11/512897.html",
+      "summary": "为了让这个车载伙伴具备自主决策和行动的能力，蔚来彻底重构了其底层架构，引入超千亿参数的大模型，打通整车数千项能力。在他看来，每一辆智能电动汽车都具备感知、决策、执行的完整能力，而具身智能机器人想要达到今天汽车产业的规模，还需要很长时间。",
       "source": "量子位",
       "lang": "zh",
-      "category": "💰 投融资事件"
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 7,
-      "title": "Anthropic股价跌破IPO价格，这对人工智能初创企业来说是一个令人担忧的信号",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "summary": "Anthropic的IPO后股价暴跌可能会对人工智能初创企业的估值造成压力。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "link": "https://www.qbitai.com/2026/11/512840.html",
+      "summary": "IDEA研究院创院理事长、美国国家工程院外籍院士沈向洋说，近一年来，AI在数学、编程和视频生成领域的突破，给他带来了巨大的冲击。世界是重叠的。全球约10亿人用过大模型，约2000万人在数学、编程等领域使用过大模型，而真正了解前沿AI有多强大的人，可能只有5000人。",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "🔬 技术突破/模型"
     },
     {
       "num": 8,
-      "title": "为什么Crusoe的投资者押注于太阳能和电池为未来的人工智能数据中心供电？",
-      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "summary": "下一代数据中心每年将需要数十吉瓦的电力。",
-      "source": "人工智能新闻与人工智能 | TechCrunch",
-      "lang": "en",
-      "category": "💰 投融资事件"
-    },
-    {
-      "num": 9,
-      "title": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能更快达到使用上限。",
+      "title": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能会更快达到使用上限。",
       "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "summary": "OpenAI 将在整个 ChatGPT 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起。",
       "source": "人工智能新闻与人工智能 | TechCrunch",
@@ -85,7 +76,7 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 10,
+      "num": 9,
       "title": "Anthropic的Dario Amodei称，将人类控制权拱手让给人工智能的指控“荒谬”",
       "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "summary": "Anthropic首席执行官Dario Amodei反驳了竞争对手的指控，即他倾向于将人类的自主权拱手让给人工智能，即使是领先的人工智能公司也在日益实现其自身的研究和模型开发的自动化……",
@@ -94,34 +85,25 @@
       "category": "🔬 技术突破/模型"
     },
     {
-      "num": 11,
+      "num": 10,
       "title": "想在这个圣诞节给孩子买一个人工智能玩具吗？不在纽约",
       "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "summary": "纽约已禁止AI聊天机器人玩具五年，因为Common Sense Media的新研究揭示了令人担忧的安全缺陷，包括接触不当内容和对情感发展的风险……",
+      "summary": "纽约已禁止使用人工智能聊天机器人玩具五年，因为Common Sense Media的新研究揭示了令人担忧的安全缺陷，包括接触不当内容和对情感发展的风险……",
       "source": "人工智能新闻与人工智能 | TechCrunch",
       "lang": "en",
       "category": "🔬 技术突破/模型"
     },
     {
+      "num": 11,
+      "title": "42个州的总检察长正试图阻止Character.AI出售用户的聊天记录",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "42个州的总检察长组成联盟，正试图阻止Character.AI在进行第11章破产程序期间出售用户数据。",
+      "source": "人工智能 | The Verge",
+      "lang": "en",
+      "category": "📋 政策与监管"
+    },
+    {
       "num": 12,
-      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
-      "link": "https://www.qbitai.com/2026/11/512565.html",
-      "summary": "OpenAI Astra依靠循环深度刷新基准榜单；智谱GLM-5.4把Loop Transformer搬进国产旗舰基座，7500亿参数实现对标2到3万亿参数模型的效果，循环迭代一夜之间从学术概念变成了行业共识。大多数讨论都顺着海外大厂的脉络复盘技术演进，却很少留意，其实早有国内初创团队先把这条路线跑通了完整闭环。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 13,
-      "title": "Anthropic还藏着2个最强模型…",
-      "link": "https://www.qbitai.com/2026/11/512538.html",
-      "summary": "据AI行业观察者Chris爆料，Anthropic目前内部还有两款更强的模型，未来半年能力可能迎来一轮大跃升。「这次进步幅度可能远远超过此前GPT-5.3到GPT-6、Claude Opus 4.5到Fable 5.2的飞跃。",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "🔬 技术突破/模型"
-    },
-    {
-      "num": 14,
       "title": "Character.AI拍卖用户私人聊天的计划受到州总检察长的质疑",
       "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "summary": "拟议的Character.ai破产拍卖包括来自超过2100万美国用户的敏感个人数据。",
